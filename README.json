@@ -1222,9 +1222,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:52:53.991Z",
+    "last_updated": "2026-08-15T22:51:10.162Z",
     "original_repository": "nikolaydubina/go-recipes",
-    "original_repository_sha": "d06e5eb884611c419fc8da65ca54dec1f2d0360b",
+    "original_repository_sha": "1eccc3251461bbf52852d6b8949dd77b973fa7e2",
     "enhanced_repository": "enhansome/enhansome-go-recipes",
     "enhanced_repository_description": null,
     "title": "Awesome go recipes with stars"
