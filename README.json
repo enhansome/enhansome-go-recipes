@@ -11,7 +11,7 @@
       "title": "⏫ Continuous Tests Monitoring with codecov.io"
     },
     {
-      "description": "Visualize distribution of code coverage in your project. This helps to identify code areas with high and low coverage. Useful when you have large project with lots of files and packages. This 2D \"image-hash\" of your project should be more representative than a single number. Also available at https://go-cover-treemap.io. — @nikolaydubina\nRequirements",
+      "description": "Visualize distribution of code coverage in your project. This helps to identify code areas with high and low coverage. Useful when you have large project with lots of files and packages. This 2D \"image-hash\" of your project should be more representative than a single number. Also available at https://nikolaydubina.github.io/go-cover-treemap/. — @nikolaydubina\nRequirements",
       "items": [],
       "title": "⏫ Make treemap of coverage with go-cover-treemap"
     },
@@ -1222,9 +1222,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:52:39.377Z",
+    "last_updated": "2026-08-18T22:53:40.287Z",
     "original_repository": "nikolaydubina/go-recipes",
-    "original_repository_sha": "1eccc3251461bbf52852d6b8949dd77b973fa7e2",
+    "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
     "enhanced_repository": "enhansome/enhansome-go-recipes",
     "enhanced_repository_description": null,
     "title": "Awesome go recipes with stars"
