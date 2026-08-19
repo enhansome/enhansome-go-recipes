@@ -434,7 +434,7 @@ A CLI tool and GitHub Action to post Go code coverage reports as a comment on yo
 
 This is a useful basic technique that should be more widely known (just like bisect). Read more in the blog post. — [@rsc](https://github.com/rsc)
 
-### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,014 | 🐛 124 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,014 | 🐛 122 | 🌐 Go | 📅 2026-08-19
 
 Kubernetes test-infra contains a couple of useful granular tools to manipulate coverage profiles. — [@kubernetes](https://github.com/kubernetes)
 
@@ -501,7 +501,7 @@ go test -list . | grep Fuzz | xargs -P 8 -I {} go test -fuzz {} -fuzztime 5s .
 
 This project provides a setup for fuzzing Go binaries using LibAFL. By leveraging Go native libFuzzer-compatible instrumentation (`sancov_8bit`), we enable advanced fuzzing capabilities beyond Go built-in fuzzing support. — [@srlabs](https://github.com/srlabs)
 
-### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,259 | 🐛 23 | 🌐 Go | 📅 2026-06-02
+### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,259 | 🐛 24 | 🌐 Go | 📅 2026-06-02
 
 Instrument your test cases with verification call. Alternatively, you can add single call in `TestMain`. This tool was recommended by Pyroscope in [blog](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Uber
 
@@ -737,7 +737,7 @@ Requirements
 https://stedolan.github.io/jq/download/
 ```
 
-### [⏫](#contents) Perform Mutation Testing with [ooze](https://github.com/gtramontina/ooze) ⭐ 284 | 🐛 8 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) Perform Mutation Testing with [ooze](https://github.com/gtramontina/ooze) ⭐ 284 | 🐛 6 | 🌐 Go | 📅 2026-08-19
 
 Mutation testing is a technique used to assess the quality and coverage of test suites. It involves introducing controlled changes to the code base, simulating common programming mistakes. These changes are, then, put to test against the test suites. A failing test suite is a good sign. It indicates that the tests are identifying mutations in the code—it "killed the mutant". If all tests pass, we have a surviving mutant. This highlights an area with weak coverage. It is an opportunity for improvement. — [@gtramontina](https://github.com/gtramontina)
 
@@ -753,7 +753,7 @@ Requirements
 go get github.com/gtramontina/ooze
 ```
 
-### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting](https://github.com/avito-tech/go-mutesting) ⭐ 258 | 🐛 25 | 🌐 Go | 📅 2026-01-12
+### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting](https://github.com/avito-tech/go-mutesting) ⭐ 259 | 🐛 25 | 🌐 Go | 📅 2026-01-12
 
 This is fork of [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) ⭐ 673 | 🐛 43 | 🌐 Go | 📅 2024-07-04. It has more mutators and latest updates. — [@vasiliyyudin](https://github.com/vasiliyyudin)
 
@@ -1390,7 +1390,7 @@ go install github.com/fe3dback/go-arch-lint@latest
 
 ### [⏫](#contents) Run `go:generate` in parallel
 
-Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 135,892 | 🐛 10,218 | 🌐 Go | 📅 2026-08-18 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
+Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 135,901 | 🐛 10,236 | 🌐 Go | 📅 2026-08-19 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
 
 ```
 grep -rnw "go:generate" -E -l "${1:-*.go}" . | xargs -L1 dirname | sort -u | xargs -P 8 -I{} go generate {}
@@ -1484,7 +1484,7 @@ Requirements
 go install github.com/zarldev/goenums@latest
 ```
 
-### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 804 | 🐛 77 | 🌐 Go | 📅 2026-08-17
+### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 804 | 🐛 77 | 🌐 Go | 📅 2026-08-19
 
 JSON Schema is a widely used standard for the definition of structured data types. This tool will generate a Go struct, decoder, and validation based on the JSON Schema spec. — [@omissis](https://github.com/omissis)
 
@@ -1616,7 +1616,7 @@ This tool generates basic test placeholder. It is included into official Go plug
 
 <div align="center"><img src="https://github.com/cweill/GoTests-Sublime/raw/master/gotests.gif" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,397 | 🐛 111 | 🌐 Go | 📅 2026-08-09
+### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,397 | 🐛 112 | 🌐 Go | 📅 2026-08-09
 
 This mocking framework integrates well with Go's built-in `testing` package, but can be used in other contexts too. — Go Core team, Uber
 
@@ -1832,7 +1832,7 @@ Requirements
 go install github.com/rjeczalik/interfaces/cmd/structer@latest
 ```
 
-### [⏫](#contents) Generate decorator for interface with [gowrap](https://github.com/hexdigest/gowrap) ⭐ 1,334 | 🐛 21 | 🌐 Go | 📅 2026-07-24
+### [⏫](#contents) Generate decorator for interface with [gowrap](https://github.com/hexdigest/gowrap) ⭐ 1,335 | 🐛 21 | 🌐 Go | 📅 2026-07-24
 
 GoWrap is a command line tool that generates decorators for Go interface types using simple templates. With GoWrap you can easily add metrics, tracing, fallbacks, pools, and many other features into your existing code in a few seconds. — [@hexdigest](https://github.com/hexdigest)
 
@@ -1860,7 +1860,7 @@ Requirements
 go install github.com/fatih/gomodifytags@latest
 ```
 
-### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,521 | 🐛 310 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,522 | 🐛 312 | 🌐 Go | 📅 2026-08-18
 
 Generate Go client and server boilerplate from OpenAPI 3 specifications. — [@deepmap](https://github.com/deepmap)
 
@@ -1901,7 +1901,7 @@ var (
 
 ### [⏫](#contents) Replace symbol with `gofmt`
 
-I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 135,892 | 🐛 10,218 | 🌐 Go | 📅 2026-08-18 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
+I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 135,901 | 🐛 10,236 | 🌐 Go | 📅 2026-08-19 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
 
 ```
 gofmt -w -r 'interface{} -> any' .
@@ -2296,7 +2296,7 @@ When import path is using custom domain, it is possible to block code from compi
 package pdf // import "rsc.io/pdf"
 ```
 
-### [⏫](#contents) Manage multiple Go versions with [Goenv](https://github.com/Norwik/Goenv) ⭐ 36 | 🐛 14 | 🌐 Go | 📅 2026-08-15
+### [⏫](#contents) Manage multiple Go versions with [Goenv](https://github.com/Norwik/Goenv) ⭐ 36 | 🐛 14 | 🌐 Go | 📅 2026-08-19
 
 This tool makes it easier for managing multiple Go versions on same host. This works through intercepting Go commands and directing them to the right Go version bin and directory. Official Go [documentation](https://go.dev/doc/manage-install) on this topic. — [@clivern](https://github.com/clivern)
 
@@ -2424,7 +2424,7 @@ Check what does Go compiler do. Might be useful if you trying to optimize some c
 
 <div align="center"><img src="https://github.com/golang-design/ssaplayground/blob/main/public/assets/screen.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) View Go assembly interactively with [lensm](https://github.com/loov/lensm) ⭐ 3,691 | 🐛 7 | 🌐 Go | 📅 2026-07-06
+### [⏫](#contents) View Go assembly interactively with [lensm](https://github.com/loov/lensm) ⭐ 3,690 | 🐛 7 | 🌐 Go | 📅 2026-07-06
 
 Understand how Go is compiled better. — [@egonelbre](https://github.com/egonelbre)
 
@@ -2693,7 +2693,7 @@ reverse proxy server to https://play.golang.org
 bloging platform with support for embedding javascript
 ```
 
-### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,486 | 🐛 6 | 🌐 Go | 📅 2026-08-11
+### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,486 | 🐛 5 | 🌐 Go | 📅 2026-08-19
 
 Improved Go Playground featuring dark theme, code autocomplete, vim mode, WebAssembly. Available at <https://goplay.tools/>. — [@x1unix](https://github.com/x1unix)
 
@@ -2719,7 +2719,7 @@ go install github.com/gopherdata/gophernotes@v0.7.5
 # more instructions on how to install Jupyter Notebook Go kernel in original repo
 ```
 
-### [⏫](#contents) Run interactive Go interpreter with [yaegi](https://github.com/traefik/yaegi) ⭐ 8,368 | 🐛 184 | 🌐 Go | 📅 2026-02-09
+### [⏫](#contents) Run interactive Go interpreter with [yaegi](https://github.com/traefik/yaegi) ⭐ 8,370 | 🐛 184 | 🌐 Go | 📅 2026-02-09
 
 This interpreter works with 3rd party packages located in `$GOPATH/src`. It can also be triggered within Go programmatically via `Eval()`. Works everywhere Go works. — [@traefik](https://github.com/traefik)
 
@@ -2977,7 +2977,7 @@ Requirements
 go install github.com/bcicen/grmon@latest
 ```
 
-### [⏫](#contents) Monitor Go processes with [gops](https://github.com/google/gops) ⭐ 7,015 | 🐛 34 | 🌐 Go | 📅 2026-07-16
+### [⏫](#contents) Monitor Go processes with [gops](https://github.com/google/gops) ⭐ 7,016 | 🐛 34 | 🌐 Go | 📅 2026-07-16
 
 Monitoring memory of Go processes, forcing GC, getting version of Go of processes. — Google
 
@@ -3062,7 +3062,7 @@ Requirements
 go install github.com/hedhyw/otelinji/cmd/otelinji@latest
 ```
 
-### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 621 | 🐛 21 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 621 | 🐛 21 | 🌐 Go | 📅 2026-08-19
 
 This is official Datadog tool for automatic instrumentation of code. It has very convenient compiler directives for instrumentation. — [@DataDog](https://github.com/DataDog)
 
@@ -3082,7 +3082,7 @@ Requirements
 go install github.com/datadog/orchestrion@latest
 ```
 
-### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,629 | 🐛 392 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,630 | 🐛 395 | 🌐 Go | 📅 2026-08-19
 
 This tool allows to ingest profiling data from your application. You would need to add integration in your main file that will sample in-process data and send it to Pyroscope. Here are useful resources [blog-go-memory-leaks](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Grafana Labs
 
@@ -3718,7 +3718,7 @@ Vulnerability #1: GO-2023-1571
           - go install golang.org/x/vuln/cmd/govulncheck@latest
 ```
 
-### [⏫](#contents) Detect escalated privileges in dependencies with [capslock](https://github.com/google/capslock) ⭐ 1,172 | 🐛 16 | 🌐 Go | 📅 2026-07-28
+### [⏫](#contents) Detect escalated privileges in dependencies with [capslock](https://github.com/google/capslock) ⭐ 1,173 | 🐛 16 | 🌐 Go | 📅 2026-07-28
 
 Capslock is a capability analysis CLI for Go packages that informs users of which privileged operations a given package can access. This works by classifying the capabilities of Go packages by following transitive calls to privileged standard library operations. The recent increase in supply chain attacks targeting open source software has highlighted that third party dependencies should not be inherently trusted. Capabilities indicate what permissions a package has access to, and can be used in conjunction with other security signals to indicate which code requires additional scrutiny before it can be considered trusted. — Google
 
@@ -3886,7 +3886,7 @@ Requirements
 go install honnef.co/go/tools/cmd/staticcheck@latest
 ```
 
-### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,541 | 🐛 83 | 🌐 Go | 📅 2026-08-18
+### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,541 | 🐛 84 | 🌐 Go | 📅 2026-08-18
 
 Highly configurable linter with strict presets for code review. It contains 100+ rules. [revive.run](https://revive.run/). — [@mgechev](https://github.com/mgechev)
 
@@ -4379,7 +4379,7 @@ Requirements
 go install github.com/nikolaydubina/vertfn@latest
 ```
 
-### [⏫](#contents) Detect vertical symbol ordering with [refdir](https://github.com/devnev/refdir) ⭐ 7 | 🐛 2 | 🌐 Go | 📅 2025-03-14
+### [⏫](#contents) Detect vertical symbol ordering with [refdir](https://github.com/devnev/refdir) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2025-03-14
 
 This tool goes beyond just vertical ordering of function declarations, it also tracks many other types of symbols. — [@devnev](https://github.com/devnev)
 
@@ -4748,7 +4748,7 @@ Requirements
 go install github.com/esimonov/ifshort@latest
 ```
 
-### [⏫](#contents) Detect sub-optimal struct layout with [betteralign](https://github.com/dkorunic/betteralign) ⭐ 1,076 | 🐛 0 | 🌐 Go | 📅 2026-08-14
+### [⏫](#contents) Detect sub-optimal struct layout with [betteralign](https://github.com/dkorunic/betteralign) ⭐ 1,077 | 🐛 0 | 🌐 Go | 📅 2026-08-14
 
 This tool detect structs that would use less memory if their fields were sorted and optionally sort such fields. — [@dkorunic](https://github.com/dkorunic)
 
@@ -4849,4 +4849,4 @@ go install github.com/nikolaydubina/go-callsite-stats@latest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
