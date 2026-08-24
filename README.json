@@ -146,7 +146,7 @@
             "archived": false,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-24T12:52:59Z",
+            "last_commit": "2026-08-24T21:03:02Z",
             "owner": "kubernetes",
             "repo": "test-infra",
             "stars": 4017
@@ -269,7 +269,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2710
+            "stars": 2711
           },
           "title": "⏫ Decorate with gotestsum"
         },
@@ -299,7 +299,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2710
+            "stars": 2711
           },
           "title": "⏫ Get slowest tests with gotestsum"
         },
@@ -314,7 +314,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2710
+            "stars": 2711
           },
           "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum"
         },
@@ -329,7 +329,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2710
+            "stars": 2711
           },
           "title": "⏫ Automatically re-run failed tests with gotestsum"
         },
@@ -344,7 +344,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2710
+            "stars": 2711
           },
           "title": "⏫ Make test report with gotestsum"
         },
@@ -371,7 +371,7 @@
             "archived": false,
             "id": 570722499,
             "language": "Go",
-            "last_commit": "2026-08-24T13:57:09Z",
+            "last_commit": "2026-08-24T21:26:45Z",
             "owner": "gtramontina",
             "repo": "ooze",
             "stars": 284
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-21T17:30:36Z",
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 538
+            "stars": 539
           },
           "title": "⏫ Enforce Go code architecture with go-arch-lint"
         },
@@ -746,7 +746,7 @@
             "last_commit": "2026-08-21T17:30:36Z",
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 538
+            "stars": 539
           },
           "title": "⏫ Make D2 graph of architecture and dependencies with go-arch-lint graph"
         }
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-08-04T23:52:26Z",
             "owner": "gokrazy",
             "repo": "gokrazy",
-            "stars": 3479
+            "stars": 3480
           },
           "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy"
         },
@@ -1571,7 +1571,7 @@
             "archived": false,
             "id": 287403351,
             "language": "Go",
-            "last_commit": "2026-08-10T21:08:01Z",
+            "last_commit": "2026-08-24T21:08:02Z",
             "owner": "arl",
             "repo": "statsviz",
             "stars": 3645
@@ -1616,7 +1616,7 @@
             "archived": false,
             "id": 608346290,
             "language": "Go",
-            "last_commit": "2026-08-24T06:06:57Z",
+            "last_commit": "2026-08-24T16:12:02Z",
             "owner": "DataDog",
             "repo": "orchestrion",
             "stars": 622
@@ -1631,10 +1631,10 @@
             "archived": false,
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-24T10:09:21Z",
+            "last_commit": "2026-08-24T22:27:06Z",
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11636
+            "stars": 11637
           },
           "title": "⏫ Continuous Profiling with Pyroscope"
         }
@@ -1904,7 +1904,7 @@
             "archived": false,
             "id": 342718439,
             "language": "Go",
-            "last_commit": "2026-08-24T10:26:30Z",
+            "last_commit": "2026-08-24T18:53:55Z",
             "owner": "microsoft",
             "repo": "go",
             "stars": 431
@@ -1925,10 +1925,10 @@
             "archived": false,
             "id": 79954708,
             "language": "Go",
-            "last_commit": "2026-08-24T12:28:30Z",
+            "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6855
+            "stars": 6856
           },
           "title": "⏫ Detect most common issues with staticcheck"
         },
@@ -1943,7 +1943,7 @@
             "last_commit": "2026-08-21T16:58:02Z",
             "owner": "mgechev",
             "repo": "revive",
-            "stars": 5542
+            "stars": 5543
           },
           "title": "⏫ Detect common style, performance, and naming issues with revive"
         },
@@ -2000,7 +2000,7 @@
             "archived": false,
             "id": 471459709,
             "language": "Go",
-            "last_commit": "2026-08-24T13:49:24Z",
+            "last_commit": "2026-08-24T14:57:33Z",
             "owner": "GaijinEntertainment",
             "repo": "go-exhaustruct",
             "stars": 205
@@ -2390,10 +2390,10 @@
             "archived": false,
             "id": 79954708,
             "language": "Go",
-            "last_commit": "2026-08-24T12:28:30Z",
+            "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6855
+            "stars": 6856
           },
           "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize"
         },
@@ -2405,10 +2405,10 @@
             "archived": false,
             "id": 79954708,
             "language": "Go",
-            "last_commit": "2026-08-24T12:28:30Z",
+            "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6855
+            "stars": 6856
           },
           "title": "⏫ Visualize struct layout with structlayout"
         },
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:52.545Z",
+    "last_updated": "2026-08-24T22:55:39.105Z",
     "original_repository": "nikolaydubina/go-recipes",
     "original_repository_id": 380501914,
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
