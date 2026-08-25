@@ -146,10 +146,10 @@
             "archived": false,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-24T21:03:02Z",
+            "last_commit": "2026-08-25T20:09:37Z",
             "owner": "kubernetes",
             "repo": "test-infra",
-            "stars": 4017
+            "stars": 4018
           },
           "title": "⏫ :gift: Manipulate coverage profiles with gopherage"
         },
@@ -164,7 +164,7 @@
             "last_commit": "2026-02-19T13:54:52Z",
             "owner": "srlabs",
             "repo": "golibafl",
-            "stars": 73
+            "stars": 74
           },
           "title": "⏫ :gift: Fuzz Go binaries using LibAFL with GoLibAFL"
         },
@@ -179,7 +179,7 @@
             "last_commit": "2026-06-02T15:54:04Z",
             "owner": "uber-go",
             "repo": "goleak",
-            "stars": 5261
+            "stars": 5263
           },
           "title": "⏫ Detect goroutine leaks with goleak"
         },
@@ -269,7 +269,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2711
+            "stars": 2712
           },
           "title": "⏫ Decorate with gotestsum"
         },
@@ -299,7 +299,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2711
+            "stars": 2712
           },
           "title": "⏫ Get slowest tests with gotestsum"
         },
@@ -314,7 +314,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2711
+            "stars": 2712
           },
           "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum"
         },
@@ -329,7 +329,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2711
+            "stars": 2712
           },
           "title": "⏫ Automatically re-run failed tests with gotestsum"
         },
@@ -344,7 +344,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2711
+            "stars": 2712
           },
           "title": "⏫ Make test report with gotestsum"
         },
@@ -371,7 +371,7 @@
             "archived": false,
             "id": 570722499,
             "language": "Go",
-            "last_commit": "2026-08-25T05:03:45Z",
+            "last_commit": "2026-08-25T22:45:48Z",
             "owner": "gtramontina",
             "repo": "ooze",
             "stars": 284
@@ -389,7 +389,7 @@
             "last_commit": "2026-01-12T13:48:14Z",
             "owner": "avito-tech",
             "repo": "go-mutesting",
-            "stars": 259
+            "stars": 260
           },
           "title": "⏫ Perform Mutation Testing with avito-tech/go-mutesting"
         },
@@ -500,7 +500,7 @@
             "last_commit": "2026-07-09T18:03:15Z",
             "owner": "google",
             "repo": "go-licenses",
-            "stars": 1011
+            "stars": 1012
           },
           "title": "⏫ Scrape licenses of upstream dependencies with go-licenses"
         },
@@ -512,7 +512,7 @@
             "archived": false,
             "id": 150718780,
             "language": "Go",
-            "last_commit": "2026-08-23T09:22:26Z",
+            "last_commit": "2026-08-25T11:26:54Z",
             "owner": "loov",
             "repo": "goda",
             "stars": 1723
@@ -641,7 +641,7 @@
             "last_commit": "2026-03-30T16:22:18Z",
             "owner": "ondrajz",
             "repo": "go-callvis",
-            "stars": 6507
+            "stars": 6508
           },
           "title": "⏫ Make graph of function calls in package with go-callvis"
         },
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-09T19:05:21Z",
             "owner": "uber-go",
             "repo": "mock",
-            "stars": 3398
+            "stars": 3399
           },
           "title": "⏫ Generate mocks with mockgen"
         },
@@ -932,7 +932,7 @@
             "last_commit": "2025-04-23T14:27:48Z",
             "owner": "fatih",
             "repo": "gomodifytags",
-            "stars": 2391
+            "stars": 2392
           },
           "title": "⏫ Modify struct field tags with gomodifytags"
         },
@@ -944,10 +944,10 @@
             "archived": false,
             "id": 173009358,
             "language": "Go",
-            "last_commit": "2026-08-21T13:12:57Z",
+            "last_commit": "2026-08-25T20:57:43Z",
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8533
+            "stars": 8535
           },
           "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen"
         },
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-08-04T23:52:26Z",
             "owner": "gokrazy",
             "repo": "gokrazy",
-            "stars": 3480
+            "stars": 3481
           },
           "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy"
         },
@@ -1151,7 +1151,7 @@
             "last_commit": "2026-08-15T18:19:38Z",
             "owner": "nikolaydubina",
             "repo": "go-binsize-treemap",
-            "stars": 587
+            "stars": 588
           },
           "title": "⏫ Make treemap breakdown of Go executable binary with go-binsize-treemap"
         },
@@ -1289,7 +1289,7 @@
             "archived": false,
             "id": 509987354,
             "language": "Go",
-            "last_commit": "2026-08-23T14:45:27Z",
+            "last_commit": "2026-08-25T06:47:06Z",
             "owner": "loov",
             "repo": "lensm",
             "stars": 3690
@@ -1508,7 +1508,7 @@
             "last_commit": "2022-11-12T05:04:37Z",
             "owner": "divan",
             "repo": "gotrace",
-            "stars": 1980
+            "stars": 1979
           },
           "title": "⏫ Create 3D visualization of concurrency traces with gotrace"
         }
@@ -1634,7 +1634,7 @@
             "last_commit": "2026-08-24T23:48:13Z",
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11637
+            "stars": 11639
           },
           "title": "⏫ Continuous Profiling with Pyroscope"
         }
@@ -1730,7 +1730,7 @@
             "last_commit": "2025-12-15T14:55:51Z",
             "owner": "dominikh",
             "repo": "gotraceui",
-            "stars": 1407
+            "stars": 1408
           },
           "title": "⏫ View traces with gotraceui"
         },
@@ -1859,7 +1859,7 @@
             "archived": false,
             "id": 670375499,
             "language": "Go",
-            "last_commit": "2026-07-28T03:13:23Z",
+            "last_commit": "2026-08-25T14:05:02Z",
             "owner": "google",
             "repo": "capslock",
             "stars": 1173
@@ -1874,7 +1874,7 @@
             "archived": false,
             "id": 63625434,
             "language": "Go",
-            "last_commit": "2026-08-24T13:56:26Z",
+            "last_commit": "2026-08-25T08:37:38Z",
             "owner": "securego",
             "repo": "gosec",
             "stars": 8931
@@ -1904,10 +1904,10 @@
             "archived": false,
             "id": 342718439,
             "language": "Go",
-            "last_commit": "2026-08-24T18:53:55Z",
+            "last_commit": "2026-08-25T10:35:41Z",
             "owner": "microsoft",
             "repo": "go",
-            "stars": 431
+            "stars": 430
           },
           "title": "⏫ Use Microsoft Go compiler with microsoft/go"
         }
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6856
+            "stars": 6857
           },
           "title": "⏫ Detect most common issues with staticcheck"
         },
@@ -1943,7 +1943,7 @@
             "last_commit": "2026-08-21T16:58:02Z",
             "owner": "mgechev",
             "repo": "revive",
-            "stars": 5544
+            "stars": 5545
           },
           "title": "⏫ Detect common style, performance, and naming issues with revive"
         },
@@ -1958,7 +1958,7 @@
             "last_commit": "2026-08-20T21:54:36Z",
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3898
+            "stars": 3899
           },
           "title": "⏫ Detect potential Nil panics with nilaway"
         },
@@ -2000,7 +2000,7 @@
             "archived": false,
             "id": 471459709,
             "language": "Go",
-            "last_commit": "2026-08-24T14:57:33Z",
+            "last_commit": "2026-08-25T13:44:57Z",
             "owner": "GaijinEntertainment",
             "repo": "go-exhaustruct",
             "stars": 205
@@ -2378,7 +2378,7 @@
             "last_commit": "2026-08-21T10:01:24Z",
             "owner": "dkorunic",
             "repo": "betteralign",
-            "stars": 1077
+            "stars": 1078
           },
           "title": "⏫ Detect sub-optimal struct layout with betteralign"
         },
@@ -2393,7 +2393,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6856
+            "stars": 6857
           },
           "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize"
         },
@@ -2408,7 +2408,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6856
+            "stars": 6857
           },
           "title": "⏫ Visualize struct layout with structlayout"
         },
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:50.688Z",
+    "last_updated": "2026-08-25T22:57:33.418Z",
     "original_repository": "nikolaydubina/go-recipes",
     "original_repository_id": 380501914,
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
