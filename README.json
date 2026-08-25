@@ -371,7 +371,7 @@
             "archived": false,
             "id": 570722499,
             "language": "Go",
-            "last_commit": "2026-08-24T21:26:45Z",
+            "last_commit": "2026-08-25T05:03:45Z",
             "owner": "gtramontina",
             "repo": "ooze",
             "stars": 284
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-03-16T05:09:49Z",
             "owner": "daixiang0",
             "repo": "gci",
-            "stars": 573
+            "stars": 574
           },
           "title": "⏫ Keep consistent ordering of imports with gci"
         },
@@ -1136,7 +1136,7 @@
             "last_commit": "2026-08-24T01:00:03Z",
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2167
+            "stars": 2168
           },
           "title": "⏫ Visualise dependencies size in compiled binaries with go-size-analyzer"
         },
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-08-01T06:20:51Z",
             "owner": "mmcloughlin",
             "repo": "avo",
-            "stars": 2987
+            "stars": 2988
           },
           "title": "⏫ Generate Go assembly in Go with avo"
         },
@@ -1448,7 +1448,7 @@
             "last_commit": "2026-02-09T08:56:05Z",
             "owner": "traefik",
             "repo": "yaegi",
-            "stars": 8377
+            "stars": 8378
           },
           "title": "⏫ Run interactive Go interpreter with yaegi"
         },
@@ -1463,7 +1463,7 @@
             "last_commit": "2026-08-02T09:49:13Z",
             "owner": "cosmos72",
             "repo": "gomacro",
-            "stars": 2295
+            "stars": 2296
           },
           "title": "⏫ Run interactive Go interpreter with gomacro"
         },
@@ -1631,7 +1631,7 @@
             "archived": false,
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-24T22:27:06Z",
+            "last_commit": "2026-08-24T23:48:13Z",
             "owner": "grafana",
             "repo": "pyroscope",
             "stars": 11637
@@ -1877,7 +1877,7 @@
             "last_commit": "2026-08-24T13:56:26Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8930
+            "stars": 8931
           },
           "title": "⏫ Run static analysis with gosec"
         },
@@ -1943,7 +1943,7 @@
             "last_commit": "2026-08-21T16:58:02Z",
             "owner": "mgechev",
             "repo": "revive",
-            "stars": 5543
+            "stars": 5544
           },
           "title": "⏫ Detect common style, performance, and naming issues with revive"
         },
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:55:39.105Z",
+    "last_updated": "2026-08-25T05:48:50.688Z",
     "original_repository": "nikolaydubina/go-recipes",
     "original_repository_id": 380501914,
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
