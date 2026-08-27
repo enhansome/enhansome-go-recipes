@@ -146,10 +146,10 @@
             "archived": false,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-26T21:25:49Z",
+            "last_commit": "2026-08-27T10:51:47Z",
             "owner": "kubernetes",
             "repo": "test-infra",
-            "stars": 4018
+            "stars": 4017
           },
           "title": "⏫ :gift: Manipulate coverage profiles with gopherage"
         },
@@ -401,7 +401,7 @@
             "archived": false,
             "id": 1238659541,
             "language": "Go",
-            "last_commit": "2026-08-26T19:22:38Z",
+            "last_commit": "2026-08-27T09:54:56Z",
             "owner": "jonbaldie",
             "repo": "go-mutesting",
             "stars": 4
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-25T23:59:55Z",
             "owner": "uber-go",
             "repo": "mock",
-            "stars": 3399
+            "stars": 3400
           },
           "title": "⏫ Generate mocks with mockgen"
         },
@@ -947,7 +947,7 @@
             "last_commit": "2026-08-26T21:51:17Z",
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8534
+            "stars": 8537
           },
           "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen"
         },
@@ -1382,7 +1382,7 @@
             "last_commit": "2021-11-27T14:34:32Z",
             "owner": "minio",
             "repo": "c2goasm",
-            "stars": 1348
+            "stars": 1349
           },
           "title": "⏫ Convert C assembly to Go assembly with c2goasm"
         }
@@ -1463,7 +1463,7 @@
             "last_commit": "2026-08-02T09:49:13Z",
             "owner": "cosmos72",
             "repo": "gomacro",
-            "stars": 2297
+            "stars": 2298
           },
           "title": "⏫ Run interactive Go interpreter with gomacro"
         },
@@ -1631,7 +1631,7 @@
             "archived": false,
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-27T03:01:34Z",
+            "last_commit": "2026-08-27T11:11:24Z",
             "owner": "grafana",
             "repo": "pyroscope",
             "stars": 11641
@@ -1877,7 +1877,7 @@
             "last_commit": "2026-08-26T09:57:23Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8933
+            "stars": 8934
           },
           "title": "⏫ Run static analysis with gosec"
         },
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6860
+            "stars": 6862
           },
           "title": "⏫ Detect most common issues with staticcheck"
         },
@@ -2078,7 +2078,7 @@
             "last_commit": "2026-02-15T00:17:35Z",
             "owner": "leighmcculloch",
             "repo": "gochecknoglobals",
-            "stars": 135
+            "stars": 136
           },
           "title": "⏫ Detect global variables with gochecknoglobals"
         },
@@ -2318,7 +2318,7 @@
             "last_commit": "2025-12-27T21:31:09Z",
             "owner": "fzipp",
             "repo": "gocyclo",
-            "stars": 1598
+            "stars": 1599
           },
           "title": "⏫ Calculate Cyclomatic Complexity with gocyclo"
         },
@@ -2393,7 +2393,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6860
+            "stars": 6862
           },
           "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize"
         },
@@ -2408,7 +2408,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6860
+            "stars": 6862
           },
           "title": "⏫ Visualize struct layout with structlayout"
         },
@@ -2432,9 +2432,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:30:36.249Z",
-    "original_repository": "nikolaydubina/go-recipes",
-    "original_repository_id": 380501914,
+    "last_updated": "2026-08-27T11:41:51.804Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 380501914,
+      "language": "Go",
+      "last_commit": "2026-08-18T10:17:25Z",
+      "owner": "nikolaydubina",
+      "repo": "go-recipes",
+      "stars": 4500
+    },
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
     "enhanced_repository": "enhansome/enhansome-go-recipes",
     "enhanced_repository_description": null,
