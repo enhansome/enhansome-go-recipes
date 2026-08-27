@@ -119,7 +119,7 @@
             "last_commit": "2026-08-24T04:10:09Z",
             "owner": "vladopajic",
             "repo": "go-test-coverage",
-            "stars": 238
+            "stars": 239
           },
           "title": "⏫ Detect drops in coverage with go-test-coverage"
         },
@@ -146,7 +146,7 @@
             "archived": false,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-25T20:09:37Z",
+            "last_commit": "2026-08-26T21:25:49Z",
             "owner": "kubernetes",
             "repo": "test-infra",
             "stars": 4018
@@ -269,7 +269,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2712
+            "stars": 2713
           },
           "title": "⏫ Decorate with gotestsum"
         },
@@ -299,7 +299,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2712
+            "stars": 2713
           },
           "title": "⏫ Get slowest tests with gotestsum"
         },
@@ -314,7 +314,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2712
+            "stars": 2713
           },
           "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum"
         },
@@ -329,7 +329,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2712
+            "stars": 2713
           },
           "title": "⏫ Automatically re-run failed tests with gotestsum"
         },
@@ -344,7 +344,7 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2712
+            "stars": 2713
           },
           "title": "⏫ Make test report with gotestsum"
         },
@@ -371,10 +371,10 @@
             "archived": false,
             "id": 570722499,
             "language": "Go",
-            "last_commit": "2026-08-25T22:45:48Z",
+            "last_commit": "2026-08-27T01:21:45Z",
             "owner": "gtramontina",
             "repo": "ooze",
-            "stars": 284
+            "stars": 286
           },
           "title": "⏫ Perform Mutation Testing with ooze"
         },
@@ -401,7 +401,7 @@
             "archived": false,
             "id": 1238659541,
             "language": "Go",
-            "last_commit": "2026-08-20T12:57:47Z",
+            "last_commit": "2026-08-26T19:22:38Z",
             "owner": "jonbaldie",
             "repo": "go-mutesting",
             "stars": 4
@@ -452,7 +452,7 @@
             "archived": false,
             "id": 714810413,
             "language": "Go",
-            "last_commit": "2026-08-19T20:13:14Z",
+            "last_commit": "2026-08-27T00:59:18Z",
             "owner": "nieomylnieja",
             "repo": "go-libyear",
             "stars": 42
@@ -515,7 +515,7 @@
             "last_commit": "2026-08-25T11:26:54Z",
             "owner": "loov",
             "repo": "goda",
-            "stars": 1723
+            "stars": 1725
           },
           "title": "⏫ Explore dependencies with goda"
         },
@@ -605,7 +605,7 @@
             "last_commit": "2021-11-08T16:18:42Z",
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
-            "stars": 984
+            "stars": 985
           },
           "title": "⏫ Check Clean Architecture with go-cleanarch"
         }
@@ -656,7 +656,7 @@
             "last_commit": "2025-10-16T20:24:01Z",
             "owner": "jfeliu007",
             "repo": "goplantuml",
-            "stars": 2089
+            "stars": 2088
           },
           "title": "⏫ Make PlantUML diagram with goplantuml"
         },
@@ -794,7 +794,7 @@
             "archived": false,
             "id": 150624828,
             "language": "Go",
-            "last_commit": "2026-08-24T03:06:34Z",
+            "last_commit": "2026-08-26T17:14:44Z",
             "owner": "omissis",
             "repo": "go-jsonschema",
             "stars": 802
@@ -827,7 +827,7 @@
             "last_commit": "2025-10-30T18:15:01Z",
             "owner": "cweill",
             "repo": "gotests",
-            "stars": 5331
+            "stars": 5330
           },
           "title": "⏫ Generate Table Driven Tests with gotests"
         },
@@ -839,7 +839,7 @@
             "archived": false,
             "id": 635979215,
             "language": "Go",
-            "last_commit": "2026-08-09T19:05:21Z",
+            "last_commit": "2026-08-25T23:59:55Z",
             "owner": "uber-go",
             "repo": "mock",
             "stars": 3399
@@ -917,7 +917,7 @@
             "last_commit": "2026-07-24T19:56:44Z",
             "owner": "hexdigest",
             "repo": "gowrap",
-            "stars": 1335
+            "stars": 1336
           },
           "title": "⏫ Generate decorator for interface with gowrap"
         },
@@ -944,10 +944,10 @@
             "archived": false,
             "id": 173009358,
             "language": "Go",
-            "last_commit": "2026-08-25T20:57:43Z",
+            "last_commit": "2026-08-26T21:51:17Z",
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8535
+            "stars": 8534
           },
           "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen"
         },
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-08-04T23:52:26Z",
             "owner": "gokrazy",
             "repo": "gokrazy",
-            "stars": 3481
+            "stars": 3482
           },
           "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy"
         },
@@ -1136,7 +1136,7 @@
             "last_commit": "2026-08-24T01:00:03Z",
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2168
+            "stars": 2169
           },
           "title": "⏫ Visualise dependencies size in compiled binaries with go-size-analyzer"
         },
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-08-01T06:20:51Z",
             "owner": "mmcloughlin",
             "repo": "avo",
-            "stars": 2988
+            "stars": 2989
           },
           "title": "⏫ Generate Go assembly in Go with avo"
         },
@@ -1463,7 +1463,7 @@
             "last_commit": "2026-08-02T09:49:13Z",
             "owner": "cosmos72",
             "repo": "gomacro",
-            "stars": 2296
+            "stars": 2297
           },
           "title": "⏫ Run interactive Go interpreter with gomacro"
         },
@@ -1631,10 +1631,10 @@
             "archived": false,
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-24T23:48:13Z",
+            "last_commit": "2026-08-27T03:01:34Z",
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11639
+            "stars": 11641
           },
           "title": "⏫ Continuous Profiling with Pyroscope"
         }
@@ -1859,10 +1859,10 @@
             "archived": false,
             "id": 670375499,
             "language": "Go",
-            "last_commit": "2026-08-25T14:05:02Z",
+            "last_commit": "2026-08-26T05:54:55Z",
             "owner": "google",
             "repo": "capslock",
-            "stars": 1173
+            "stars": 1176
           },
           "title": "⏫ Detect escalated privileges in dependencies with capslock"
         },
@@ -1874,10 +1874,10 @@
             "archived": false,
             "id": 63625434,
             "language": "Go",
-            "last_commit": "2026-08-25T08:37:38Z",
+            "last_commit": "2026-08-26T09:57:23Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8931
+            "stars": 8933
           },
           "title": "⏫ Run static analysis with gosec"
         },
@@ -1904,7 +1904,7 @@
             "archived": false,
             "id": 342718439,
             "language": "Go",
-            "last_commit": "2026-08-25T10:35:41Z",
+            "last_commit": "2026-08-26T16:12:50Z",
             "owner": "microsoft",
             "repo": "go",
             "stars": 430
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6857
+            "stars": 6860
           },
           "title": "⏫ Detect most common issues with staticcheck"
         },
@@ -1940,10 +1940,10 @@
             "archived": false,
             "id": 96237042,
             "language": "Go",
-            "last_commit": "2026-08-21T16:58:02Z",
+            "last_commit": "2026-08-26T16:30:01Z",
             "owner": "mgechev",
             "repo": "revive",
-            "stars": 5545
+            "stars": 5547
           },
           "title": "⏫ Detect common style, performance, and naming issues with revive"
         },
@@ -1958,7 +1958,7 @@
             "last_commit": "2026-08-20T21:54:36Z",
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3899
+            "stars": 3900
           },
           "title": "⏫ Detect potential Nil panics with nilaway"
         },
@@ -1973,7 +1973,7 @@
             "last_commit": "2026-06-26T20:18:06Z",
             "owner": "go-critic",
             "repo": "go-critic",
-            "stars": 2064
+            "stars": 2066
           },
           "title": "⏫ Detect most common issues with go-critic"
         },
@@ -2000,7 +2000,7 @@
             "archived": false,
             "id": 471459709,
             "language": "Go",
-            "last_commit": "2026-08-25T13:44:57Z",
+            "last_commit": "2026-08-26T21:09:43Z",
             "owner": "GaijinEntertainment",
             "repo": "go-exhaustruct",
             "stars": 205
@@ -2318,7 +2318,7 @@
             "last_commit": "2025-12-27T21:31:09Z",
             "owner": "fzipp",
             "repo": "gocyclo",
-            "stars": 1596
+            "stars": 1598
           },
           "title": "⏫ Calculate Cyclomatic Complexity with gocyclo"
         },
@@ -2393,7 +2393,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6857
+            "stars": 6860
           },
           "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize"
         },
@@ -2408,7 +2408,7 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6857
+            "stars": 6860
           },
           "title": "⏫ Visualize struct layout with structlayout"
         },
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:57:33.418Z",
+    "last_updated": "2026-08-27T03:30:36.249Z",
     "original_repository": "nikolaydubina/go-recipes",
     "original_repository_id": 380501914,
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
