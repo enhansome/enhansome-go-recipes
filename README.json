@@ -16,7 +16,8 @@
             "repo": "go-cover-treemap",
             "stars": 597
           },
-          "title": "⏫ Make treemap of coverage with go-cover-treemap"
+          "title": "⏫ Make treemap of coverage with go-cover-treemap",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "gocov-html",
             "stars": 229
           },
-          "title": "⏫ Browse coverage with gocov-html"
+          "title": "⏫ Browse coverage with gocov-html",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "xgo",
             "stars": 431
           },
-          "title": "⏫ Browse coverage with xgo"
+          "title": "⏫ Browse coverage with xgo",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "gocovsh",
             "stars": 387
           },
-          "title": "⏫ Browse coverage in terminal with gocovsh"
+          "title": "⏫ Browse coverage in terminal with gocovsh",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "cover",
             "stars": 8
           },
-          "title": "⏫ Pretty print coverage in terminal with nikandfor/cover"
+          "title": "⏫ Pretty print coverage in terminal with nikandfor/cover",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "goc",
             "stars": 874
           },
-          "title": "⏫ Run coverage collector server with goc"
+          "title": "⏫ Run coverage collector server with goc",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "goc",
             "stars": 874
           },
-          "title": "⏫ Visualize live coverage in VSCode with goc"
+          "title": "⏫ Visualize live coverage in VSCode with goc",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "go-test-coverage",
             "stars": 239
           },
-          "title": "⏫ Detect drops in coverage with go-test-coverage"
+          "title": "⏫ Detect drops in coverage with go-test-coverage",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "go-coverage-report",
             "stars": 126
           },
-          "title": "⏫ :gift: Comment code coverage reports in pull request with go-coverage-report"
+          "title": "⏫ :gift: Comment code coverage reports in pull request with go-coverage-report",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -146,12 +155,13 @@
             "archived": false,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-27T10:51:47Z",
+            "last_commit": "2026-08-27T22:03:46Z",
             "owner": "kubernetes",
             "repo": "test-infra",
             "stars": 4017
           },
-          "title": "⏫ :gift: Manipulate coverage profiles with gopherage"
+          "title": "⏫ :gift: Manipulate coverage profiles with gopherage",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "golibafl",
             "stars": 74
           },
-          "title": "⏫ :gift: Fuzz Go binaries using LibAFL with GoLibAFL"
+          "title": "⏫ :gift: Fuzz Go binaries using LibAFL with GoLibAFL",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -176,12 +187,13 @@
             "archived": false,
             "id": 109330128,
             "language": "Go",
-            "last_commit": "2026-06-02T15:54:04Z",
+            "last_commit": "2026-08-27T20:13:42Z",
             "owner": "uber-go",
             "repo": "goleak",
-            "stars": 5263
+            "stars": 5262
           },
-          "title": "⏫ Detect goroutine leaks with goleak"
+          "title": "⏫ Detect goroutine leaks with goleak",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -196,7 +208,8 @@
             "repo": "leaktest",
             "stars": 1044
           },
-          "title": "⏫ Detect goroutine leaks with leaktest"
+          "title": "⏫ Detect goroutine leaks with leaktest",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "vgt",
             "stars": 362
           },
-          "title": "⏫ Visualize test runs with vgt"
+          "title": "⏫ Visualize test runs with vgt",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -226,7 +240,8 @@
             "repo": "tparse",
             "stars": 1261
           },
-          "title": "⏫ Summarize with tparse"
+          "title": "⏫ Summarize with tparse",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "richgo",
             "stars": 859
           },
-          "title": "⏫ Decorate with richgo"
+          "title": "⏫ Decorate with richgo",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -256,7 +272,8 @@
             "repo": "gotest",
             "stars": 1399
           },
-          "title": "⏫ Decorate with gotest"
+          "title": "⏫ Decorate with gotest",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -269,9 +286,10 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2713
+            "stars": 2714
           },
-          "title": "⏫ Decorate with gotestsum"
+          "title": "⏫ Decorate with gotestsum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -284,9 +302,10 @@
             "last_commit": "2026-07-22T10:08:16Z",
             "owner": "bitfield",
             "repo": "gotestdox",
-            "stars": 202
+            "stars": 203
           },
-          "title": "⏫ Format results as documentation with gotestdox"
+          "title": "⏫ Format results as documentation with gotestdox",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -299,9 +318,10 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2713
+            "stars": 2714
           },
-          "title": "⏫ Get slowest tests with gotestsum"
+          "title": "⏫ Get slowest tests with gotestsum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -314,9 +334,10 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2713
+            "stars": 2714
           },
-          "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum"
+          "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -329,9 +350,10 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2713
+            "stars": 2714
           },
-          "title": "⏫ Automatically re-run failed tests with gotestsum"
+          "title": "⏫ Automatically re-run failed tests with gotestsum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -344,9 +366,10 @@
             "last_commit": "2026-04-15T00:47:43Z",
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2713
+            "stars": 2714
           },
-          "title": "⏫ Make test report with gotestsum"
+          "title": "⏫ Make test report with gotestsum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -361,7 +384,8 @@
             "repo": "go-junit-report",
             "stars": 823
           },
-          "title": "⏫ Make test report with go-junit-report"
+          "title": "⏫ Make test report with go-junit-report",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -376,7 +400,8 @@
             "repo": "ooze",
             "stars": 286
           },
-          "title": "⏫ Perform Mutation Testing with ooze"
+          "title": "⏫ Perform Mutation Testing with ooze",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -391,7 +416,8 @@
             "repo": "go-mutesting",
             "stars": 260
           },
-          "title": "⏫ Perform Mutation Testing with avito-tech/go-mutesting"
+          "title": "⏫ Perform Mutation Testing with avito-tech/go-mutesting",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -401,12 +427,13 @@
             "archived": false,
             "id": 1238659541,
             "language": "Go",
-            "last_commit": "2026-08-27T09:54:56Z",
+            "last_commit": "2026-08-27T16:19:23Z",
             "owner": "jonbaldie",
             "repo": "go-mutesting",
             "stars": 4
           },
-          "title": "⏫ :gift: Perform Mutation Testing with jonbaldie/go-mutesting"
+          "title": "⏫ :gift: Perform Mutation Testing with jonbaldie/go-mutesting",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -421,7 +448,8 @@
             "repo": "go-mutesting",
             "stars": 673
           },
-          "title": "⏫ Perform Mutation Testing with go-mutesting"
+          "title": "⏫ Perform Mutation Testing with go-mutesting",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -436,7 +464,8 @@
             "repo": "go-test-trace",
             "stars": 390
           },
-          "title": "⏫ Trace tests with go-test-trace"
+          "title": "⏫ Trace tests with go-test-trace",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Test"
@@ -452,12 +481,13 @@
             "archived": false,
             "id": 714810413,
             "language": "Go",
-            "last_commit": "2026-08-27T00:59:18Z",
+            "last_commit": "2026-08-28T02:27:24Z",
             "owner": "nieomylnieja",
             "repo": "go-libyear",
             "stars": 42
           },
-          "title": "⏫ Get go module libyear, number of releases, version delta with go-libyear"
+          "title": "⏫ Get go module libyear, number of releases, version delta with go-libyear",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -472,7 +502,8 @@
             "repo": "import-graph",
             "stars": 42
           },
-          "title": "⏫ Make graph of upstream packages with import-graph"
+          "title": "⏫ Make graph of upstream packages with import-graph",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -487,7 +518,8 @@
             "repo": "import-graph",
             "stars": 42
           },
-          "title": "⏫ Scrape details about upstream modules and make graph with import-graph"
+          "title": "⏫ Scrape details about upstream modules and make graph with import-graph",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -502,7 +534,8 @@
             "repo": "go-licenses",
             "stars": 1012
           },
-          "title": "⏫ Scrape licenses of upstream dependencies with go-licenses"
+          "title": "⏫ Scrape licenses of upstream dependencies with go-licenses",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -517,7 +550,8 @@
             "repo": "goda",
             "stars": 1725
           },
-          "title": "⏫ Explore dependencies with goda"
+          "title": "⏫ Explore dependencies with goda",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -532,7 +566,8 @@
             "repo": "spaghetti",
             "stars": 766
           },
-          "title": "⏫ Explore dependencies interactively with spaghetti"
+          "title": "⏫ Explore dependencies interactively with spaghetti",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -547,7 +582,8 @@
             "repo": "modview",
             "stars": 226
           },
-          "title": "⏫ Explore dependencies graph interactively with modview"
+          "title": "⏫ Explore dependencies graph interactively with modview",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -562,7 +598,8 @@
             "repo": "depth",
             "stars": 1083
           },
-          "title": "⏫ Explore dependencies graph in CLI with depth"
+          "title": "⏫ Explore dependencies graph in CLI with depth",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -577,7 +614,8 @@
             "repo": "goggles",
             "stars": 662
           },
-          "title": "⏫ Explore your with GUI with goggles"
+          "title": "⏫ Explore your with GUI with goggles",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -592,7 +630,8 @@
             "repo": "go-arch-lint",
             "stars": 539
           },
-          "title": "⏫ Enforce Go code architecture with go-arch-lint"
+          "title": "⏫ Enforce Go code architecture with go-arch-lint",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -607,7 +646,8 @@
             "repo": "go-cleanarch",
             "stars": 985
           },
-          "title": "⏫ Check Clean Architecture with go-cleanarch"
+          "title": "⏫ Check Clean Architecture with go-cleanarch",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Dependencies"
@@ -628,7 +668,8 @@
             "repo": "go-structurizr",
             "stars": 366
           },
-          "title": "⏫ Make C4 diagram with go-structurizr"
+          "title": "⏫ Make C4 diagram with go-structurizr",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -643,7 +684,8 @@
             "repo": "go-callvis",
             "stars": 6508
           },
-          "title": "⏫ Make graph of function calls in package with go-callvis"
+          "title": "⏫ Make graph of function calls in package with go-callvis",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -658,7 +700,8 @@
             "repo": "goplantuml",
             "stars": 2088
           },
-          "title": "⏫ Make PlantUML diagram with goplantuml"
+          "title": "⏫ Make PlantUML diagram with goplantuml",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -673,7 +716,8 @@
             "repo": "go-plantuml",
             "stars": 411
           },
-          "title": "⏫ Make PlantUML diagram with go-plantuml"
+          "title": "⏫ Make PlantUML diagram with go-plantuml",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -688,7 +732,8 @@
             "repo": "dep-tree",
             "stars": 1723
           },
-          "title": "⏫ Visualize the entropy of a code base with a 3D force-directed graph with dep-tree"
+          "title": "⏫ Visualize the entropy of a code base with a 3D force-directed graph with dep-tree",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -703,7 +748,8 @@
             "repo": "gocity",
             "stars": 1808
           },
-          "title": "⏫ Make 3D chart of Go codebase with gocity"
+          "title": "⏫ Make 3D chart of Go codebase with gocity",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -718,7 +764,8 @@
             "repo": "pythia",
             "stars": 336
           },
-          "title": "⏫ Explore Go code in browser powered by with pythia"
+          "title": "⏫ Explore Go code in browser powered by with pythia",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -733,7 +780,8 @@
             "repo": "goexplorer",
             "stars": 178
           },
-          "title": "⏫ Interactively visualize packages with goexplorer"
+          "title": "⏫ Interactively visualize packages with goexplorer",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -748,7 +796,8 @@
             "repo": "go-arch-lint",
             "stars": 539
           },
-          "title": "⏫ Make D2 graph of architecture and dependencies with go-arch-lint graph"
+          "title": "⏫ Make D2 graph of architecture and dependencies with go-arch-lint graph",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Code Visualization"
@@ -769,7 +818,8 @@
             "repo": "go-enum-encoding",
             "stars": 16
           },
-          "title": "⏫ Generate enums encoding with go-enum-encoding"
+          "title": "⏫ Generate enums encoding with go-enum-encoding",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -784,7 +834,8 @@
             "repo": "goenums",
             "stars": 374
           },
-          "title": "⏫ Generate enums with goenums"
+          "title": "⏫ Generate enums with goenums",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -794,12 +845,13 @@
             "archived": false,
             "id": 150624828,
             "language": "Go",
-            "last_commit": "2026-08-26T17:14:44Z",
+            "last_commit": "2026-08-27T23:56:56Z",
             "owner": "omissis",
             "repo": "go-jsonschema",
             "stars": 802
           },
-          "title": "⏫ Generate data types from JSON Schema with go-jsonschema"
+          "title": "⏫ Generate data types from JSON Schema with go-jsonschema",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -814,7 +866,8 @@
             "repo": "gonstructor",
             "stars": 94
           },
-          "title": "⏫ Generate constructor for a struct with gonstructor"
+          "title": "⏫ Generate constructor for a struct with gonstructor",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -829,7 +882,8 @@
             "repo": "gotests",
             "stars": 5330
           },
-          "title": "⏫ Generate Table Driven Tests with gotests"
+          "title": "⏫ Generate Table Driven Tests with gotests",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -842,9 +896,10 @@
             "last_commit": "2026-08-25T23:59:55Z",
             "owner": "uber-go",
             "repo": "mock",
-            "stars": 3400
+            "stars": 3401
           },
-          "title": "⏫ Generate mocks with mockgen"
+          "title": "⏫ Generate mocks with mockgen",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -859,7 +914,8 @@
             "repo": "ifacemaker",
             "stars": 355
           },
-          "title": "⏫ Generate interface for a struct with ifacemaker"
+          "title": "⏫ Generate interface for a struct with ifacemaker",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -874,7 +930,8 @@
             "repo": "interfaces",
             "stars": 431
           },
-          "title": "⏫ Generate interface for a struct with interfacer"
+          "title": "⏫ Generate interface for a struct with interfacer",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -889,7 +946,8 @@
             "repo": "struct2interface",
             "stars": 20
           },
-          "title": "⏫ Generate interface for a struct with struct2interface"
+          "title": "⏫ Generate interface for a struct with struct2interface",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -904,7 +962,8 @@
             "repo": "interfaces",
             "stars": 431
           },
-          "title": "⏫ Generate interface for file with structer"
+          "title": "⏫ Generate interface for file with structer",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -919,7 +978,8 @@
             "repo": "gowrap",
             "stars": 1336
           },
-          "title": "⏫ Generate decorator for interface with gowrap"
+          "title": "⏫ Generate decorator for interface with gowrap",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -934,7 +994,8 @@
             "repo": "gomodifytags",
             "stars": 2392
           },
-          "title": "⏫ Modify struct field tags with gomodifytags"
+          "title": "⏫ Modify struct field tags with gomodifytags",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -944,12 +1005,13 @@
             "archived": false,
             "id": 173009358,
             "language": "Go",
-            "last_commit": "2026-08-26T21:51:17Z",
+            "last_commit": "2026-08-28T00:52:30Z",
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8537
+            "stars": 8544
           },
-          "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen"
+          "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -964,7 +1026,8 @@
             "repo": "c-for-go",
             "stars": 1682
           },
-          "title": "⏫ Generate C-Go Bindings with c-for-go"
+          "title": "⏫ Generate C-Go Bindings with c-for-go",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Code Generation"
@@ -985,7 +1048,8 @@
             "repo": "enum",
             "stars": 462
           },
-          "title": "⏫ Enum via generics with enum"
+          "title": "⏫ Enum via generics with enum",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Generics"
@@ -1006,7 +1070,8 @@
             "repo": "gopatch",
             "stars": 1039
           },
-          "title": "⏫ Apply refactoring patches with gopatch"
+          "title": "⏫ Apply refactoring patches with gopatch",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1021,7 +1086,8 @@
             "repo": "gci",
             "stars": 574
           },
-          "title": "⏫ Keep consistent ordering of imports with gci"
+          "title": "⏫ Keep consistent ordering of imports with gci",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1036,7 +1102,8 @@
             "repo": "goimportx",
             "stars": 10
           },
-          "title": "⏫ Keep consistent ordering of imports with goimportx"
+          "title": "⏫ Keep consistent ordering of imports with goimportx",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Refactor"
@@ -1057,7 +1124,8 @@
             "repo": "errtrace",
             "stars": 824
           },
-          "title": "⏫ Errors with return traces with errtrace"
+          "title": "⏫ Errors with return traces with errtrace",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1072,7 +1140,8 @@
             "repo": "tracerr",
             "stars": 1120
           },
-          "title": "⏫ Errors with stack traces and source fragments with tracerr"
+          "title": "⏫ Errors with stack traces and source fragments with tracerr",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1087,7 +1156,8 @@
             "repo": "panicparse",
             "stars": 3709
           },
-          "title": "⏫ Pretty print messages with panicparse"
+          "title": "⏫ Pretty print messages with panicparse",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1102,7 +1172,8 @@
             "repo": "zederr",
             "stars": 5
           },
-          "title": "⏫ :gift: Generate errors from a spec with zederr"
+          "title": "⏫ :gift: Generate errors from a spec with zederr",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Errors"
@@ -1123,7 +1194,8 @@
             "repo": "gokrazy",
             "stars": 3482
           },
-          "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy"
+          "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1133,12 +1205,13 @@
             "archived": false,
             "id": 609147387,
             "language": "Go",
-            "last_commit": "2026-08-24T01:00:03Z",
+            "last_commit": "2026-08-27T22:06:22Z",
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
             "stars": 2169
           },
-          "title": "⏫ Visualise dependencies size in compiled binaries with go-size-analyzer"
+          "title": "⏫ Visualise dependencies size in compiled binaries with go-size-analyzer",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1153,7 +1226,8 @@
             "repo": "go-binsize-treemap",
             "stars": 588
           },
-          "title": "⏫ Make treemap breakdown of Go executable binary with go-binsize-treemap"
+          "title": "⏫ Make treemap breakdown of Go executable binary with go-binsize-treemap",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1168,7 +1242,8 @@
             "repo": "govanityurls",
             "stars": 543
           },
-          "title": "⏫ Custom import path with govanityurls"
+          "title": "⏫ Custom import path with govanityurls",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1183,7 +1258,8 @@
             "repo": "sally",
             "stars": 347
           },
-          "title": "⏫ Custom import path with sally"
+          "title": "⏫ Custom import path with sally",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1198,7 +1274,8 @@
             "repo": "Goenv",
             "stars": 36
           },
-          "title": "⏫ Manage multiple Go versions with Goenv"
+          "title": "⏫ Manage multiple Go versions with Goenv",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1213,7 +1290,8 @@
             "repo": "cxgo",
             "stars": 396
           },
-          "title": "⏫ Transpile C to Go with cxgo"
+          "title": "⏫ Transpile C to Go with cxgo",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1228,7 +1306,8 @@
             "repo": "gopherjs",
             "stars": 13181
           },
-          "title": "⏫ Transpile Go to Javascript with gopherjs"
+          "title": "⏫ Transpile Go to Javascript with gopherjs",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1243,7 +1322,8 @@
             "repo": "prep",
             "stars": 499
           },
-          "title": "⏫ Run compile-time function evaluation with prep"
+          "title": "⏫ Run compile-time function evaluation with prep",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1258,7 +1338,8 @@
             "repo": "brewkit",
             "stars": 28
           },
-          "title": "⏫ :gift: Containerize your builds with brewkit"
+          "title": "⏫ :gift: Containerize your builds with brewkit",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Build"
@@ -1279,7 +1360,8 @@
             "repo": "ssaplayground",
             "stars": 81
           },
-          "title": "⏫ Get Go SSA intermediary representation with ssaplayground"
+          "title": "⏫ Get Go SSA intermediary representation with ssaplayground",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1294,7 +1376,8 @@
             "repo": "lensm",
             "stars": 3690
           },
-          "title": "⏫ View Go assembly interactively with lensm"
+          "title": "⏫ View Go assembly interactively with lensm",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1309,7 +1392,8 @@
             "repo": "pat",
             "stars": 11
           },
-          "title": "⏫ View Go assembly with color annotation with pat/disfunc"
+          "title": "⏫ View Go assembly with color annotation with pat/disfunc",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1324,7 +1408,8 @@
             "repo": "avo",
             "stars": 2989
           },
-          "title": "⏫ Generate Go assembly in Go with avo"
+          "title": "⏫ Generate Go assembly in Go with avo",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1339,7 +1424,8 @@
             "repo": "go2ast",
             "stars": 124
           },
-          "title": "⏫ Generate AST for code snippets with go2ast"
+          "title": "⏫ Generate AST for code snippets with go2ast",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1354,7 +1440,8 @@
             "repo": "go-ssaviz",
             "stars": 50
           },
-          "title": "⏫ Visualize Go SSA function using Graphviz with go-ssaviz"
+          "title": "⏫ Visualize Go SSA function using Graphviz with go-ssaviz",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1369,7 +1456,8 @@
             "repo": "ast_graph",
             "stars": 20
           },
-          "title": "⏫ Make graph of AST with astgraph"
+          "title": "⏫ Make graph of AST with astgraph",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1384,7 +1472,8 @@
             "repo": "c2goasm",
             "stars": 1349
           },
-          "title": "⏫ Convert C assembly to Go assembly with c2goasm"
+          "title": "⏫ Convert C assembly to Go assembly with c2goasm",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Assembly"
@@ -1405,7 +1494,8 @@
             "repo": "goplay",
             "stars": 11
           },
-          "title": "⏫ Embed Go Playground to your blog with goplay"
+          "title": "⏫ Embed Go Playground to your blog with goplay",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1420,7 +1510,8 @@
             "repo": "go-playground",
             "stars": 1486
           },
-          "title": "⏫ Run alternative Go Playground with goplay.tools"
+          "title": "⏫ Run alternative Go Playground with goplay.tools",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1435,7 +1526,8 @@
             "repo": "gophernotes",
             "stars": 3967
           },
-          "title": "⏫ Run interactive Go kernels in Jupyter Notebook with gophernotes"
+          "title": "⏫ Run interactive Go kernels in Jupyter Notebook with gophernotes",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1450,7 +1542,8 @@
             "repo": "yaegi",
             "stars": 8378
           },
-          "title": "⏫ Run interactive Go interpreter with yaegi"
+          "title": "⏫ Run interactive Go interpreter with yaegi",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1463,9 +1556,10 @@
             "last_commit": "2026-08-02T09:49:13Z",
             "owner": "cosmos72",
             "repo": "gomacro",
-            "stars": 2298
+            "stars": 2299
           },
-          "title": "⏫ Run interactive Go interpreter with gomacro"
+          "title": "⏫ Run interactive Go interpreter with gomacro",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1480,7 +1574,8 @@
             "repo": "gorram",
             "stars": 1050
           },
-          "title": "⏫ Run Go function in shell with gorram"
+          "title": "⏫ Run Go function in shell with gorram",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1495,7 +1590,8 @@
             "repo": "utilities",
             "stars": 41
           },
-          "title": "⏫ Run Go function in shell with gosh"
+          "title": "⏫ Run Go function in shell with gosh",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1510,7 +1606,8 @@
             "repo": "gotrace",
             "stars": 1979
           },
-          "title": "⏫ Create 3D visualization of concurrency traces with gotrace"
+          "title": "⏫ Create 3D visualization of concurrency traces with gotrace",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Execution"
@@ -1531,7 +1628,8 @@
             "repo": "grmon",
             "stars": 1892
           },
-          "title": "⏫ Monitor goroutines with grmon"
+          "title": "⏫ Monitor goroutines with grmon",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1546,7 +1644,8 @@
             "repo": "gops",
             "stars": 7017
           },
-          "title": "⏫ Monitor Go processes with gops"
+          "title": "⏫ Monitor Go processes with gops",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1561,7 +1660,8 @@
             "repo": "live-pprof",
             "stars": 318
           },
-          "title": "⏫ Monitor Go runtime metrics in browser with live-pprof"
+          "title": "⏫ Monitor Go runtime metrics in browser with live-pprof",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1571,12 +1671,13 @@
             "archived": false,
             "id": 287403351,
             "language": "Go",
-            "last_commit": "2026-08-24T21:08:02Z",
+            "last_commit": "2026-08-27T21:07:20Z",
             "owner": "arl",
             "repo": "statsviz",
             "stars": 3645
           },
-          "title": "⏫ Monitor Go runtime metrics in browser with statsviz"
+          "title": "⏫ Monitor Go runtime metrics in browser with statsviz",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1591,7 +1692,8 @@
             "repo": "go-instrument",
             "stars": 299
           },
-          "title": "⏫ Auto-Instrument all functions with go-instrument"
+          "title": "⏫ Auto-Instrument all functions with go-instrument",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1606,7 +1708,8 @@
             "repo": "otelinji",
             "stars": 29
           },
-          "title": "⏫ Auto-Instrument all functions with otelinji"
+          "title": "⏫ Auto-Instrument all functions with otelinji",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1621,7 +1724,8 @@
             "repo": "orchestrion",
             "stars": 622
           },
-          "title": "⏫ Auto-Instrument functions for DataDog with orchestrion"
+          "title": "⏫ Auto-Instrument functions for DataDog with orchestrion",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1631,12 +1735,13 @@
             "archived": false,
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-27T11:11:24Z",
+            "last_commit": "2026-08-28T05:05:32Z",
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11641
+            "stars": 11642
           },
-          "title": "⏫ Continuous Profiling with Pyroscope"
+          "title": "⏫ Continuous Profiling with Pyroscope",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Monitor"
@@ -1657,7 +1762,8 @@
             "repo": "go-profile",
             "stars": 29
           },
-          "title": "⏫ :gift: Profile and visualize (with video) Go profiles through eBPF with go-profile"
+          "title": "⏫ :gift: Profile and visualize (with video) Go profiles through eBPF with go-profile",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1672,7 +1778,8 @@
             "repo": "pat",
             "stars": 11
           },
-          "title": "⏫ Benchmark against git commit with pat/ba"
+          "title": "⏫ Benchmark against git commit with pat/ba",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1687,7 +1794,8 @@
             "repo": "gobenchdata",
             "stars": 157
           },
-          "title": "⏫ Continuous benchmarking with gobenchdata"
+          "title": "⏫ Continuous benchmarking with gobenchdata",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1702,7 +1810,8 @@
             "repo": "benchdiff",
             "stars": 68
           },
-          "title": "⏫ Continuous benchmarking with benchdiff"
+          "title": "⏫ Continuous benchmarking with benchdiff",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1717,7 +1826,8 @@
             "repo": "cob",
             "stars": 390
           },
-          "title": "⏫ Continuous benchmarking with cob"
+          "title": "⏫ Continuous benchmarking with cob",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1732,7 +1842,8 @@
             "repo": "gotraceui",
             "stars": 1408
           },
-          "title": "⏫ View traces with gotraceui"
+          "title": "⏫ View traces with gotraceui",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1747,7 +1858,8 @@
             "repo": "trc",
             "stars": 103
           },
-          "title": "⏫ View in-process traces with trc"
+          "title": "⏫ View in-process traces with trc",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1762,7 +1874,8 @@
             "repo": "fgtrace",
             "stars": 908
           },
-          "title": "⏫ View wallclock traces with fgtrace"
+          "title": "⏫ View wallclock traces with fgtrace",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1777,7 +1890,8 @@
             "repo": "fgprof",
             "stars": 3110
           },
-          "title": "⏫ Get on/off CPU profiles with fgprof"
+          "title": "⏫ Get on/off CPU profiles with fgprof",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Benchmark"
@@ -1798,7 +1912,8 @@
             "repo": "golds",
             "stars": 652
           },
-          "title": "⏫ Make alternative documentation with golds"
+          "title": "⏫ Make alternative documentation with golds",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1813,7 +1928,8 @@
             "repo": "goman",
             "stars": 128
           },
-          "title": "⏫ Read Go binary documentation in format with goman"
+          "title": "⏫ Read Go binary documentation in format with goman",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1828,7 +1944,8 @@
             "repo": "gobadge",
             "stars": 24
           },
-          "title": "⏫ Generate badge with gobadge"
+          "title": "⏫ Generate badge with gobadge",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1843,7 +1960,8 @@
             "repo": "goreadme",
             "stars": 219
           },
-          "title": "⏫ Generate README.md based on GoDoc comments with goreadme"
+          "title": "⏫ Generate README.md based on GoDoc comments with goreadme",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Document"
@@ -1864,7 +1982,8 @@
             "repo": "capslock",
             "stars": 1176
           },
-          "title": "⏫ Detect escalated privileges in dependencies with capslock"
+          "title": "⏫ Detect escalated privileges in dependencies with capslock",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1877,9 +1996,10 @@
             "last_commit": "2026-08-26T09:57:23Z",
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8934
+            "stars": 8935
           },
-          "title": "⏫ Run static analysis with gosec"
+          "title": "⏫ Run static analysis with gosec",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1894,7 +2014,8 @@
             "repo": "taint",
             "stars": 85
           },
-          "title": "⏫ Perform Taint Analysis with taint"
+          "title": "⏫ Perform Taint Analysis with taint",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1909,7 +2030,8 @@
             "repo": "go",
             "stars": 430
           },
-          "title": "⏫ Use Microsoft Go compiler with microsoft/go"
+          "title": "⏫ Use Microsoft Go compiler with microsoft/go",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Security"
@@ -1928,9 +2050,10 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6862
+            "stars": 6863
           },
-          "title": "⏫ Detect most common issues with staticcheck"
+          "title": "⏫ Detect most common issues with staticcheck",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1945,7 +2068,8 @@
             "repo": "revive",
             "stars": 5547
           },
-          "title": "⏫ Detect common style, performance, and naming issues with revive"
+          "title": "⏫ Detect common style, performance, and naming issues with revive",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1958,9 +2082,10 @@
             "last_commit": "2026-08-20T21:54:36Z",
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3900
+            "stars": 3901
           },
-          "title": "⏫ Detect potential Nil panics with nilaway"
+          "title": "⏫ Detect potential Nil panics with nilaway",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1975,7 +2100,8 @@
             "repo": "go-critic",
             "stars": 2066
           },
-          "title": "⏫ Detect most common issues with go-critic"
+          "title": "⏫ Detect most common issues with go-critic",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -1990,7 +2116,8 @@
             "repo": "exhaustive",
             "stars": 345
           },
-          "title": "⏫ Detect non-exhaustive switch and map with exhaustive"
+          "title": "⏫ Detect non-exhaustive switch and map with exhaustive",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2005,7 +2132,8 @@
             "repo": "go-exhaustruct",
             "stars": 205
           },
-          "title": "⏫ Detect structs with uninitialized fields with go-exhaustruct"
+          "title": "⏫ Detect structs with uninitialized fields with go-exhaustruct",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2020,7 +2148,8 @@
             "repo": "go-lint-cascade",
             "stars": 2
           },
-          "title": "⏫ :gift: Detect missing cascade calls with go-lint-cascade"
+          "title": "⏫ :gift: Detect missing cascade calls with go-lint-cascade",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2035,7 +2164,8 @@
             "repo": "go-safer",
             "stars": 44
           },
-          "title": "⏫ Detect unsafe code with go-safer"
+          "title": "⏫ Detect unsafe code with go-safer",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2050,7 +2180,8 @@
             "repo": "panic-linter",
             "stars": 1
           },
-          "title": "⏫ Detect without explaining comment with panic-linter"
+          "title": "⏫ Detect without explaining comment with panic-linter",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2065,7 +2196,8 @@
             "repo": "unconvert",
             "stars": 387
           },
-          "title": "⏫ Detect unnecessary type conversions with unconvert"
+          "title": "⏫ Detect unnecessary type conversions with unconvert",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2080,7 +2212,8 @@
             "repo": "gochecknoglobals",
             "stars": 136
           },
-          "title": "⏫ Detect global variables with gochecknoglobals"
+          "title": "⏫ Detect global variables with gochecknoglobals",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2095,7 +2228,8 @@
             "repo": "prealloc",
             "stars": 666
           },
-          "title": "⏫ Detect slices that could be preallocated with prealloc"
+          "title": "⏫ Detect slices that could be preallocated with prealloc",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2110,7 +2244,8 @@
             "repo": "unimport",
             "stars": 71
           },
-          "title": "⏫ Detect unnecessary import aliases with unimport"
+          "title": "⏫ Detect unnecessary import aliases with unimport",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2125,7 +2260,8 @@
             "repo": "importas",
             "stars": 18
           },
-          "title": "⏫ Detect unexpected import aliases with importas"
+          "title": "⏫ Detect unexpected import aliases with importas",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2140,7 +2276,8 @@
             "repo": "consistentimports",
             "stars": 2
           },
-          "title": "⏫ Detect inconsistent import aliases with consistentimports"
+          "title": "⏫ Detect inconsistent import aliases with consistentimports",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2155,7 +2292,8 @@
             "repo": "nakedret",
             "stars": 132
           },
-          "title": "⏫ Detect naked returns with nakedret"
+          "title": "⏫ Detect naked returns with nakedret",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2170,7 +2308,8 @@
             "repo": "smrcptr",
             "stars": 13
           },
-          "title": "⏫ Detect mixing pointer and value method receivers with smrcptr"
+          "title": "⏫ Detect mixing pointer and value method receivers with smrcptr",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2185,7 +2324,8 @@
             "repo": "vertfn",
             "stars": 18
           },
-          "title": "⏫ Detect vertical function ordering with vertfn"
+          "title": "⏫ Detect vertical function ordering with vertfn",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2200,7 +2340,8 @@
             "repo": "refdir",
             "stars": 6
           },
-          "title": "⏫ Detect vertical symbol ordering with refdir"
+          "title": "⏫ Detect vertical symbol ordering with refdir",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2215,7 +2356,8 @@
             "repo": "paralleltest",
             "stars": 60
           },
-          "title": "⏫ Detect tests with wrong usage with paralleltest"
+          "title": "⏫ Detect tests with wrong usage with paralleltest",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2230,7 +2372,8 @@
             "repo": "tparallel",
             "stars": 28
           },
-          "title": "⏫ Detect tests with wrong usage with tparallel"
+          "title": "⏫ Detect tests with wrong usage with tparallel",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2245,7 +2388,8 @@
             "repo": "go-mnd",
             "stars": 208
           },
-          "title": "⏫ Detect magic numbers with mnd"
+          "title": "⏫ Detect magic numbers with mnd",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2260,7 +2404,8 @@
             "repo": "goconst",
             "stars": 320
           },
-          "title": "⏫ Detect magic strings with goconst"
+          "title": "⏫ Detect magic strings with goconst",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2275,7 +2420,8 @@
             "repo": "pat",
             "stars": 11
           },
-          "title": "⏫ Detect bound checks with pat/boundcheck"
+          "title": "⏫ Detect bound checks with pat/boundcheck",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2290,7 +2436,8 @@
             "repo": "perfsprint",
             "stars": 47
           },
-          "title": "⏫ :gift: Detect performance optimizations with perfsprint"
+          "title": "⏫ :gift: Detect performance optimizations with perfsprint",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2305,7 +2452,8 @@
             "repo": "gocognit",
             "stars": 487
           },
-          "title": "⏫ Calculate Cognitive Complexity with gocognit"
+          "title": "⏫ Calculate Cognitive Complexity with gocognit",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2318,9 +2466,10 @@
             "last_commit": "2025-12-27T21:31:09Z",
             "owner": "fzipp",
             "repo": "gocyclo",
-            "stars": 1599
+            "stars": 1600
           },
-          "title": "⏫ Calculate Cyclomatic Complexity with gocyclo"
+          "title": "⏫ Calculate Cyclomatic Complexity with gocyclo",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2335,7 +2484,8 @@
             "repo": "cyclop",
             "stars": 56
           },
-          "title": "⏫ Calculate Cyclomatic Complexity with cyclop"
+          "title": "⏫ Calculate Cyclomatic Complexity with cyclop",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2350,7 +2500,8 @@
             "repo": "go-commentage",
             "stars": 4
           },
-          "title": "⏫ Calculate age of comments with go-commentage"
+          "title": "⏫ Calculate age of comments with go-commentage",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2365,7 +2516,8 @@
             "repo": "ifshort",
             "stars": 17
           },
-          "title": "⏫ Ensure statements using short assignment with ifshort"
+          "title": "⏫ Ensure statements using short assignment with ifshort",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2380,7 +2532,8 @@
             "repo": "betteralign",
             "stars": 1078
           },
-          "title": "⏫ Detect sub-optimal struct layout with betteralign"
+          "title": "⏫ Detect sub-optimal struct layout with betteralign",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2393,9 +2546,10 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6862
+            "stars": 6863
           },
-          "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize"
+          "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2408,9 +2562,10 @@
             "last_commit": "2026-08-24T19:54:49Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6862
+            "stars": 6863
           },
-          "title": "⏫ Visualize struct layout with structlayout"
+          "title": "⏫ Visualize struct layout with structlayout",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         },
         {
           "children": [],
@@ -2425,14 +2580,15 @@
             "repo": "go-callsite-stats",
             "stars": 2
           },
-          "title": "⏫ Analyze function callsites with go-callsite-stats"
+          "title": "⏫ Analyze function callsites with go-callsite-stats",
+          "first_seen": "2026-08-28T06:15:37.792Z"
         }
       ],
       "title": "Static Analysis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:51.804Z",
+    "last_updated": "2026-08-28T06:15:37.792Z",
     "original_repository_info": {
       "archived": false,
       "id": 380501914,
@@ -2440,7 +2596,7 @@
       "last_commit": "2026-08-18T10:17:25Z",
       "owner": "nikolaydubina",
       "repo": "go-recipes",
-      "stars": 4500
+      "stars": 4501
     },
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
     "enhanced_repository": "enhansome/enhansome-go-recipes",
