@@ -247,8 +247,8 @@
             "id": 770420968,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-23T06:34:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-29T04:03:46Z",
+            "open_issues": 7,
             "owner": "fgrosse",
             "repo": "go-coverage-report",
             "stars": 126,
@@ -4146,7 +4146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:49:58.951Z",
+    "last_updated": "2026-08-29T04:20:33.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦩 Tools for Go projects",
