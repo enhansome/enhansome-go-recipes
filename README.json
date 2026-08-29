@@ -9,12 +9,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🎄 Go code coverage to SVG treemap",
+            "homepage": "https://nikolaydubina.github.io/go-cover-treemap/",
             "id": 435849207,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T18:19:51Z",
+            "open_issues": 8,
             "owner": "nikolaydubina",
             "repo": "go-cover-treemap",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "code-coverage",
+              "command-line-tool",
+              "heatmap",
+              "treemap"
+            ]
           },
           "title": "⏫ Make treemap of coverage with go-cover-treemap",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -25,12 +35,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Make pretty HTML output from gocov, a coverage testing tool for Go",
+            "homepage": null,
             "id": 7673921,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-19T09:10:36Z",
+            "open_issues": 2,
             "owner": "matm",
             "repo": "gocov-html",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "title": "⏫ Browse coverage with gocov-html",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -41,12 +56,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "All-in-one go testing library",
+            "homepage": null,
             "id": 771575307,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:02:07Z",
+            "open_issues": 64,
             "owner": "xhd2015",
             "repo": "xgo",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "coverage",
+              "coverage-report",
+              "go",
+              "go-test",
+              "go-testing",
+              "golang",
+              "gomonkey",
+              "incremental-coverage",
+              "instrumentation",
+              "mock",
+              "monkey-patching",
+              "test-explorer",
+              "testing",
+              "testing-library",
+              "tracing",
+              "unit-test",
+              "unit-testing",
+              "xgo"
+            ]
           },
           "title": "⏫ Browse coverage with xgo",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -57,12 +96,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻",
+            "homepage": null,
             "id": 453526680,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-05T14:03:52Z",
+            "open_issues": 13,
             "owner": "orlangure",
             "repo": "gocovsh",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "cli",
+              "coverage",
+              "coverage-report",
+              "go",
+              "golang",
+              "golang-cli",
+              "testing"
+            ]
           },
           "title": "⏫ Browse coverage in terminal with gocovsh",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -73,12 +125,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go cover tool for maximum productivity.",
+            "homepage": null,
             "id": 454482371,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-13T02:04:23Z",
+            "open_issues": 0,
             "owner": "nikandfor",
             "repo": "cover",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cover",
+              "coverage",
+              "go",
+              "golang",
+              "testing"
+            ]
           },
           "title": "⏫ Pretty print coverage in terminal with nikandfor/cover",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -89,12 +152,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Coverage Testing System for The Go Programming Language",
+            "homepage": null,
             "id": 261943284,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-03T06:57:08Z",
+            "open_issues": 101,
             "owner": "qiniu",
             "repo": "goc",
-            "stars": 874
+            "stars": 874,
+            "topics": [
+              "coverage-testing",
+              "go",
+              "testing-tools"
+            ]
           },
           "title": "⏫ Run coverage collector server with goc",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -105,12 +177,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Coverage Testing System for The Go Programming Language",
+            "homepage": null,
             "id": 261943284,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-03T06:57:08Z",
+            "open_issues": 101,
             "owner": "qiniu",
             "repo": "goc",
-            "stars": 874
+            "stars": 874,
+            "topics": [
+              "coverage-testing",
+              "go",
+              "testing-tools"
+            ]
           },
           "title": "⏫ Visualize live coverage in VSCode with goc",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -121,12 +202,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold",
+            "homepage": null,
             "id": 618927215,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T04:10:09Z",
+            "open_issues": 11,
             "owner": "vladopajic",
             "repo": "go-test-coverage",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "automation",
+              "ci",
+              "ci-cd",
+              "code-coverage",
+              "coverage-badge",
+              "coverage-diff",
+              "coverage-report",
+              "coverage-threshold",
+              "developer-tools",
+              "github-actions",
+              "go",
+              "go-testing",
+              "go-tools",
+              "golang",
+              "test-coverage",
+              "testing",
+              "testing-tools",
+              "unit-testing"
+            ]
           },
           "title": "⏫ Detect drops in coverage with go-test-coverage",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -137,12 +242,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool and GitHub Action to post Go code coverage reports as comment to your pull requests.",
+            "homepage": null,
             "id": 770420968,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T06:34:39Z",
+            "open_issues": 5,
             "owner": "fgrosse",
             "repo": "go-coverage-report",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "actions",
+              "code-coverage",
+              "golang"
+            ]
           },
           "title": "⏫ :gift: Comment code coverage reports in pull request with go-coverage-report",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -153,12 +267,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Test infrastructure for the Kubernetes project.",
+            "homepage": null,
             "id": 57333709,
             "language": "Go",
-            "last_commit": "2026-08-27T22:03:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:26:03Z",
+            "open_issues": 126,
             "owner": "kubernetes",
             "repo": "test-infra",
-            "stars": 4017
+            "stars": 4017,
+            "topics": [
+              "k8s-sig-testing"
+            ]
           },
           "title": "⏫ :gift: Manipulate coverage profiles with gopherage",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -169,12 +290,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Fuzz go code using LibAFL's capabilities with Go’s native instrumentation.",
+            "homepage": null,
             "id": 958669388,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-19T13:54:52Z",
+            "open_issues": 1,
             "owner": "srlabs",
             "repo": "golibafl",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "title": "⏫ :gift: Fuzz Go binaries using LibAFL with GoLibAFL",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -185,12 +311,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Goroutine leak detector",
+            "homepage": null,
             "id": 109330128,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:13:42Z",
+            "open_issues": 22,
             "owner": "uber-go",
             "repo": "goleak",
-            "stars": 5262
+            "stars": 5262,
+            "topics": []
           },
           "title": "⏫ Detect goroutine leaks with goleak",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -201,12 +332,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Goroutine Leak Detector",
+            "homepage": null,
             "id": 57139093,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-10-15T17:02:31Z",
+            "open_issues": 5,
             "owner": "fortytw2",
             "repo": "leaktest",
-            "stars": 1044
+            "stars": 1044,
+            "topics": [
+              "go",
+              "goroutine",
+              "leak-detection",
+              "test-helper"
+            ]
           },
           "title": "⏫ Detect goroutine leaks with leaktest",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -217,12 +358,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The missing tool for Visualising Go Tests",
+            "homepage": "https://threedots.tech/post/go-test-parallelism/",
             "id": 860885227,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-15T08:54:41Z",
+            "open_issues": 2,
             "owner": "roblaszczak",
             "repo": "vgt",
-            "stars": 362
+            "stars": 363,
+            "topics": [
+              "go",
+              "testing"
+            ]
           },
           "title": "⏫ Visualize test runs with vgt",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -233,12 +382,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.",
+            "homepage": null,
             "id": 153669921,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-27T12:00:33Z",
+            "open_issues": 26,
             "owner": "mfridman",
             "repo": "tparse",
-            "stars": 1261
+            "stars": 1261,
+            "topics": [
+              "golang",
+              "test",
+              "testing",
+              "testing-tools"
+            ]
           },
           "title": "⏫ Summarize with tparse",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -249,12 +408,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Enrich `go test` outputs with text decorations.",
+            "homepage": null,
             "id": 78035735,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-18T09:03:46Z",
+            "open_issues": 6,
             "owner": "kyoh86",
             "repo": "richgo",
-            "stars": 859
+            "stars": 859,
+            "topics": [
+              "cli-app",
+              "enrich-outputs",
+              "go",
+              "golang",
+              "golang-tools",
+              "golang-wrapper",
+              "test"
+            ]
           },
           "title": "⏫ Decorate with richgo",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -265,12 +437,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "go test with colors",
+            "homepage": null,
             "id": 102682518,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-10T23:44:14Z",
+            "open_issues": 17,
             "owner": "rakyll",
             "repo": "gotest",
-            "stars": 1399
+            "stars": 1399,
+            "topics": []
           },
           "title": "⏫ Decorate with gotest",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -281,12 +458,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.",
+            "homepage": null,
             "id": 126215645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T00:47:43Z",
+            "open_issues": 118,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2714
+            "stars": 2714,
+            "topics": [
+              "ci",
+              "go",
+              "go-test",
+              "golang",
+              "junit-xml",
+              "test",
+              "test-runner",
+              "testing"
+            ]
           },
           "title": "⏫ Decorate with gotestsum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -297,12 +488,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool for formatting Go test results as readable documentation",
+            "homepage": "https://bitfieldconsulting.com/subscribe",
             "id": 464597232,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-22T10:08:16Z",
+            "open_issues": 3,
             "owner": "bitfield",
             "repo": "gotestdox",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "agiledox",
+              "go",
+              "golang",
+              "testing"
+            ]
           },
           "title": "⏫ Format results as documentation with gotestdox",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -313,12 +514,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.",
+            "homepage": null,
             "id": 126215645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T00:47:43Z",
+            "open_issues": 118,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2714
+            "stars": 2714,
+            "topics": [
+              "ci",
+              "go",
+              "go-test",
+              "golang",
+              "junit-xml",
+              "test",
+              "test-runner",
+              "testing"
+            ]
           },
           "title": "⏫ Get slowest tests with gotestsum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -329,12 +544,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.",
+            "homepage": null,
             "id": 126215645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T00:47:43Z",
+            "open_issues": 118,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2714
+            "stars": 2714,
+            "topics": [
+              "ci",
+              "go",
+              "go-test",
+              "golang",
+              "junit-xml",
+              "test",
+              "test-runner",
+              "testing"
+            ]
           },
           "title": "⏫ Auto-Instrument skipping slowest tests with gotestsum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -345,12 +574,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.",
+            "homepage": null,
             "id": 126215645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T00:47:43Z",
+            "open_issues": 118,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2714
+            "stars": 2714,
+            "topics": [
+              "ci",
+              "go",
+              "go-test",
+              "golang",
+              "junit-xml",
+              "test",
+              "test-runner",
+              "testing"
+            ]
           },
           "title": "⏫ Automatically re-run failed tests with gotestsum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -361,12 +604,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.",
+            "homepage": null,
             "id": 126215645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T00:47:43Z",
+            "open_issues": 118,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2714
+            "stars": 2714,
+            "topics": [
+              "ci",
+              "go",
+              "go-test",
+              "golang",
+              "junit-xml",
+              "test",
+              "test-runner",
+              "testing"
+            ]
           },
           "title": "⏫ Make test report with gotestsum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -377,12 +634,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Convert Go test output to JUnit XML",
+            "homepage": null,
             "id": 3673833,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T21:28:10Z",
+            "open_issues": 31,
             "owner": "jstemmer",
             "repo": "go-junit-report",
-            "stars": 823
+            "stars": 823,
+            "topics": [
+              "go",
+              "go-junit-report",
+              "go-test",
+              "go-test-json",
+              "golang",
+              "junit",
+              "junit-xml",
+              "testing"
+            ]
           },
           "title": "⏫ Make test report with go-junit-report",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -393,12 +664,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🧬 Go Mutation Testing",
+            "homepage": null,
             "id": 570722499,
             "language": "Go",
-            "last_commit": "2026-08-27T01:21:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T09:32:42Z",
+            "open_issues": 13,
             "owner": "gtramontina",
             "repo": "ooze",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "go",
+              "golang",
+              "golang-library",
+              "golang-tools",
+              "gotest",
+              "mutation",
+              "mutation-testing",
+              "test",
+              "testing",
+              "testing-tool",
+              "testing-tools"
+            ]
           },
           "title": "⏫ Perform Mutation Testing with ooze",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -409,12 +697,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for Go source code. Fork from https://github.com/zimmski/go-mutesting",
+            "homepage": null,
             "id": 328627709,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-12T13:48:14Z",
+            "open_issues": 25,
             "owner": "avito-tech",
             "repo": "go-mutesting",
-            "stars": 260
+            "stars": 262,
+            "topics": [
+              "golang",
+              "mutation-testing"
+            ]
           },
           "title": "⏫ Perform Mutation Testing with avito-tech/go-mutesting",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -425,12 +721,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for Go source code. ",
+            "homepage": "https://jonbaldie.github.io/go-mutesting/",
             "id": 1238659541,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:19:23Z",
+            "open_issues": 0,
             "owner": "jonbaldie",
             "repo": "go-mutesting",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "title": "⏫ :gift: Perform Mutation Testing with jonbaldie/go-mutesting",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -441,12 +742,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for Go source code",
+            "homepage": null,
             "id": 28522749,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-04T16:42:16Z",
+            "open_issues": 43,
             "owner": "zimmski",
             "repo": "go-mutesting",
-            "stars": 673
+            "stars": 673,
+            "topics": []
           },
           "title": "⏫ Perform Mutation Testing with go-mutesting",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -457,12 +763,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go test with tracing.",
+            "homepage": null,
             "id": 384585715,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-05-31T13:05:19Z",
+            "open_issues": 3,
             "owner": "rakyll",
             "repo": "go-test-trace",
-            "stars": 390
+            "stars": 390,
+            "topics": []
           },
           "title": "⏫ Trace tests with go-test-trace",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -479,12 +790,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Calculate Go module's libyear! (and more)",
+            "homepage": "https://libyear.com",
             "id": 714810413,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T02:27:24Z",
+            "open_issues": 6,
             "owner": "nieomylnieja",
             "repo": "go-libyear",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "dependencies",
+              "freshness",
+              "go",
+              "golang",
+              "libyear",
+              "modules"
+            ]
           },
           "title": "⏫ Get go module libyear, number of releases, version delta with go-libyear",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -495,12 +818,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Collect data about your dependencies",
+            "homepage": null,
             "id": 355510236,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-01T04:27:13Z",
+            "open_issues": 2,
             "owner": "nikolaydubina",
             "repo": "import-graph",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "go",
+              "graph",
+              "source-code-analysis",
+              "tools"
+            ]
           },
           "title": "⏫ Make graph of upstream packages with import-graph",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -511,12 +844,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Collect data about your dependencies",
+            "homepage": null,
             "id": 355510236,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-01T04:27:13Z",
+            "open_issues": 2,
             "owner": "nikolaydubina",
             "repo": "import-graph",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "go",
+              "graph",
+              "source-code-analysis",
+              "tools"
+            ]
           },
           "title": "⏫ Scrape details about upstream modules and make graph with import-graph",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -527,12 +870,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.",
+            "homepage": null,
             "id": 221192652,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T18:03:15Z",
+            "open_issues": 58,
             "owner": "google",
             "repo": "go-licenses",
-            "stars": 1012
+            "stars": 1012,
+            "topics": [
+              "go",
+              "golang",
+              "license",
+              "license-checking",
+              "license-management"
+            ]
           },
           "title": "⏫ Scrape licenses of upstream dependencies with go-licenses",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -543,12 +897,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go Dependency Analysis toolkit",
+            "homepage": null,
             "id": 150718780,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:26:54Z",
+            "open_issues": 20,
             "owner": "loov",
             "repo": "goda",
-            "stars": 1725
+            "stars": 1725,
+            "topics": [
+              "dependency-analysis",
+              "go"
+            ]
           },
           "title": "⏫ Explore dependencies with goda",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -559,12 +921,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Spaghetti: a dependency analysis tool for Go packages",
+            "homepage": null,
             "id": 353070039,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-05-19T04:09:44Z",
+            "open_issues": 3,
             "owner": "adonovan",
             "repo": "spaghetti",
-            "stars": 766
+            "stars": 766,
+            "topics": []
           },
           "title": "⏫ Explore dependencies interactively with spaghetti",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -575,12 +942,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Effortlessly visualize mod graph with all external dependencies for your Go projects",
+            "homepage": null,
             "id": 852474460,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-19T18:09:36Z",
+            "open_issues": 2,
             "owner": "bayraktugrul",
             "repo": "modview",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "dependency",
+              "dependency-graph",
+              "go",
+              "golang",
+              "graph",
+              "visualize"
+            ]
           },
           "title": "⏫ Explore dependencies graph interactively with modview",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -591,12 +970,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Visualize Go Dependency Trees",
+            "homepage": "https://kylewbanks.com/blog/visualize-golang-dependency-trees-with-depth",
             "id": 83904252,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-02-08T04:10:36Z",
+            "open_issues": 10,
             "owner": "KyleBanks",
             "repo": "depth",
-            "stars": 1083
+            "stars": 1083,
+            "topics": [
+              "command-line-tool",
+              "dependency-tree",
+              "go",
+              "visualizer"
+            ]
           },
           "title": "⏫ Explore dependencies graph in CLI with depth",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -607,12 +996,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔭  Goggles is a cross-platform GUI for your $GOPATH!",
+            "homepage": null,
             "id": 85404210,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-29T19:13:24Z",
+            "open_issues": 7,
             "owner": "KyleBanks",
             "repo": "goggles",
-            "stars": 662
+            "stars": 662,
+            "topics": [
+              "go-tools",
+              "golang",
+              "golang-tools",
+              "gopath",
+              "gui"
+            ]
           },
           "title": "⏫ Explore your with GUI with goggles",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -623,12 +1023,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GoLang architecture linter (checker) tool. Will check all project import path and compare with arch rules defined in yml file. Useful for hexagonal / onion / ddd / mvc and other architectural patterns. Tool can by used in your CI",
+            "homepage": null,
             "id": 289326169,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T17:30:36Z",
+            "open_issues": 17,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 539
+            "stars": 540,
+            "topics": [
+              "arch-lint",
+              "arch-rules",
+              "architecture",
+              "checker",
+              "golang",
+              "golang-architecture-linter",
+              "linter",
+              "yaml"
+            ]
           },
           "title": "⏫ Enforce Go code architecture with go-arch-lint",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -639,12 +1053,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.",
+            "homepage": null,
             "id": 88099784,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-11-08T16:18:42Z",
+            "open_issues": 5,
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
-            "stars": 985
+            "stars": 985,
+            "topics": [
+              "architecture",
+              "clean-architecture",
+              "go",
+              "golang",
+              "uncle-bob"
+            ]
           },
           "title": "⏫ Check Clean Architecture with go-cleanarch",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -661,12 +1086,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A library for auto-generating C4 diagrams from Go applications",
+            "homepage": null,
             "id": 310274964,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T14:26:20Z",
+            "open_issues": 0,
             "owner": "krzysztofreczek",
             "repo": "go-structurizr",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "architecture",
+              "c4",
+              "go",
+              "golang"
+            ]
           },
           "title": "⏫ Make C4 diagram with go-structurizr",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -677,12 +1112,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Visualize call graph of a Go program using Graphviz",
+            "homepage": "https://ondrajz.github.io/go-callvis/",
             "id": 67286820,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-30T16:22:18Z",
+            "open_issues": 73,
             "owner": "ondrajz",
             "repo": "go-callvis",
-            "stars": 6508
+            "stars": 6508,
+            "topics": [
+              "awesome-go",
+              "callgraph",
+              "golang",
+              "golang-tools",
+              "graphviz",
+              "static-analysis",
+              "visualization"
+            ]
           },
           "title": "⏫ Make graph of function calls in package with go-callvis",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -693,12 +1141,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "PlantUML Class Diagram Generator for golang projects",
+            "homepage": null,
             "id": 188701937,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-16T20:24:01Z",
+            "open_issues": 39,
             "owner": "jfeliu007",
             "repo": "goplantuml",
-            "stars": 2088
+            "stars": 2087,
+            "topics": [
+              "diagram",
+              "diagram-generator",
+              "go",
+              "golang",
+              "plantuml",
+              "uml-diagram"
+            ]
           },
           "title": "⏫ Make PlantUML diagram with goplantuml",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -709,12 +1169,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate plantuml diagrams from go source files or directories",
+            "homepage": null,
             "id": 235306985,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-20T09:53:58Z",
+            "open_issues": 3,
             "owner": "bykof",
             "repo": "go-plantuml",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "diagram",
+              "generate",
+              "go",
+              "golang",
+              "plantuml"
+            ]
           },
           "title": "⏫ Make PlantUML diagram with go-plantuml",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -725,12 +1196,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.",
+            "homepage": "https://github.com/gabotechs/dep-tree",
             "id": 576596218,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-03-22T11:10:57Z",
+            "open_issues": 9,
             "owner": "gabotechs",
             "repo": "dep-tree",
-            "stars": 1723
+            "stars": 1723,
+            "topics": [
+              "cli",
+              "dependencies",
+              "dependency",
+              "dependency-graph",
+              "golang",
+              "graph",
+              "linter",
+              "terminal",
+              "tree",
+              "typescript"
+            ]
           },
           "title": "⏫ Visualize the entropy of a code base with a 3D force-directed graph with dep-tree",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -741,12 +1228,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: Code City metaphor for visualizing Go source code in 3D",
+            "homepage": "https://go-city.github.io",
             "id": 147082298,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-05T02:31:22Z",
+            "open_issues": 10,
             "owner": "rodrigo-brito",
             "repo": "gocity",
-            "stars": 1808
+            "stars": 1808,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "react",
+              "visualization"
+            ]
           },
           "title": "⏫ Make 3D chart of Go codebase with gocity",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -757,12 +1255,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Browser based user interface for the Go source code guru",
+            "homepage": null,
             "id": 12851128,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-03-06T19:45:09Z",
+            "open_issues": 6,
             "owner": "fzipp",
             "repo": "pythia",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "callgraph",
+              "code-navigation",
+              "code-reading",
+              "go",
+              "golang"
+            ]
           },
           "title": "⏫ Explore Go code in browser powered by with pythia",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -773,12 +1282,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Interactive overview of Go packages using dynamic visualization.",
+            "homepage": null,
             "id": 79110947,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-31T02:21:45Z",
+            "open_issues": 1,
             "owner": "ondrajz",
             "repo": "goexplorer",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "experimental",
+              "go",
+              "golang",
+              "gopath",
+              "static-analysis",
+              "visualization"
+            ]
           },
           "title": "⏫ Interactively visualize packages with goexplorer",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -789,12 +1310,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GoLang architecture linter (checker) tool. Will check all project import path and compare with arch rules defined in yml file. Useful for hexagonal / onion / ddd / mvc and other architectural patterns. Tool can by used in your CI",
+            "homepage": null,
             "id": 289326169,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T17:30:36Z",
+            "open_issues": 17,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 539
+            "stars": 540,
+            "topics": [
+              "arch-lint",
+              "arch-rules",
+              "architecture",
+              "checker",
+              "golang",
+              "golang-architecture-linter",
+              "linter",
+              "yaml"
+            ]
           },
           "title": "⏫ Make D2 graph of architecture and dependencies with go-arch-lint graph",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -811,12 +1346,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate Go enum encoding",
+            "homepage": null,
             "id": 774704078,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-02T09:06:47Z",
+            "open_issues": 2,
             "owner": "nikolaydubina",
             "repo": "go-enum-encoding",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "code-generation",
+              "encoding",
+              "enum",
+              "json",
+              "serde"
+            ]
           },
           "title": "⏫ Generate enums encoding with go-enum-encoding",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -827,12 +1373,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Type Safe Enum generator for Go",
+            "homepage": null,
             "id": 761504818,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-24T11:40:10Z",
+            "open_issues": 0,
             "owner": "zarldev",
             "repo": "goenums",
-            "stars": 374
+            "stars": 374,
+            "topics": []
           },
           "title": "⏫ Generate enums with goenums",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -843,12 +1394,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool to generate Go data types from JSON Schema definitions.",
+            "homepage": null,
             "id": 150624828,
             "language": "Go",
-            "last_commit": "2026-08-27T23:56:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:47:31Z",
+            "open_issues": 80,
             "owner": "omissis",
             "repo": "go-jsonschema",
-            "stars": 802
+            "stars": 802,
+            "topics": [
+              "code-generation",
+              "codegenerator",
+              "go",
+              "golang",
+              "json",
+              "json-schema"
+            ]
           },
           "title": "⏫ Generate data types from JSON Schema with go-jsonschema",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -859,12 +1422,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool to generate a constructor for the struct.",
+            "homepage": null,
             "id": 226480238,
             "language": "Go",
-            "last_commit": "2026-08-20T14:15:21Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T01:27:28Z",
+            "open_issues": 9,
             "owner": "moznion",
             "repo": "gonstructor",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "code-generation",
+              "golang"
+            ]
           },
           "title": "⏫ Generate constructor for a struct with gonstructor",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -875,12 +1446,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate Go test boilerplate from your source code.",
+            "homepage": null,
             "id": 49927767,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-30T18:15:01Z",
+            "open_issues": 39,
             "owner": "cweill",
             "repo": "gotests",
-            "stars": 5330
+            "stars": 5330,
+            "topics": [
+              "code-generator",
+              "commandline",
+              "go",
+              "go-test",
+              "go-testing",
+              "golang",
+              "golang-application",
+              "golang-testing",
+              "golang-tools",
+              "gotests",
+              "table-driven-test",
+              "table-driven-testing",
+              "test-driven-development",
+              "test-generation",
+              "testing",
+              "testing-golang",
+              "testing-tools"
+            ]
           },
           "title": "⏫ Generate Table Driven Tests with gotests",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -891,12 +1485,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GoMock is a mocking framework for the Go programming language.",
+            "homepage": null,
             "id": 635979215,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T23:59:55Z",
+            "open_issues": 110,
             "owner": "uber-go",
             "repo": "mock",
-            "stars": 3401
+            "stars": 3401,
+            "topics": []
           },
           "title": "⏫ Generate mocks with mockgen",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -907,12 +1506,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate interfaces from structure methods.",
+            "homepage": null,
             "id": 59815144,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T09:04:17Z",
+            "open_issues": 1,
             "owner": "vburenin",
             "repo": "ifacemaker",
-            "stars": 355
+            "stars": 355,
+            "topics": []
           },
           "title": "⏫ Generate interface for a struct with ifacemaker",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -923,12 +1527,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Code generation tools for Go.",
+            "homepage": null,
             "id": 47477512,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-03T10:31:48Z",
+            "open_issues": 15,
             "owner": "rjeczalik",
             "repo": "interfaces",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "codegen",
+              "golang",
+              "golang-interface",
+              "golang-package"
+            ]
           },
           "title": "⏫ Generate interface for a struct with interfacer",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -939,12 +1553,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "CLI Tool to extract an Interface from a Golang struct using AST",
+            "homepage": null,
             "id": 238664147,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-04-08T10:00:06Z",
+            "open_issues": 0,
             "owner": "reflog",
             "repo": "struct2interface",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "ast",
+              "go",
+              "refactoring",
+              "struct"
+            ]
           },
           "title": "⏫ Generate interface for a struct with struct2interface",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -955,12 +1579,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Code generation tools for Go.",
+            "homepage": null,
             "id": 47477512,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-03T10:31:48Z",
+            "open_issues": 15,
             "owner": "rjeczalik",
             "repo": "interfaces",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "codegen",
+              "golang",
+              "golang-interface",
+              "golang-package"
+            ]
           },
           "title": "⏫ Generate interface for file with structer",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -971,12 +1605,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GoWrap is a command line tool for generating decorators for Go interfaces",
+            "homepage": null,
             "id": 148887586,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-24T19:56:44Z",
+            "open_issues": 21,
             "owner": "hexdigest",
             "repo": "gowrap",
-            "stars": 1336
+            "stars": 1336,
+            "topics": [
+              "code-generation",
+              "decorators",
+              "fallback",
+              "go",
+              "golang",
+              "golang-tools",
+              "interface",
+              "interfaces",
+              "logrus",
+              "prometheus",
+              "prometheus-metrics"
+            ]
           },
           "title": "⏫ Generate decorator for interface with gowrap",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -987,12 +1638,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go tool to modify struct field tags",
+            "homepage": null,
             "id": 78461005,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-04-23T14:27:48Z",
+            "open_issues": 13,
             "owner": "fatih",
             "repo": "gomodifytags",
-            "stars": 2392
+            "stars": 2392,
+            "topics": [
+              "go",
+              "golang",
+              "structs",
+              "tags",
+              "tool"
+            ]
           },
           "title": "⏫ Modify struct field tags with gomodifytags",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1003,12 +1665,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+            "homepage": null,
             "id": 173009358,
             "language": "Go",
-            "last_commit": "2026-08-28T00:52:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T09:53:00Z",
+            "open_issues": 318,
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8544
+            "stars": 8545,
+            "topics": [
+              "go",
+              "golang",
+              "openapi",
+              "openapi-codegen",
+              "openapi-generator",
+              "openapi3",
+              "rest-api",
+              "rest-api-client",
+              "swagger"
+            ]
           },
           "title": "⏫ Generate code from OpenAPI 3 specification with oapi-codegen",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1019,12 +1696,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automatic C-Go Bindings Generator for Go Programming Language",
+            "homepage": "https://c.for-go.com",
             "id": 39864565,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-05T10:17:47Z",
+            "open_issues": 78,
             "owner": "xlab",
             "repo": "c-for-go",
-            "stars": 1682
+            "stars": 1682,
+            "topics": []
           },
           "title": "⏫ Generate C-Go Bindings with c-for-go",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1041,12 +1723,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Type safe enums for Go without code generation or reflection",
+            "homepage": "https://pkg.go.dev/github.com/orsinium-labs/enum",
             "id": 684561455,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-08-17T11:18:05Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "enum",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "enum",
+              "enum-to-string",
+              "enums",
+              "generics",
+              "go",
+              "golang",
+              "metaprogramming",
+              "reflection",
+              "string-to-enum"
+            ]
           },
           "title": "⏫ Enum via generics with enum",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1063,12 +1760,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Refactoring and code transformation tool for Go.",
+            "homepage": null,
             "id": 317234849,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-11T08:36:20Z",
+            "open_issues": 33,
             "owner": "uber-go",
             "repo": "gopatch",
-            "stars": 1039
+            "stars": 1039,
+            "topics": [
+              "go",
+              "golang",
+              "refactoring"
+            ]
           },
           "title": "⏫ Apply refactoring patches with gopatch",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1079,12 +1785,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GCI, a tool that control golang package import order and make it always deterministic.",
+            "homepage": null,
             "id": 279745783,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-16T05:09:49Z",
+            "open_issues": 28,
             "owner": "daixiang0",
             "repo": "gci",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "title": "⏫ Keep consistent ordering of imports with gci",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1095,12 +1806,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "goimportx is a tool to help you manage your go imports.",
+            "homepage": null,
             "id": 620812540,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-03T16:32:30Z",
+            "open_issues": 0,
             "owner": "kesonan",
             "repo": "goimportx",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "title": "⏫ Keep consistent ordering of imports with goimportx",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1117,12 +1833,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An alternative to stack traces for your Go errors",
+            "homepage": "https://pkg.go.dev/braces.dev/errtrace",
             "id": 713946978,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-30T18:51:42Z",
+            "open_issues": 14,
             "owner": "bracesdev",
             "repo": "errtrace",
-            "stars": 824
+            "stars": 824,
+            "topics": [
+              "golang"
+            ]
           },
           "title": "⏫ Errors with return traces with errtrace",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1133,12 +1856,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Golang errors with stack trace and source fragments.",
+            "homepage": null,
             "id": 169459245,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-02T00:18:58Z",
+            "open_issues": 4,
             "owner": "ztrue",
             "repo": "tracerr",
-            "stars": 1120
+            "stars": 1120,
+            "topics": [
+              "debug",
+              "error-handling",
+              "errors",
+              "errors-log",
+              "go",
+              "golang",
+              "source-map",
+              "stacktrace"
+            ]
           },
           "title": "⏫ Errors with stack traces and source fragments with tracerr",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1149,12 +1886,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Crash your app in style (Golang)",
+            "homepage": "https://maruel.ca",
             "id": 30167459,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T15:57:10Z",
+            "open_issues": 3,
             "owner": "maruel",
             "repo": "panicparse",
-            "stars": 3709
+            "stars": 3709,
+            "topics": [
+              "crash",
+              "go",
+              "panic",
+              "stack-traces"
+            ]
           },
           "title": "⏫ Pretty print messages with panicparse",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1165,12 +1912,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Standardized errors",
+            "homepage": null,
             "id": 750754684,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-01T01:51:37Z",
+            "open_issues": 0,
             "owner": "amanbolat",
             "repo": "zederr",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "title": "⏫ :gift: Generate errors from a spec with zederr",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1187,12 +1939,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!",
+            "homepage": "https://gokrazy.org",
             "id": 80910170,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T23:52:26Z",
+            "open_issues": 50,
             "owner": "gokrazy",
             "repo": "gokrazy",
-            "stars": 3482
+            "stars": 3482,
+            "topics": [
+              "golang",
+              "linux",
+              "raspberry-pi",
+              "raspberrypi"
+            ]
           },
           "title": "⏫ Build for Raspberry Pi, Virtual Machine, embedded or normal PC with gokrazy",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1203,12 +1965,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.",
+            "homepage": "https://gsa.zxilly.dev/",
             "id": 609147387,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T22:06:22Z",
+            "open_issues": 4,
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2169
+            "stars": 2170,
+            "topics": [
+              "analyzer",
+              "binary",
+              "dependency",
+              "go",
+              "golang",
+              "react",
+              "symbol",
+              "terminal-ui",
+              "treemap",
+              "typescript",
+              "visualization"
+            ]
           },
           "title": "⏫ Visualise dependencies size in compiled binaries with go-size-analyzer",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1219,12 +1998,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔍 Go binary size SVG treemap",
+            "homepage": null,
             "id": 450664461,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T18:19:38Z",
+            "open_issues": 4,
             "owner": "nikolaydubina",
             "repo": "go-binsize-treemap",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "binary",
+              "binary-analysis",
+              "compiler",
+              "data-visualization",
+              "go",
+              "golang",
+              "svg",
+              "symtab",
+              "treemap"
+            ]
           },
           "title": "⏫ Make treemap breakdown of Go executable binary with go-binsize-treemap",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1235,12 +2029,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Use a custom domain in your Go import path",
+            "homepage": null,
             "id": 95474024,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-16T19:32:29Z",
+            "open_issues": 14,
             "owner": "GoogleCloudPlatform",
             "repo": "govanityurls",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "appengine-go",
+              "go",
+              "golang"
+            ]
           },
           "title": "⏫ Custom import path with govanityurls",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1251,12 +2054,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tiny HTTP server for supporting custom Golang import paths",
+            "homepage": null,
             "id": 62094708,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-06T03:42:49Z",
+            "open_issues": 6,
             "owner": "uber-go",
             "repo": "sally",
-            "stars": 347
+            "stars": 347,
+            "topics": []
           },
           "title": "⏫ Custom import path with sally",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1267,12 +2075,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🐺 Manage Your Applications Go Environment.",
+            "homepage": null,
             "id": 123338033,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:49:24Z",
+            "open_issues": 14,
             "owner": "Clivern",
             "repo": "Goenv",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "clivern",
+              "go-env",
+              "goenv",
+              "rbenv"
+            ]
           },
           "title": "⏫ Manage multiple Go versions with Goenv",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1283,12 +2101,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tool for transpiling C to Go.",
+            "homepage": "https://gotranspile.dev",
             "id": 328435739,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-03-18T09:43:27Z",
+            "open_issues": 36,
             "owner": "gotranspile",
             "repo": "cxgo",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "c",
+              "go",
+              "transpiler"
+            ]
           },
           "title": "⏫ Transpile C to Go with cxgo",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1299,12 +2126,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A compiler from Go to JavaScript for running Go code in a browser",
+            "homepage": null,
             "id": 12418999,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-20T17:56:18Z",
+            "open_issues": 189,
             "owner": "gopherjs",
             "repo": "gopherjs",
-            "stars": 13181
+            "stars": 13181,
+            "topics": [
+              "compiler",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript"
+            ]
           },
           "title": "⏫ Transpile Go to Javascript with gopherjs",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1315,12 +2153,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Golang comptime. Pure blasphemy",
+            "homepage": null,
             "id": 846922294,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-22T08:53:32Z",
+            "open_issues": 0,
             "owner": "pijng",
             "repo": "prep",
-            "stars": 499
+            "stars": 499,
+            "topics": []
           },
           "title": "⏫ Run compile-time function evaluation with prep",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1331,12 +2174,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Container-native build system",
+            "homepage": null,
             "id": 698675911,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-14T12:06:58Z",
+            "open_issues": 3,
             "owner": "ispringtech",
             "repo": "brewkit",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "title": "⏫ :gift: Containerize your builds with brewkit",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1353,12 +2201,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🃏  The Go SSA Playground: Exploring SSA IR | https://golang.design/gossa",
+            "homepage": "https://golang.design/gossa",
             "id": 253099503,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-06T17:37:35Z",
+            "open_issues": 0,
             "owner": "golang-design",
             "repo": "ssaplayground",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "go",
+              "golang",
+              "playground",
+              "ssa"
+            ]
           },
           "title": "⏫ Get Go SSA intermediary representation with ssaplayground",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1369,12 +2227,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go assembly and source viewer",
+            "homepage": null,
             "id": 509987354,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:47:06Z",
+            "open_issues": 3,
             "owner": "loov",
             "repo": "lensm",
-            "stars": 3690
+            "stars": 3690,
+            "topics": []
           },
           "title": "⏫ View Go assembly interactively with lensm",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1385,12 +2248,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Performance Analysis Toolbox for Go programs.",
+            "homepage": null,
             "id": 443820677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T20:53:15Z",
+            "open_issues": 0,
             "owner": "maruel",
             "repo": "pat",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "⏫ View Go assembly with color annotation with pat/disfunc",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1401,12 +2269,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate x86 Assembly with Go",
+            "homepage": null,
             "id": 156108485,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-01T06:20:51Z",
+            "open_issues": 97,
             "owner": "mmcloughlin",
             "repo": "avo",
-            "stars": 2989
+            "stars": 2989,
+            "topics": [
+              "assembly",
+              "code-generation",
+              "go",
+              "golang",
+              "x86-64"
+            ]
           },
           "title": "⏫ Generate Go assembly in Go with avo",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1417,12 +2296,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Transform Go code into it's AST",
+            "homepage": null,
             "id": 217278617,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-11-07T14:39:28Z",
+            "open_issues": 1,
             "owner": "reflog",
             "repo": "go2ast",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "ast",
+              "golang"
+            ]
           },
           "title": "⏫ Generate AST for code snippets with go2ast",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1433,12 +2320,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Visualize Go SSA function using Graphviz",
+            "homepage": "https://silverrainz.me/go-ssaviz/",
             "id": 606615381,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-30T06:00:28Z",
+            "open_issues": 1,
             "owner": "SilverRainZ",
             "repo": "go-ssaviz",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "golang",
+              "graphviz",
+              "linter",
+              "ssa",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Visualize Go SSA function using Graphviz with go-ssaviz",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1449,12 +2347,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280666556,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-04-28T07:19:40Z",
+            "open_issues": 3,
             "owner": "xiazemin",
             "repo": "ast_graph",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "title": "⏫ Make graph of AST with astgraph",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1465,12 +2368,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "C to Go Assembly",
+            "homepage": null,
             "id": 86103984,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-27T14:34:32Z",
+            "open_issues": 12,
             "owner": "minio",
             "repo": "c2goasm",
-            "stars": 1349
+            "stars": 1349,
+            "topics": [
+              "asm",
+              "clang",
+              "gcc",
+              "go",
+              "golang",
+              "llvm",
+              "plan9",
+              "runtime"
+            ]
           },
           "title": "⏫ Convert C assembly to Go assembly with c2goasm",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1487,12 +2404,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":hamster: Embed Go Playground on your Website",
+            "homepage": "https://ggicci.me/goplay",
             "id": 490977098,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-10-15T02:54:04Z",
+            "open_issues": 0,
             "owner": "ggicci",
             "repo": "goplay",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "go",
+              "go-playground",
+              "golang"
+            ]
           },
           "title": "⏫ Embed Go Playground to your blog with goplay",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1503,12 +2429,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Better Go Playground with autocompletion and syntax highlight",
+            "homepage": "https://goplay.tools/",
             "id": 234390922,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T03:12:07Z",
+            "open_issues": 5,
             "owner": "x1unix",
             "repo": "go-playground",
-            "stars": 1486
+            "stars": 1486,
+            "topics": [
+              "go-playground",
+              "golang",
+              "golang-package",
+              "golang-tools",
+              "goplay",
+              "goplayground",
+              "monaco-editor",
+              "playground"
+            ]
           },
           "title": "⏫ Run alternative Go Playground with goplay.tools",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1519,12 +2459,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Go kernel for Jupyter notebooks and nteract.",
+            "homepage": null,
             "id": 50202460,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-03T18:02:49Z",
+            "open_issues": 55,
             "owner": "gopherdata",
             "repo": "gophernotes",
-            "stars": 3967
+            "stars": 3967,
+            "topics": [
+              "artificial-intelligence",
+              "data-science",
+              "go",
+              "golang",
+              "gophernotes",
+              "jupyter",
+              "jupyter-notebook",
+              "kernel",
+              "machine-learning",
+              "nteract",
+              "numerical-methods",
+              "zeromq"
+            ]
           },
           "title": "⏫ Run interactive Go kernels in Jupyter Notebook with gophernotes",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1535,12 +2493,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Yaegi is Another Elegant Go Interpreter",
+            "homepage": "https://pkg.go.dev/github.com/traefik/yaegi",
             "id": 116938442,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-09T08:56:05Z",
+            "open_issues": 184,
             "owner": "traefik",
             "repo": "yaegi",
-            "stars": 8378
+            "stars": 8379,
+            "topics": [
+              "go",
+              "golang",
+              "interpreter"
+            ]
           },
           "title": "⏫ Run interactive Go interpreter with yaegi",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1551,12 +2518,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+            "homepage": null,
             "id": 82091206,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-02T09:49:13Z",
+            "open_issues": 49,
             "owner": "cosmos72",
             "repo": "gomacro",
-            "stars": 2299
+            "stars": 2300,
+            "topics": [
+              "debugger",
+              "eval",
+              "generics",
+              "golang",
+              "interpreter",
+              "macros",
+              "repl"
+            ]
           },
           "title": "⏫ Run interactive Go interpreter with gomacro",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1567,12 +2547,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "It's like go run for any go function",
+            "homepage": null,
             "id": 69049016,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-13T15:10:42Z",
+            "open_issues": 14,
             "owner": "natefinch",
             "repo": "gorram",
-            "stars": 1050
+            "stars": 1050,
+            "topics": [
+              "code-generation",
+              "go",
+              "golang"
+            ]
           },
           "title": "⏫ Run Go function in shell with gorram",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1583,12 +2572,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "miscellaneous useful commands, including 'gosh' the Go scripting tool",
+            "homepage": null,
             "id": 179823717,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-23T23:11:29Z",
+            "open_issues": 2,
             "owner": "nickwells",
             "repo": "utilities",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "go",
+              "golang",
+              "gosh"
+            ]
           },
           "title": "⏫ Run Go function in shell with gosh",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1599,12 +2597,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Concurrency tracer and visualizer for Go (Golang) programming language",
+            "homepage": null,
             "id": 53668532,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-12T05:04:37Z",
+            "open_issues": 18,
             "owner": "divan",
             "repo": "gotrace",
-            "stars": 1979
+            "stars": 1979,
+            "topics": []
           },
           "title": "⏫ Create 3D visualization of concurrency traces with gotrace",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1621,12 +2624,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Command line monitoring for goroutines",
+            "homepage": null,
             "id": 122902103,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-18T07:29:14Z",
+            "open_issues": 4,
             "owner": "bcicen",
             "repo": "grmon",
-            "stars": 1892
+            "stars": 1892,
+            "topics": [
+              "cli",
+              "command-line",
+              "developer-tools",
+              "go",
+              "golang",
+              "top"
+            ]
           },
           "title": "⏫ Monitor goroutines with grmon",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1637,12 +2652,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool to list and diagnose Go processes currently running on your system",
+            "homepage": null,
             "id": 73430589,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-16T20:32:38Z",
+            "open_issues": 34,
             "owner": "google",
             "repo": "gops",
-            "stars": 7017
+            "stars": 7017,
+            "topics": [
+              "cpu-profile",
+              "diagnostics",
+              "go",
+              "go-tools",
+              "golang",
+              "heap-profile"
+            ]
           },
           "title": "⏫ Monitor Go processes with gops",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1653,12 +2680,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Monitor Go app's performance in seconds, not a day.",
+            "homepage": null,
             "id": 841691764,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-01T18:57:00Z",
+            "open_issues": 1,
             "owner": "moderato-app",
             "repo": "live-pprof",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "development",
+              "go",
+              "grafana",
+              "local",
+              "monitor",
+              "perfomance",
+              "pprof",
+              "prometheus"
+            ]
           },
           "title": "⏫ Monitor Go runtime metrics in browser with live-pprof",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1669,12 +2710,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Visualise Go runtime metrics in real time",
+            "homepage": null,
             "id": 287403351,
             "language": "Go",
-            "last_commit": "2026-08-27T21:07:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:38:24Z",
+            "open_issues": 16,
             "owner": "arl",
             "repo": "statsviz",
-            "stars": 3645
+            "stars": 3645,
+            "topics": [
+              "garbage-collector",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest",
+              "live",
+              "metrics",
+              "monitoring",
+              "plots",
+              "runtime",
+              "stats",
+              "visualization"
+            ]
           },
           "title": "⏫ Monitor Go runtime metrics in browser with statsviz",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1685,12 +2744,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Automatically add Trace Spans to Go functions",
+            "homepage": null,
             "id": 562162320,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T18:21:13Z",
+            "open_issues": 3,
             "owner": "nikolaydubina",
             "repo": "go-instrument",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "title": "⏫ Auto-Instrument all functions with go-instrument",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1701,12 +2765,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "OpenTelemetry auto-instrumentation tool for Golang. It automatically injects OpenTelemetry blocks.",
+            "homepage": null,
             "id": 522188412,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-18T04:57:40Z",
+            "open_issues": 0,
             "owner": "hedhyw",
             "repo": "otelinji",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "title": "⏫ Auto-Instrument all functions with otelinji",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1717,12 +2786,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automatic compile-time instrumentation of Go code",
+            "homepage": "http://datadoghq.dev/orchestrion/",
             "id": 608346290,
             "language": "Go",
-            "last_commit": "2026-08-24T16:12:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:12:21Z",
+            "open_issues": 21,
             "owner": "DataDog",
             "repo": "orchestrion",
-            "stars": 622
+            "stars": 622,
+            "topics": [
+              "apm",
+              "datadog",
+              "go",
+              "instrumentation",
+              "monitoring",
+              "tracing"
+            ]
           },
           "title": "⏫ Auto-Instrument functions for DataDog with orchestrion",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1733,12 +2814,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+            "homepage": "https://grafana.com/oss/pyroscope/",
             "id": 325724738,
             "language": "Go",
-            "last_commit": "2026-08-28T05:05:32Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T23:40:27Z",
+            "open_issues": 397,
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11642
+            "stars": 11642,
+            "topics": [
+              "continuous-profiling",
+              "developer-tools",
+              "devops",
+              "find-bottlenecks",
+              "golang",
+              "hacktoberfest",
+              "linux",
+              "monitoring",
+              "observability",
+              "performance",
+              "profiling",
+              "pyroscope",
+              "python",
+              "ruby"
+            ]
           },
           "title": "⏫ Continuous Profiling with Pyroscope",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1755,12 +2856,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A port of Brendan Gregg's eBPF profile.py application to Golang.",
+            "homepage": null,
             "id": 948861201,
             "language": "C",
+            "license": null,
             "last_commit": "2025-03-25T08:09:53Z",
+            "open_issues": 0,
             "owner": "benbaker76",
             "repo": "go-profile",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "title": "⏫ :gift: Profile and visualize (with video) Go profiles through eBPF with go-profile",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1771,12 +2877,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Performance Analysis Toolbox for Go programs.",
+            "homepage": null,
             "id": 443820677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T20:53:15Z",
+            "open_issues": 0,
             "owner": "maruel",
             "repo": "pat",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "⏫ Benchmark against git commit with pat/ba",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1787,12 +2898,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📉 Run Go benchmarks, publish results to an interactive web app, and check for performance regressions in your pull requests",
+            "homepage": "https://gobenchdata.bobheadxi.dev",
             "id": 183367253,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-28T18:45:31Z",
+            "open_issues": 12,
             "owner": "bobheadxi",
             "repo": "gobenchdata",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "benchmarking",
+              "charts",
+              "continuous-benchmarking",
+              "continuous-benchmarks",
+              "github-actions",
+              "golang",
+              "typescript",
+              "vuejs"
+            ]
           },
           "title": "⏫ Continuous benchmarking with gobenchdata",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1803,12 +2928,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 324849242,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-05-16T16:03:27Z",
+            "open_issues": 4,
             "owner": "WillAbides",
             "repo": "benchdiff",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "benchmark",
+              "benchstat",
+              "golang"
+            ]
           },
           "title": "⏫ Continuous benchmarking with benchdiff",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1819,12 +2953,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Continuous Benchmark for Go Project",
+            "homepage": null,
             "id": 233287637,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T06:45:49Z",
+            "open_issues": 12,
             "owner": "knqyf263",
             "repo": "cob",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "benchmark",
+              "ci",
+              "go",
+              "golang",
+              "test",
+              "testing"
+            ]
           },
           "title": "⏫ Continuous benchmarking with cob",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1835,12 +2981,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go execution trace frontend",
+            "homepage": "https://gotraceui.dev",
             "id": 504360908,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-15T14:55:51Z",
+            "open_issues": 96,
             "owner": "dominikh",
             "repo": "gotraceui",
-            "stars": 1408
+            "stars": 1408,
+            "topics": [
+              "golang",
+              "tracing"
+            ]
           },
           "title": "⏫ View traces with gotraceui",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1851,12 +3005,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "In-process request tracing",
+            "homepage": null,
             "id": 500131331,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T16:52:46Z",
+            "open_issues": 0,
             "owner": "peterbourgon",
             "repo": "trc",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "title": "⏫ View in-process traces with trc",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1867,12 +3026,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.",
+            "homepage": null,
             "id": 537923574,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-11-27T12:24:09Z",
+            "open_issues": 0,
             "owner": "felixge",
             "repo": "fgtrace",
-            "stars": 908
+            "stars": 908,
+            "topics": []
           },
           "title": "⏫ View wallclock traces with fgtrace",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1883,12 +3047,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.",
+            "homepage": null,
             "id": 274135349,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-02T11:48:54Z",
+            "open_issues": 7,
             "owner": "felixge",
             "repo": "fgprof",
-            "stars": 3110
+            "stars": 3110,
+            "topics": [
+              "go",
+              "golang",
+              "performance",
+              "performance-analysis",
+              "profiling",
+              "profiling-library"
+            ]
           },
           "title": "⏫ Get on/off CPU profiles with fgprof",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1905,12 +3081,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An experimental Go local docs server/generator and code reader implemented with some fresh ideas.",
+            "homepage": "https://go101.org/apps-and-libs/golds.html",
             "id": 255966848,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-06T16:19:31Z",
+            "open_issues": 21,
             "owner": "go101",
             "repo": "golds",
-            "stars": 652
+            "stars": 652,
+            "topics": [
+              "codereader",
+              "docgenerator",
+              "docviewer",
+              "go",
+              "golang",
+              "tool"
+            ]
           },
           "title": "⏫ Make alternative documentation with golds",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1921,12 +3109,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The missing man page for Go binaries. Goman fetches the repo's readme as a man page replacement.",
+            "homepage": null,
             "id": 95254302,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T10:43:04Z",
+            "open_issues": 0,
             "owner": "appliedgocode",
             "repo": "goman",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "title": "⏫ Read Go binary documentation in format with goman",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1937,12 +3130,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Insert coverage badge in your readme with go",
+            "homepage": null,
             "id": 236121773,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-01T22:24:15Z",
+            "open_issues": 2,
             "owner": "AlexBeauchemin",
             "repo": "gobadge",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "title": "⏫ Generate badge with gobadge",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1953,12 +3151,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate readme file from Go doc. Now available as a Github action!",
+            "homepage": null,
             "id": 172229183,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-18T20:11:13Z",
+            "open_issues": 15,
             "owner": "posener",
             "repo": "goreadme",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "actions",
+              "code-generation",
+              "code-quality",
+              "doc",
+              "docs",
+              "github",
+              "github-actions",
+              "github-app",
+              "go",
+              "godoc",
+              "golang",
+              "markdown",
+              "readme"
+            ]
           },
           "title": "⏫ Generate README.md based on GoDoc comments with goreadme",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1975,12 +3192,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 670375499,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T05:54:55Z",
+            "open_issues": 12,
             "owner": "google",
             "repo": "capslock",
-            "stars": 1176
+            "stars": 1176,
+            "topics": []
           },
           "title": "⏫ Detect escalated privileges in dependencies with capslock",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -1991,12 +3213,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go security checker",
+            "homepage": "https://securego.io",
             "id": 63625434,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:57:23Z",
+            "open_issues": 11,
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8935
+            "stars": 8935,
+            "topics": [
+              "golang",
+              "security",
+              "security-automation",
+              "security-tools",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "title": "⏫ Run static analysis with gosec",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2007,12 +3241,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚰 Static taint analysis for Go programs.",
+            "homepage": null,
             "id": 576040396,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-10T11:29:47Z",
+            "open_issues": 1,
             "owner": "picatz",
             "repo": "taint",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "title": "⏫ Perform Taint Analysis with taint",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2023,12 +3262,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Microsoft build of Go is a modified version of Go that can build FIPS compliant applications that satisfy internal Microsoft policies.",
+            "homepage": null,
             "id": 342718439,
             "language": "Go",
-            "last_commit": "2026-08-26T16:12:50Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T14:32:29Z",
+            "open_issues": 124,
             "owner": "microsoft",
             "repo": "go",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "title": "⏫ Use Microsoft Go compiler with microsoft/go",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2045,12 +3289,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Staticcheck - The advanced Go linter",
+            "homepage": "https://staticcheck.dev",
             "id": 79954708,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:54:49Z",
+            "open_issues": 571,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6863
+            "stars": 6870,
+            "topics": [
+              "linter",
+              "linters",
+              "sponsor",
+              "static-analysis",
+              "staticcheck"
+            ]
           },
           "title": "⏫ Detect most common issues with staticcheck",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2061,12 +3316,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint",
+            "homepage": "https://revive.run",
             "id": 96237042,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:30:01Z",
+            "open_issues": 72,
             "owner": "mgechev",
             "repo": "revive",
-            "stars": 5547
+            "stars": 5547,
+            "topics": [
+              "go",
+              "golang",
+              "golint",
+              "hacktoberfest",
+              "linter",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "title": "⏫ Detect common style, performance, and naming issues with revive",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2077,12 +3345,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Static analysis tool to detect potential nil panics in Go code",
+            "homepage": null,
             "id": 665193375,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:54:36Z",
+            "open_issues": 78,
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3901
+            "stars": 3901,
+            "topics": [
+              "go",
+              "nil-pointer",
+              "nilability",
+              "nilability-analysis",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Detect potential Nil panics with nilaway",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2093,12 +3372,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The most opinionated Go source code linter for code audit.",
+            "homepage": "https://go-critic.com",
             "id": 132232698,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-26T20:18:06Z",
+            "open_issues": 153,
             "owner": "go-critic",
             "repo": "go-critic",
-            "stars": 2066
+            "stars": 2066,
+            "topics": [
+              "conventions",
+              "go",
+              "go-lintpack",
+              "golang",
+              "hacktoberfest",
+              "idiomatic-go",
+              "linter",
+              "lintpack",
+              "ruleguard",
+              "style-checker"
+            ]
           },
           "title": "⏫ Detect most common issues with go-critic",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2109,12 +3404,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Check exhaustiveness of switch statements of enum-like constants in Go source code.",
+            "homepage": "https://pkg.go.dev/github.com/nishanths/exhaustive",
             "id": 265183027,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-12-05T04:16:32Z",
+            "open_issues": 13,
             "owner": "nishanths",
             "repo": "exhaustive",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "ast",
+              "go",
+              "types",
+              "vet"
+            ]
           },
           "title": "⏫ Detect non-exhaustive switch and map with exhaustive",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2125,12 +3430,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "golang analyzer that finds structures with uninitialized fields",
+            "homepage": null,
             "id": 471459709,
             "language": "Go",
-            "last_commit": "2026-08-26T21:09:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:20:16Z",
+            "open_issues": 14,
             "owner": "GaijinEntertainment",
             "repo": "go-exhaustruct",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "analysis",
+              "golang",
+              "lint",
+              "structures"
+            ]
           },
           "title": "⏫ Detect structs with uninitialized fields with go-exhaustruct",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2141,12 +3456,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Detect missing cascading calls in Go",
+            "homepage": null,
             "id": 1114950101,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T21:23:33Z",
+            "open_issues": 0,
             "owner": "nikolaydubina",
             "repo": "go-lint-cascade",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "title": "⏫ :gift: Detect missing cascade calls with go-lint-cascade",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2157,12 +3477,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go Vet-style linter to find incorrect uses of reflect.SliceHeader and reflect.StringHeader, and unsafe casts between structs with architecture-sized fields",
+            "homepage": null,
             "id": 266775172,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-11-28T21:44:39Z",
+            "open_issues": 1,
             "owner": "jlauinger",
             "repo": "go-safer",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "go",
+              "golang",
+              "linter",
+              "static-analysis",
+              "unsafe-code"
+            ]
           },
           "title": "⏫ Detect unsafe code with go-safer",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2173,12 +3504,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go linter that flags panic() call that don't have a comment explaining why panic",
+            "homepage": null,
             "id": 869223736,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T06:23:28Z",
+            "open_issues": 1,
             "owner": "ldemailly",
             "repo": "panic-linter",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "go",
+              "golang",
+              "golang-linter",
+              "linter"
+            ]
           },
           "title": "⏫ Detect without explaining comment with panic-linter",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2189,12 +3530,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Remove unnecessary type conversions from Go source",
+            "homepage": null,
             "id": 52119293,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T21:53:04Z",
+            "open_issues": 9,
             "owner": "mdempsky",
             "repo": "unconvert",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "title": "⏫ Detect unnecessary type conversions with unconvert",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2205,12 +3551,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Check that no globals are present in Go code.",
+            "homepage": null,
             "id": 134223302,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-15T00:17:35Z",
+            "open_issues": 7,
             "owner": "leighmcculloch",
             "repo": "gochecknoglobals",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "title": "⏫ Detect global variables with gochecknoglobals",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2221,12 +3572,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.",
+            "homepage": null,
             "id": 109629814,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-26T22:09:13Z",
+            "open_issues": 3,
             "owner": "alexkohler",
             "repo": "prealloc",
-            "stars": 666
+            "stars": 666,
+            "topics": [
+              "go",
+              "golang",
+              "prealloc-suggestions",
+              "slice",
+              "static-analysis",
+              "static-analyzer",
+              "static-code-analysis"
+            ]
           },
           "title": "⏫ Detect slices that could be preallocated with prealloc",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2237,12 +3601,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "unimport is a Go static analysis tool to find unnecessary import aliases.",
+            "homepage": null,
             "id": 107881537,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-11-06T22:33:09Z",
+            "open_issues": 1,
             "owner": "alexkohler",
             "repo": "unimport",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "go",
+              "golang",
+              "static-analysis",
+              "static-analyzer",
+              "static-code-analysis"
+            ]
           },
           "title": "⏫ Detect unnecessary import aliases with unimport",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2253,12 +3628,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "linter to enforce consistent import aliases",
+            "homepage": null,
             "id": 333747774,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-26T14:15:41Z",
+            "open_issues": 8,
             "owner": "julz",
             "repo": "importas",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "title": "⏫ Detect unexpected import aliases with importas",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2269,12 +3649,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Detect inconsistent import aliases",
+            "homepage": null,
             "id": 650160918,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-02T09:08:05Z",
+            "open_issues": 1,
             "owner": "nikolaydubina",
             "repo": "consistentimports",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "analyzer",
+              "linter",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Detect inconsistent import aliases with consistentimports",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2285,12 +3674,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "nakedret is a Go static analysis tool to find naked returns in functions greater than a specified function length.",
+            "homepage": null,
             "id": 106192858,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-01T01:47:11Z",
+            "open_issues": 2,
             "owner": "alexkohler",
             "repo": "nakedret",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "go",
+              "golang",
+              "static-analysis",
+              "static-analyzer",
+              "static-code-analysis"
+            ]
           },
           "title": "⏫ Detect naked returns with nakedret",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2301,12 +3701,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "detect mixing pointer and value method receivers",
+            "homepage": null,
             "id": 572491907,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-02T09:06:57Z",
+            "open_issues": 4,
             "owner": "nikolaydubina",
             "repo": "smrcptr",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "analyzer",
+              "linter",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Detect mixing pointer and value method receivers with smrcptr",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2317,12 +3726,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Go linter for Vertical Function Ordering",
+            "homepage": null,
             "id": 585134743,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:42:14Z",
+            "open_issues": 11,
             "owner": "nikolaydubina",
             "repo": "vertfn",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "analyzer",
+              "clean-code",
+              "linter",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Detect vertical function ordering with vertfn",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2333,12 +3752,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Go linter that can enforce reference-based ordering of definitions in a file",
+            "homepage": null,
             "id": 706903151,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-03-14T03:12:20Z",
+            "open_issues": 2,
             "owner": "devnev",
             "repo": "refdir",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "⏫ Detect vertical symbol ordering with refdir",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2349,12 +3773,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Linter to check if your tests have been marked as parallel correctly",
+            "homepage": null,
             "id": 296235125,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-14T01:41:26Z",
+            "open_issues": 5,
             "owner": "kunwardeep",
             "repo": "paralleltest",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "linter",
+              "parallel",
+              "test"
+            ]
           },
           "title": "⏫ Detect tests with wrong usage with paralleltest",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2365,12 +3798,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "tparallel finds inappropriate usage of `t.Parallel()` method in your Go test codes",
+            "homepage": null,
             "id": 291945455,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-26T06:21:19Z",
+            "open_issues": 10,
             "owner": "moricho",
             "repo": "tparallel",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "title": "⏫ Detect tests with wrong usage with tparallel",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2381,12 +3819,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Magic number detector for Go.",
+            "homepage": null,
             "id": 172142194,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-21T08:59:47Z",
+            "open_issues": 11,
             "owner": "tommy-muehle",
             "repo": "go-mnd",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "analysis",
+              "cli",
+              "code-checker",
+              "detector",
+              "go",
+              "go-vet",
+              "golang",
+              "magic-numbers",
+              "static-analysis"
+            ]
           },
           "title": "⏫ Detect magic numbers with mnd",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2397,12 +3850,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Find in Go repeated strings that could be replaced by a constant",
+            "homepage": null,
             "id": 48519006,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-29T12:39:52Z",
+            "open_issues": 1,
             "owner": "jgautheron",
             "repo": "goconst",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "go",
+              "linter"
+            ]
           },
           "title": "⏫ Detect magic strings with goconst",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2413,12 +3874,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Performance Analysis Toolbox for Go programs.",
+            "homepage": null,
             "id": 443820677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T20:53:15Z",
+            "open_issues": 0,
             "owner": "maruel",
             "repo": "pat",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "⏫ Detect bound checks with pat/boundcheck",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2429,12 +3895,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Golang linter to use strconv",
+            "homepage": null,
             "id": 617032611,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-19T03:07:48Z",
+            "open_issues": 6,
             "owner": "catenacyber",
             "repo": "perfsprint",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "title": "⏫ :gift: Detect performance optimizations with perfsprint",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2445,12 +3916,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)",
+            "homepage": null,
             "id": 210177781,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-24T07:17:45Z",
+            "open_issues": 2,
             "owner": "uudashr",
             "repo": "gocognit",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "cognitive",
+              "complexity",
+              "go",
+              "golang",
+              "linter",
+              "metrics",
+              "tool"
+            ]
           },
           "title": "⏫ Calculate Cognitive Complexity with gocognit",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2461,12 +3945,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Calculate cyclomatic complexities of functions in Go source code.",
+            "homepage": null,
             "id": 16110085,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-27T21:31:09Z",
+            "open_issues": 11,
             "owner": "fzipp",
             "repo": "gocyclo",
-            "stars": 1600
+            "stars": 1600,
+            "topics": [
+              "code-metrics",
+              "cyclomatic-complexity",
+              "go",
+              "golang",
+              "mccabe",
+              "mccabe-metric",
+              "software-metrics"
+            ]
           },
           "title": "⏫ Calculate Cyclomatic Complexity with gocyclo",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2477,12 +3974,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 261148431,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-16T17:00:46Z",
+            "open_issues": 1,
             "owner": "bkielbasa",
             "repo": "cyclop",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "go",
+              "golang",
+              "linter"
+            ]
           },
           "title": "⏫ Calculate Cyclomatic Complexity with cyclop",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2493,12 +3999,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "How far Go comments drifting behind?",
+            "homepage": null,
             "id": 570814563,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:50:32Z",
+            "open_issues": 4,
             "owner": "nikolaydubina",
             "repo": "go-commentage",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "title": "⏫ Calculate age of comments with go-commentage",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2509,12 +4020,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Go linter for checking that your code uses short syntax for if-statements whenever possible.",
+            "homepage": null,
             "id": 310839604,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-07-31T15:31:44Z",
+            "open_issues": 0,
             "owner": "esimonov",
             "repo": "ifshort",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ast",
+              "linter",
+              "syntax-checker"
+            ]
           },
           "title": "⏫ Ensure statements using short assignment with ifshort",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2525,12 +4045,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Detect and fix struct field alignment to reduce memory usage in Go programs",
+            "homepage": null,
             "id": 614591980,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T10:01:24Z",
+            "open_issues": 0,
             "owner": "dkorunic",
             "repo": "betteralign",
-            "stars": 1078
+            "stars": 1078,
+            "topics": [
+              "alignment",
+              "analyzer",
+              "garbage-collector",
+              "golang",
+              "memory"
+            ]
           },
           "title": "⏫ Detect sub-optimal struct layout with betteralign",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2541,12 +4072,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Staticcheck - The advanced Go linter",
+            "homepage": "https://staticcheck.dev",
             "id": 79954708,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:54:49Z",
+            "open_issues": 571,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6863
+            "stars": 6870,
+            "topics": [
+              "linter",
+              "linters",
+              "sponsor",
+              "static-analysis",
+              "staticcheck"
+            ]
           },
           "title": "⏫ Detect sub-optimal struct layout with structlayout-optimize",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2557,12 +4099,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Staticcheck - The advanced Go linter",
+            "homepage": "https://staticcheck.dev",
             "id": 79954708,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:54:49Z",
+            "open_issues": 571,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6863
+            "stars": 6870,
+            "topics": [
+              "linter",
+              "linters",
+              "sponsor",
+              "static-analysis",
+              "staticcheck"
+            ]
           },
           "title": "⏫ Visualize struct layout with structlayout",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2573,12 +4126,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "analyse function callsites",
+            "homepage": null,
             "id": 657796564,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:51:13Z",
+            "open_issues": 1,
             "owner": "nikolaydubina",
             "repo": "go-callsite-stats",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "title": "⏫ Analyze function callsites with go-callsite-stats",
           "first_seen": "2026-08-28T06:15:37.792Z"
@@ -2588,15 +4146,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:15:37.792Z",
+    "last_updated": "2026-08-29T03:49:58.951Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🦩 Tools for Go projects",
+      "homepage": null,
       "id": 380501914,
       "language": "Go",
+      "license": "MIT",
       "last_commit": "2026-08-18T10:17:25Z",
+      "open_issues": 24,
       "owner": "nikolaydubina",
       "repo": "go-recipes",
-      "stars": 4501
+      "stars": 4501,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "benchmarking",
+        "code-generation",
+        "code-visualization",
+        "command-line-tool",
+        "compilers",
+        "data-visualization",
+        "developer-tools",
+        "documentation",
+        "go",
+        "golang",
+        "profiling",
+        "static-analysis",
+        "tests",
+        "visualization"
+      ]
     },
     "original_repository_sha": "9695e26b09baa6a2f80df42fe34df37b5d0be10d",
     "enhanced_repository": "enhansome/enhansome-go-recipes",
