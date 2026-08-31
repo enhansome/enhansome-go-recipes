@@ -247,8 +247,8 @@
             "id": 770420968,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T09:56:01Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-30T21:02:00Z",
+            "open_issues": 4,
             "owner": "fgrosse",
             "repo": "go-coverage-report",
             "stars": 126,
@@ -272,8 +272,8 @@
             "id": 57333709,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:30:06Z",
-            "open_issues": 127,
+            "last_commit": "2026-08-30T13:00:09Z",
+            "open_issues": 126,
             "owner": "kubernetes",
             "repo": "test-infra",
             "stars": 4017,
@@ -320,7 +320,7 @@
             "open_issues": 22,
             "owner": "uber-go",
             "repo": "goleak",
-            "stars": 5262,
+            "stars": 5263,
             "topics": []
           },
           "title": "⏫ Detect goroutine leaks with goleak",
@@ -1032,7 +1032,7 @@
             "open_issues": 17,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "arch-lint",
               "arch-rules",
@@ -1150,7 +1150,7 @@
             "open_issues": 39,
             "owner": "jfeliu007",
             "repo": "goplantuml",
-            "stars": 2087,
+            "stars": 2086,
             "topics": [
               "diagram",
               "diagram-generator",
@@ -1319,7 +1319,7 @@
             "open_issues": 17,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "arch-lint",
               "arch-rules",
@@ -1403,7 +1403,7 @@
             "open_issues": 80,
             "owner": "omissis",
             "repo": "go-jsonschema",
-            "stars": 802,
+            "stars": 803,
             "topics": [
               "code-generation",
               "codegenerator",
@@ -1427,7 +1427,7 @@
             "id": 226480238,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T22:27:58Z",
+            "last_commit": "2026-08-30T21:58:47Z",
             "open_issues": 10,
             "owner": "moznion",
             "repo": "gonstructor",
@@ -1674,7 +1674,7 @@
             "open_issues": 318,
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8547,
+            "stars": 8551,
             "topics": [
               "go",
               "golang",
@@ -1705,7 +1705,7 @@
             "open_issues": 78,
             "owner": "xlab",
             "repo": "c-for-go",
-            "stars": 1682,
+            "stars": 1683,
             "topics": []
           },
           "title": "⏫ Generate C-Go Bindings with c-for-go",
@@ -2435,7 +2435,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-19T03:12:07Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "x1unix",
             "repo": "go-playground",
             "stars": 1486,
@@ -3218,11 +3218,11 @@
             "id": 63625434,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T09:57:23Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-31T00:47:14Z",
+            "open_issues": 12,
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8935,
+            "stars": 8937,
             "topics": [
               "golang",
               "security",
@@ -3298,7 +3298,7 @@
             "open_issues": 572,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6873,
+            "stars": 6874,
             "topics": [
               "linter",
               "linters",
@@ -4081,7 +4081,7 @@
             "open_issues": 572,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6873,
+            "stars": 6874,
             "topics": [
               "linter",
               "linters",
@@ -4108,7 +4108,7 @@
             "open_issues": 572,
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6873,
+            "stars": 6874,
             "topics": [
               "linter",
               "linters",
@@ -4146,7 +4146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:36:39.463Z",
+    "last_updated": "2026-08-31T00:47:35.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦩 Tools for Go projects",
