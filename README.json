@@ -272,8 +272,8 @@
             "id": 57333709,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T14:22:28Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-28T00:02:29Z",
+            "open_issues": 130,
             "owner": "kubernetes",
             "repo": "test-infra",
             "stars": 4023,
@@ -706,7 +706,7 @@
             "open_issues": 15,
             "owner": "gtramontina",
             "repo": "ooze",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "go",
               "golang",
@@ -739,7 +739,7 @@
             "open_issues": 25,
             "owner": "avito-tech",
             "repo": "go-mutesting",
-            "stars": 272,
+            "stars": 274,
             "topics": [
               "golang",
               "mutation-testing"
@@ -784,7 +784,7 @@
             "open_issues": 43,
             "owner": "zimmski",
             "repo": "go-mutesting",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "title": "⏫ Perform Mutation Testing with go-mutesting",
@@ -1703,8 +1703,8 @@
             "id": 173009358,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T06:20:33Z",
-            "open_issues": 310,
+            "last_commit": "2026-09-27T23:14:44Z",
+            "open_issues": 311,
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
             "stars": 8594,
@@ -2003,11 +2003,11 @@
             "id": 609147387,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T00:58:06Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-28T00:58:24Z",
+            "open_issues": 7,
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "analyzer",
               "binary",
@@ -2269,7 +2269,7 @@
             "open_issues": 3,
             "owner": "loov",
             "repo": "lensm",
-            "stars": 3688,
+            "stars": 3689,
             "topics": []
           },
           "title": "⏫ View Go assembly interactively with lensm",
@@ -2308,10 +2308,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-15T04:53:34Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "mmcloughlin",
             "repo": "avo",
-            "stars": 2991,
+            "stars": 2992,
             "topics": [
               "assembly",
               "code-generation",
@@ -2786,7 +2786,7 @@
             "open_issues": 3,
             "owner": "nikolaydubina",
             "repo": "go-instrument",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "title": "⏫ Auto-Instrument all functions with go-instrument",
@@ -2856,7 +2856,7 @@
             "open_issues": 418,
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11677,
+            "stars": 11678,
             "topics": [
               "continuous-profiling",
               "developer-tools",
@@ -3234,7 +3234,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "capslock",
-            "stars": 1181,
+            "stars": 1180,
             "topics": []
           },
           "title": "⏫ Detect escalated privileges in dependencies with capslock",
@@ -3252,7 +3252,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T08:23:20Z",
-            "open_issues": 6,
+            "open_issues": 9,
             "owner": "securego",
             "repo": "gosec",
             "stars": 8954,
@@ -3358,7 +3358,7 @@
             "open_issues": 57,
             "owner": "revive-lint",
             "repo": "revive",
-            "stars": 5555,
+            "stars": 5554,
             "topics": [
               "ci",
               "go",
@@ -3387,7 +3387,7 @@
             "open_issues": 78,
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3914,
+            "stars": 3915,
             "topics": [
               "go",
               "nil-pointer",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:49:02.283Z",
+    "last_updated": "2026-09-28T01:05:43.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦩 Tools for Go projects",
