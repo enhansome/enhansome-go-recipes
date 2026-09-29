@@ -207,11 +207,11 @@
             "id": 618927215,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T07:38:43Z",
+            "last_commit": "2026-09-28T09:20:39Z",
             "open_issues": 7,
             "owner": "vladopajic",
             "repo": "go-test-coverage",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "automation",
               "ci",
@@ -251,7 +251,7 @@
             "open_issues": 4,
             "owner": "fgrosse",
             "repo": "go-coverage-report",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "actions",
               "code-coverage",
@@ -272,11 +272,11 @@
             "id": 57333709,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T00:02:29Z",
-            "open_issues": 130,
+            "last_commit": "2026-09-28T19:07:19Z",
+            "open_issues": 131,
             "owner": "kubernetes",
             "repo": "test-infra",
-            "stars": 4023,
+            "stars": 4024,
             "topics": [
               "k8s-sig-testing"
             ]
@@ -939,7 +939,7 @@
             "open_issues": 20,
             "owner": "loov",
             "repo": "goda",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "dependency-analysis",
               "go"
@@ -1065,7 +1065,7 @@
             "open_issues": 18,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "arch-lint",
               "arch-rules",
@@ -1352,7 +1352,7 @@
             "open_issues": 18,
             "owner": "fe3dback",
             "repo": "go-arch-lint",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "arch-lint",
               "arch-rules",
@@ -1527,7 +1527,7 @@
             "open_issues": 113,
             "owner": "uber-go",
             "repo": "mock",
-            "stars": 3414,
+            "stars": 3415,
             "topics": []
           },
           "title": "⏫ Generate mocks with mockgen",
@@ -1703,11 +1703,11 @@
             "id": 173009358,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T23:14:44Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-28T16:30:23Z",
+            "open_issues": 309,
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8594,
+            "stars": 8597,
             "topics": [
               "go",
               "golang",
@@ -1738,7 +1738,7 @@
             "open_issues": 78,
             "owner": "xlab",
             "repo": "c-for-go",
-            "stars": 1682,
+            "stars": 1684,
             "topics": []
           },
           "title": "⏫ Generate C-Go Bindings with c-for-go",
@@ -2007,7 +2007,7 @@
             "open_issues": 7,
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2178,
+            "stars": 2182,
             "topics": [
               "analyzer",
               "binary",
@@ -2168,7 +2168,7 @@
             "open_issues": 190,
             "owner": "gopherjs",
             "repo": "gopherjs",
-            "stars": 13186,
+            "stars": 13187,
             "topics": [
               "compiler",
               "go",
@@ -2195,7 +2195,7 @@
             "open_issues": 0,
             "owner": "pijng",
             "repo": "prep",
-            "stars": 499,
+            "stars": 498,
             "topics": []
           },
           "title": "⏫ Run compile-time function evaluation with prep",
@@ -2535,7 +2535,7 @@
             "open_issues": 186,
             "owner": "traefik",
             "repo": "yaegi",
-            "stars": 8402,
+            "stars": 8404,
             "topics": [
               "go",
               "golang",
@@ -2636,7 +2636,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-11-12T05:04:37Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "divan",
             "repo": "gotrace",
             "stars": 1981,
@@ -2666,7 +2666,7 @@
             "open_issues": 4,
             "owner": "bcicen",
             "repo": "grmon",
-            "stars": 1893,
+            "stars": 1894,
             "topics": [
               "cli",
               "command-line",
@@ -2694,7 +2694,7 @@
             "open_issues": 36,
             "owner": "google",
             "repo": "gops",
-            "stars": 7021,
+            "stars": 7022,
             "topics": [
               "cpu-profile",
               "diagnostics",
@@ -2748,7 +2748,7 @@
             "id": 287403351,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:04:58Z",
+            "last_commit": "2026-09-28T21:06:00Z",
             "open_issues": 10,
             "owner": "arl",
             "repo": "statsviz",
@@ -2824,11 +2824,11 @@
             "id": 608346290,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T16:00:10Z",
+            "last_commit": "2026-09-28T15:59:50Z",
             "open_issues": 20,
             "owner": "DataDog",
             "repo": "orchestrion",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "apm",
               "datadog",
@@ -2852,11 +2852,11 @@
             "id": 325724738,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T07:14:11Z",
-            "open_issues": 418,
+            "last_commit": "2026-09-28T17:19:24Z",
+            "open_issues": 417,
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11678,
+            "stars": 11681,
             "topics": [
               "continuous-profiling",
               "developer-tools",
@@ -3023,7 +3023,7 @@
             "open_issues": 96,
             "owner": "dominikh",
             "repo": "gotraceui",
-            "stars": 1408,
+            "stars": 1407,
             "topics": [
               "golang",
               "tracing"
@@ -3251,11 +3251,11 @@
             "id": 63625434,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:23:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-28T18:48:39Z",
+            "open_issues": 10,
             "owner": "securego",
             "repo": "gosec",
-            "stars": 8954,
+            "stars": 8955,
             "topics": [
               "golang",
               "security",
@@ -3300,11 +3300,11 @@
             "id": 342718439,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T16:22:56Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-28T19:54:48Z",
+            "open_issues": 126,
             "owner": "microsoft",
             "repo": "go",
-            "stars": 431,
+            "stars": 432,
             "topics": []
           },
           "title": "⏫ Use Microsoft Go compiler with microsoft/go",
@@ -3358,7 +3358,7 @@
             "open_issues": 57,
             "owner": "revive-lint",
             "repo": "revive",
-            "stars": 5554,
+            "stars": 5553,
             "topics": [
               "ci",
               "go",
@@ -3387,7 +3387,7 @@
             "open_issues": 78,
             "owner": "uber-go",
             "repo": "nilaway",
-            "stars": 3915,
+            "stars": 3917,
             "topics": [
               "go",
               "nil-pointer",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:05:43.014Z",
+    "last_updated": "2026-09-29T02:14:03.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦩 Tools for Go projects",
@@ -4191,7 +4191,7 @@
       "open_issues": 24,
       "owner": "nikolaydubina",
       "repo": "go-recipes",
-      "stars": 4776,
+      "stars": 4777,
       "topics": [
         "awesome",
         "awesome-list",
