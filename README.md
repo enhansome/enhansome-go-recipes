@@ -425,7 +425,7 @@ Requirements
 go install github.com/vladopajic/go-test-coverage/v2@latest
 ```
 
-### [⏫](#contents) :gift: Comment code coverage reports in pull request with [go-coverage-report](https://github.com/fgrosse/go-coverage-report) ⭐ 125 | 🐛 2 | 🌐 Go | 📅 2026-10-03
+### [⏫](#contents) :gift: Comment code coverage reports in pull request with [go-coverage-report](https://github.com/fgrosse/go-coverage-report) ⭐ 126 | 🐛 2 | 🌐 Go | 📅 2026-10-03
 
 A CLI tool and GitHub Action to post Go code coverage reports as a comment on your pull requests. — [@fgrosse](https://github.com/fgrosse)
 
@@ -435,7 +435,7 @@ A CLI tool and GitHub Action to post Go code coverage reports as a comment on yo
 
 This is a useful basic technique that should be more widely known (just like bisect). Read more in the blog post. — [@rsc](https://github.com/rsc)
 
-### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,026 | 🐛 133 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,026 | 🐛 131 | 🌐 Go | 📅 2026-10-09
 
 Kubernetes test-infra contains a couple of useful granular tools to manipulate coverage profiles. — [@kubernetes](https://github.com/kubernetes)
 
@@ -502,7 +502,7 @@ go test -list . | grep Fuzz | xargs -P 8 -I {} go test -fuzz {} -fuzztime 5s .
 
 This project provides a setup for fuzzing Go binaries using LibAFL. By leveraging Go native libFuzzer-compatible instrumentation (`sancov_8bit`), we enable advanced fuzzing capabilities beyond Go built-in fuzzing support. — [@srlabs](https://github.com/srlabs)
 
-### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,291 | 🐛 25 | 🌐 Go | 📅 2026-09-15
+### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,290 | 🐛 26 | 🌐 Go | 📅 2026-09-15
 
 Instrument your test cases with verification call. Alternatively, you can add single call in `TestMain`. This tool was recommended by Pyroscope in [blog](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Uber
 
@@ -553,7 +553,7 @@ Requirements
 go install github.com/roblaszczak/vgt@latest
 ```
 
-### [⏫](#contents) Summarize `go test` with [tparse](https://github.com/mfridman/tparse) ⭐ 1,261 | 🐛 26 | 🌐 Go | 📅 2025-11-27
+### [⏫](#contents) Summarize `go test` with [tparse](https://github.com/mfridman/tparse) ⭐ 1,260 | 🐛 26 | 🌐 Go | 📅 2025-11-27
 
 This lightweight wrapper around STDOUT of JSON of `go test` will nicely render colorized test status, details of failures, duration, coverage, and package summary. — [@mfridman](https://github.com/mfridman)
 
@@ -585,7 +585,7 @@ Requirements
 go install github.com/kyoh86/richgo@latest
 ```
 
-### [⏫](#contents) Decorate `go test` with [gotest](https://github.com/rakyll/gotest) ⭐ 1,394 | 🐛 17 | 🌐 Go | 📅 2026-01-10
+### [⏫](#contents) Decorate `go test` with [gotest](https://github.com/rakyll/gotest) ⭐ 1,392 | 🐛 17 | 🌐 Go | 📅 2026-01-10
 
 Add colors to `go test` output. Very lightweight wrapper around `go test` STDOUT. — [@rakyll](https://github.com/rakyll)
 
@@ -962,7 +962,7 @@ This works even if you did not download or install module locally. This is usefu
 go list -m -versions github.com/google/gofuzz
 ```
 
-### [⏫](#contents) Get go module libyear, number of releases, version delta with [go-libyear](https://github.com/nieomylnieja/go-libyear) ⭐ 42 | 🐛 7 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Get go module libyear, number of releases, version delta with [go-libyear](https://github.com/nieomylnieja/go-libyear) ⭐ 42 | 🐛 7 | 🌐 Go | 📅 2026-10-10
 
 [libyear](https://libyear.com) is a simple measure of software dependency freshness. It is a single number telling you how up-to-date your dependencies are. For example Rails 5.0.0 (June 2016) is 1 libyear behind 5.1.2 (June 2017). This tool can also compute number of releases, and version number delta. — [@nieomylnieja](https://github.com/nieomylnieja)
 
@@ -1405,7 +1405,7 @@ go install github.com/fe3dback/go-arch-lint@latest
 
 ### [⏫](#contents) Run `go:generate` in parallel
 
-Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 139,135 | 🐛 10,278 | 🌐 Go | 📅 2026-10-09 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
+Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 139,167 | 🐛 10,282 | 🌐 Go | 📅 2026-10-09 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
 
 ```
 grep -rnw "go:generate" -E -l "${1:-*.go}" . | xargs -L1 dirname | sort -u | xargs -P 8 -I{} go generate {}
@@ -1499,7 +1499,7 @@ Requirements
 go install github.com/zarldev/goenums@latest
 ```
 
-### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 808 | 🐛 99 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 809 | 🐛 99 | 🌐 Go | 📅 2026-10-09
 
 JSON Schema is a widely used standard for the definition of structured data types. This tool will generate a Go struct, decoder, and validation based on the JSON Schema spec. — [@omissis](https://github.com/omissis)
 
@@ -1625,13 +1625,13 @@ go install golang.org/x/tools/cmd/goimports@latest
 go install github.com/moznion/gonstructor/cmd/gonstructor@latest
 ```
 
-### [⏫](#contents) Generate Table Driven Tests with [gotests](https://github.com/cweill/gotests) ⭐ 5,336 | 🐛 39 | 🌐 Go | 📅 2025-10-30
+### [⏫](#contents) Generate Table Driven Tests with [gotests](https://github.com/cweill/gotests) ⭐ 5,335 | 🐛 39 | 🌐 Go | 📅 2025-10-30
 
 This tool generates basic test placeholder. It is included into official Go plugin in VSCode and other major code editors. — [@cweill](https://github.com/cweill)
 
 <div align="center"><img src="https://github.com/cweill/GoTests-Sublime/raw/master/gotests.gif" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,420 | 🐛 120 | 🌐 Go | 📅 2026-08-25
+### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,418 | 🐛 120 | 🌐 Go | 📅 2026-08-25
 
 This mocking framework integrates well with Go's built-in `testing` package, but can be used in other contexts too. — Go Core team, Uber
 
@@ -1863,7 +1863,7 @@ Requirements
 go install github.com/hexdigest/gowrap/cmd/gowrap@latest
 ```
 
-### [⏫](#contents) Modify struct field tags with [gomodifytags](https://github.com/fatih/gomodifytags) ⭐ 2,396 | 🐛 14 | 🌐 Go | 📅 2025-04-23
+### [⏫](#contents) Modify struct field tags with [gomodifytags](https://github.com/fatih/gomodifytags) ⭐ 2,396 | 🐛 15 | 🌐 Go | 📅 2025-04-23
 
 This tool makes it easy to update, add or delete the tags and options in a struct field. You can add new tags, update existing tags (such as appending a new key, i.e: db, xml, etc..) or remove existing tags. It's intended to be used by an editor, but also has modes to run it from the terminal. — [@fatih](https://github.com/fatih)
 
@@ -1875,7 +1875,7 @@ Requirements
 go install github.com/fatih/gomodifytags@latest
 ```
 
-### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,612 | 🐛 314 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,611 | 🐛 314 | 🌐 Go | 📅 2026-10-08
 
 Generate Go client and server boilerplate from OpenAPI 3 specifications. — [@deepmap](https://github.com/deepmap)
 
@@ -1889,7 +1889,7 @@ Requirements
 go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
 ```
 
-### [⏫](#contents) Generate C-Go Bindings with [c-for-go](https://github.com/xlab/c-for-go?tab=readme-ov-file) ⭐ 1,685 | 🐛 78 | 🌐 Go | 📅 2026-03-05
+### [⏫](#contents) Generate C-Go Bindings with [c-for-go](https://github.com/xlab/c-for-go?tab=readme-ov-file) ⭐ 1,686 | 🐛 78 | 🌐 Go | 📅 2026-03-05
 
 This project allows to reuse existing C/C++ libraries in your Go applications, by automatically creating c-go bindings for a given set of C headers and the manifest file. We believe in component-based software engineering and think that reusing C/C++ code in Go applications could bring a huge boost to developer's productivity and system's performance. Read more about the motivation: top reasons to use bindings. — [@xlab](https://github.com/xlab)
 
@@ -1916,7 +1916,7 @@ var (
 
 ### [⏫](#contents) Replace symbol with `gofmt`
 
-I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 139,135 | 🐛 10,278 | 🌐 Go | 📅 2026-10-09 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
+I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 139,167 | 🐛 10,282 | 🌐 Go | 📅 2026-10-09 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
 
 ```
 gofmt -w -r 'interface{} -> any' .
@@ -2311,7 +2311,7 @@ When import path is using custom domain, it is possible to block code from compi
 package pdf // import "rsc.io/pdf"
 ```
 
-### [⏫](#contents) Manage multiple Go versions with [Goenv](https://github.com/Norwik/Goenv) ⭐ 36 | 🐛 14 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Manage multiple Go versions with [Goenv](https://github.com/Norwik/Goenv) ⭐ 36 | 🐛 14 | 🌐 Go | 📅 2026-10-09
 
 This tool makes it easier for managing multiple Go versions on same host. This works through intercepting Go commands and directing them to the right Go version bin and directory. Official Go [documentation](https://go.dev/doc/manage-install) on this topic. — [@clivern](https://github.com/clivern)
 
@@ -2331,7 +2331,7 @@ Requirements
 go install github.com/gotranspile/cxgo/cmd/cxgo@latest
 ```
 
-### [⏫](#contents) Transpile Go to Javascript with [gopherjs](https://github.com/gopherjs/gopherjs) ⭐ 13,189 | 🐛 190 | 🌐 Go | 📅 2026-08-20
+### [⏫](#contents) Transpile Go to Javascript with [gopherjs](https://github.com/gopherjs/gopherjs) ⭐ 13,188 | 🐛 190 | 🌐 Go | 📅 2026-08-20
 
 GopherJS compiles Go code (go.dev) to pure JavaScript code. Its main purpose is to give you the opportunity to write front-end code in Go which will still run in all browsers. — [@neelance](https://github.com/neelance)
 
@@ -2708,7 +2708,7 @@ reverse proxy server to https://play.golang.org
 bloging platform with support for embedding javascript
 ```
 
-### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,490 | 🐛 8 | 🌐 Go | 📅 2026-10-01
+### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,489 | 🐛 8 | 🌐 Go | 📅 2026-10-01
 
 Improved Go Playground featuring dark theme, code autocomplete, vim mode, WebAssembly. Available at <https://goplay.tools/>. — [@x1unix](https://github.com/x1unix)
 
@@ -2720,7 +2720,7 @@ TinyGo is an alternative Go compiler that focuses on embedded devices, and WASM.
 
 <div align="center"><img src="img/tinygo-playground.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Run interactive Go kernels in Jupyter Notebook with [gophernotes](https://github.com/gopherdata/gophernotes) ⭐ 3,965 | 🐛 54 | 🌐 Go | 📅 2026-09-23
+### [⏫](#contents) Run interactive Go kernels in Jupyter Notebook with [gophernotes](https://github.com/gopherdata/gophernotes) ⭐ 3,966 | 🐛 54 | 🌐 Go | 📅 2026-09-23
 
 Run interactive Go interpreter in Jupyter Notebook browser. As of `2023-06-04`, it is using `gomacro` interpreter and can have issues with loading 3rd party packages. — [@gopherdata](https://github.com/gopherdata)
 
@@ -2734,7 +2734,7 @@ go install github.com/gopherdata/gophernotes@v0.7.5
 # more instructions on how to install Jupyter Notebook Go kernel in original repo
 ```
 
-### [⏫](#contents) Run interactive Go interpreter with [yaegi](https://github.com/traefik/yaegi) ⭐ 8,412 | 🐛 187 | 🌐 Go | 📅 2026-02-09
+### [⏫](#contents) Run interactive Go interpreter with [yaegi](https://github.com/traefik/yaegi) ⭐ 8,415 | 🐛 187 | 🌐 Go | 📅 2026-02-09
 
 This interpreter works with 3rd party packages located in `$GOPATH/src`. It can also be triggered within Go programmatically via `Eval()`. Works everywhere Go works. — [@traefik](https://github.com/traefik)
 
@@ -2992,7 +2992,7 @@ Requirements
 go install github.com/bcicen/grmon@latest
 ```
 
-### [⏫](#contents) Monitor Go processes with [gops](https://github.com/google/gops) ⭐ 7,020 | 🐛 36 | 🌐 Go | 📅 2026-07-16
+### [⏫](#contents) Monitor Go processes with [gops](https://github.com/google/gops) ⭐ 7,019 | 🐛 36 | 🌐 Go | 📅 2026-07-16
 
 Monitoring memory of Go processes, forcing GC, getting version of Go of processes. — Google
 
@@ -3031,7 +3031,7 @@ Requirements
 go install github.com/moderato-app/live-pprof@v1
 ```
 
-### [⏫](#contents) Monitor Go runtime metrics in browser with [statsviz](https://github.com/arl/statsviz) ⭐ 3,646 | 🐛 10 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Monitor Go runtime metrics in browser with [statsviz](https://github.com/arl/statsviz) ⭐ 3,645 | 🐛 10 | 🌐 Go | 📅 2026-10-09
 
 This tool exposes HTTP endpoint with charts for Go runtime such as heap, objects, goroutines, GC pauses, scheduler. This is useful drop-in solution for visualization of Go runtime. — [@arl](https://github.com/arl)
 
@@ -3043,7 +3043,7 @@ Requirements
 go get github.com/arl/statsviz@latest
 ```
 
-### [⏫](#contents) Auto-Instrument all functions with [go-instrument](https://github.com/nikolaydubina/go-instrument) ⭐ 302 | 🐛 3 | 🌐 Go | 📅 2026-08-15
+### [⏫](#contents) Auto-Instrument all functions with [go-instrument](https://github.com/nikolaydubina/go-instrument) ⭐ 301 | 🐛 3 | 🌐 Go | 📅 2026-08-15
 
 Automatically instrument all functions with Open Telemetry Spans by code generation. Inserts errors into Spans. — [@nikolaydubina](https://github.com/nikolaydubina)
 
@@ -3077,7 +3077,7 @@ Requirements
 go install github.com/hedhyw/otelinji/cmd/otelinji@latest
 ```
 
-### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 622 | 🐛 35 | 🌐 Go | 📅 2026-10-06
+### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 622 | 🐛 35 | 🌐 Go | 📅 2026-10-09
 
 This is official Datadog tool for automatic instrumentation of code. It has very convenient compiler directives for instrumentation. — [@DataDog](https://github.com/DataDog)
 
@@ -3097,7 +3097,7 @@ Requirements
 go install github.com/datadog/orchestrion@latest
 ```
 
-### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,698 | 🐛 429 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,697 | 🐛 402 | 🌐 Go | 📅 2026-10-09
 
 This tool allows to ingest profiling data from your application. You would need to add integration in your main file that will sample in-process data and send it to Pyroscope. Here are useful resources [blog-go-memory-leaks](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Grafana Labs
 
@@ -3402,7 +3402,7 @@ go install github.com/maruel/pat/cmd/...@latest
 
 ### [⏫](#contents) Continuous benchmarking
 
-Track how benchmarks change in codebase over time. This is accomplished by running benchmarks for git commits, storing results, and visualizing difference. Running benchmarks can be in GitHub Actions or locally, storage can be in same repository `master` or dedicated branch, or standalone servers. It should be straightforward to setup this manually. Example of GitHub Action [spec](https://github.com/swaggest/rest/blob/master/.github/workflows/bench.yml) ⭐ 487 | 🐛 19 | 🌐 Go | 📅 2026-09-17 and [blog](https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok) from [@vearutop](https://github.com/vearutop), and an example on how it produces a PR [comment](https://github.com/swaggest/rest/pull/88#issuecomment-1271540878) ⭐ 487 | 🐛 19 | 🌐 Go | 📅 2026-09-17.
+Track how benchmarks change in codebase over time. This is accomplished by running benchmarks for git commits, storing results, and visualizing difference. Running benchmarks can be in GitHub Actions or locally, storage can be in same repository `master` or dedicated branch, or standalone servers. It should be straightforward to setup this manually. Example of GitHub Action [spec](https://github.com/swaggest/rest/blob/master/.github/workflows/bench.yml) ⭐ 486 | 🐛 19 | 🌐 Go | 📅 2026-09-17 and [blog](https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok) from [@vearutop](https://github.com/vearutop), and an example on how it produces a PR [comment](https://github.com/swaggest/rest/pull/88#issuecomment-1271540878) ⭐ 486 | 🐛 19 | 🌐 Go | 📅 2026-09-17.
 
 <div align="center"><img src="img/cont-bench-vearutop.png" style="margin: 8px; max-height: 640px;"></div>
 
@@ -3539,7 +3539,7 @@ func main() {
 
 <div align="center"><img src="https://github.com/felixge/fgtrace/raw/main/assets/fgtrace-example.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Get on/off CPU profiles with [fgprof](https://github.com/felixge/fgprof) ⭐ 3,113 | 🐛 7 | 🌐 Go | 📅 2025-05-02
+### [⏫](#contents) Get on/off CPU profiles with [fgprof](https://github.com/felixge/fgprof) ⭐ 3,111 | 🐛 7 | 🌐 Go | 📅 2025-05-02
 
 This tool can be more illustrative of Go profiles than standard Go profiling. — [@felixge](https://github.com/felixge)
 
@@ -3568,7 +3568,7 @@ func main() {
 
 ## Document
 
-### [⏫](#contents) Make alternative documentation with [golds](https://github.com/go101/golds) ⭐ 652 | 🐛 21 | 🌐 Go | 📅 2026-08-06
+### [⏫](#contents) Make alternative documentation with [golds](https://github.com/go101/golds) ⭐ 651 | 🐛 21 | 🌐 Go | 📅 2026-08-06
 
 It has additional information like implementations of interface; promoted methods. The tool has nice minimalistic aesthetics. — [Tapir Liu](https://www.tapirgames.com)
 
@@ -3584,7 +3584,7 @@ Requirements
 go install go101.org/golds@latest
 ```
 
-### [⏫](#contents) Read Go binary documentation in `man` format with [goman](https://github.com/appliedgocode/goman) ⭐ 128 | 🐛 0 | 🌐 Go | 📅 2026-09-08
+### [⏫](#contents) Read Go binary documentation in `man` format with [goman](https://github.com/appliedgocode/goman) ⭐ 128 | 🐛 0 | 🌐 Go | 📅 2026-10-09
 
 This tool fetches the repo's readme as a man page replacement. — [@christophberger](https://github.com/christophberger)
 
@@ -3765,7 +3765,7 @@ Requirements
 go install github.com/google/capslock/cmd/capslock@latest
 ```
 
-### [⏫](#contents) Run static analysis with [gosec](https://github.com/securego/gosec) ⭐ 8,961 | 🐛 6 | 🌐 Go | 📅 2026-10-05
+### [⏫](#contents) Run static analysis with [gosec](https://github.com/securego/gosec) ⭐ 8,963 | 🐛 6 | 🌐 Go | 📅 2026-10-09
 
 This tool inspects source code for security problems by scanning the Go AST and SSA code representation. There are numerous rules it checks. — [@ccojocar](https://github.com/ccojocar)
 
@@ -3828,7 +3828,7 @@ Requirements
 go install github.com/picatz/taint/cmd/sqli@latest
 ```
 
-### [⏫](#contents) Use Microsoft Go compiler with [microsoft/go](https://github.com/microsoft/go) ⭐ 434 | 🐛 126 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Use Microsoft Go compiler with [microsoft/go](https://github.com/microsoft/go) ⭐ 431 | 🐛 127 | 🌐 Go | 📅 2026-10-09
 
 This is modified version of Go that can be used to build FIPS 140-2 compliant applications. — [@microsoft](https://github.com/microsoft)
 
@@ -3887,7 +3887,7 @@ func main() {
 }
 ```
 
-### [⏫](#contents) Detect most common issues with [staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,905 | 🐛 582 | 🌐 Go | 📅 2026-08-24
+### [⏫](#contents) Detect most common issues with [staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,904 | 🐛 574 | 🌐 Go | 📅 2026-10-09
 
 Start custom linters with this well-known linter. It contains 150+ high quality low false positive rate linters. It is widely adopted by Open Source and tech companies. [staticcheck.io](https://staticcheck.io/). — [@dominikh](https://github.com/dominikh)
 
@@ -3901,7 +3901,7 @@ Requirements
 go install honnef.co/go/tools/cmd/staticcheck@latest
 ```
 
-### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,551 | 🐛 58 | 🌐 Go | 📅 2026-10-07
+### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,549 | 🐛 61 | 🌐 Go | 📅 2026-10-07
 
 Highly configurable linter with strict presets for code review. It contains 100+ rules. [revive.run](https://revive.run/). — [@mgechev](https://github.com/mgechev)
 
@@ -3917,7 +3917,7 @@ Requirements
 go install github.com/mgechev/revive@latest
 ```
 
-### [⏫](#contents) Detect potential Nil panics with [nilaway](https://github.com/uber-go/nilaway) ⭐ 3,921 | 🐛 78 | 🌐 Go | 📅 2026-09-18
+### [⏫](#contents) Detect potential Nil panics with [nilaway](https://github.com/uber-go/nilaway) ⭐ 3,921 | 🐛 78 | 🌐 Go | 📅 2026-10-09
 
 This tool employs sophisticated static analysis techniques to catch Nil dereferences. More details in [blog](https://www.uber.com/en-IN/blog/nilaway-practical-nil-panic-detection-for-go/). — Uber
 
@@ -3975,7 +3975,7 @@ Requirements
 curl -sSfL https://raw.githubusercontent.com/golangci/golangci-lint/master/install.sh | sh -s -- -b $(go env GOPATH)/bin latest
 ```
 
-### [⏫](#contents) Detect non-exhaustive switch and map with [exhaustive](https://github.com/nishanths/exhaustive) ⭐ 350 | 🐛 3 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Detect non-exhaustive switch and map with [exhaustive](https://github.com/nishanths/exhaustive) ⭐ 350 | 🐛 3 | 🌐 Go | 📅 2026-10-09
 
 This `go vet` compatible analyzer checks for exhaustive switch statements and map literals. It works for enums with underlying integer, float, or string types (struct based enums are not supported). — [@nishanths](https://github.com/nishanths)
 
@@ -4067,7 +4067,7 @@ Requirements
 go get -u github.com/GaijinEntertainment/go-exhaustruct/v3/cmd/exhaustruct
 ```
 
-### [⏫](#contents) :gift: Detect missing cascade calls with [go-lint-cascade](https://github.com/nikolaydubina/go-lint-cascade) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-09-18
+### [⏫](#contents) :gift: Detect missing cascade calls with [go-lint-cascade](https://github.com/nikolaydubina/go-lint-cascade) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-09
 
 For example, if you have cascade calls for WithDefaults() in nested config structs, this linter will detect if you missed any WithDefaults() calls. — [@nikolaydubina](https://github.com/nikolaydubina)
 
@@ -4476,7 +4476,7 @@ Requirements
 go install github.com/tommy-muehle/go-mnd/v2/cmd/mnd@latest
 ```
 
-### [⏫](#contents) Detect magic strings with [goconst](https://github.com/jgautheron/goconst) ⭐ 320 | 🐛 1 | 🌐 Go | 📅 2026-07-29
+### [⏫](#contents) Detect magic strings with [goconst](https://github.com/jgautheron/goconst) ⭐ 319 | 🐛 1 | 🌐 Go | 📅 2026-07-29
 
 This tool detects repeated strings. — [@jgautheron](https://github.com/jgautheron)
 
@@ -4763,7 +4763,7 @@ Requirements
 go install github.com/esimonov/ifshort@latest
 ```
 
-### [⏫](#contents) Detect sub-optimal struct layout with [betteralign](https://github.com/dkorunic/betteralign) ⭐ 1,087 | 🐛 0 | 🌐 Go | 📅 2026-09-08
+### [⏫](#contents) Detect sub-optimal struct layout with [betteralign](https://github.com/dkorunic/betteralign) ⭐ 1,087 | 🐛 0 | 🌐 Go | 📅 2026-10-09
 
 This tool detect structs that would use less memory if their fields were sorted and optionally sort such fields. — [@dkorunic](https://github.com/dkorunic)
 
@@ -4777,7 +4777,7 @@ Requirements
 go install github.com/dkorunic/betteralign/cmd/betteralign@latest
 ```
 
-### [⏫](#contents) Detect sub-optimal struct layout with [structlayout-optimize](https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize) ⭐ 6,905 | 🐛 582 | 🌐 Go | 📅 2026-08-24
+### [⏫](#contents) Detect sub-optimal struct layout with [structlayout-optimize](https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize) ⭐ 6,904 | 🐛 574 | 🌐 Go | 📅 2026-10-09
 
 This tool reorders struct fields to minimize the amount of padding. — [@dominikh](https://github.com/dominikh)
 
@@ -4787,7 +4787,7 @@ Requirements
 go install https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize@latest
 ```
 
-### [⏫](#contents) Visualize struct layout with [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) ⭐ 6,905 | 🐛 582 | 🌐 Go | 📅 2026-08-24
+### [⏫](#contents) Visualize struct layout with [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) ⭐ 6,904 | 🐛 574 | 🌐 Go | 📅 2026-10-09
 
 Display the byte offset and size of each field, respecting alignment/padding. — [@dominikh](https://github.com/dominikh)
 
@@ -4864,4 +4864,4 @@ go install github.com/nikolaydubina/go-callsite-stats@latest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
