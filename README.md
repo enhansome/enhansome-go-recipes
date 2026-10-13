@@ -411,7 +411,7 @@ Requirements
 go install github.com/qiniu/goc@latest
 ```
 
-### [⏫](#contents) Detect drops in coverage with [go-test-coverage](https://github.com/vladopajic/go-test-coverage) ⭐ 240 | 🐛 9 | 🌐 Go | 📅 2026-10-05
+### [⏫](#contents) Detect drops in coverage with [go-test-coverage](https://github.com/vladopajic/go-test-coverage) ⭐ 240 | 🐛 11 | 🌐 Go | 📅 2026-10-12
 
 This tool is designed to report issues when test coverage falls below a specified threshold. Likely you would want to use it in the CI. — [@vladopajic](https://github.com/vladopajic)
 
@@ -435,7 +435,7 @@ A CLI tool and GitHub Action to post Go code coverage reports as a comment on yo
 
 This is a useful basic technique that should be more widely known (just like bisect). Read more in the blog post. — [@rsc](https://github.com/rsc)
 
-### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,026 | 🐛 133 | 🌐 Go | 📅 2026-10-10
+### [⏫](#contents) :gift: Manipulate coverage profiles with [gopherage](https://github.com/kubernetes/test-infra/blob/master/gopherage) ⭐ 4,026 | 🐛 135 | 🌐 Go | 📅 2026-10-12
 
 Kubernetes test-infra contains a couple of useful granular tools to manipulate coverage profiles. — [@kubernetes](https://github.com/kubernetes)
 
@@ -502,7 +502,7 @@ go test -list . | grep Fuzz | xargs -P 8 -I {} go test -fuzz {} -fuzztime 5s .
 
 This project provides a setup for fuzzing Go binaries using LibAFL. By leveraging Go native libFuzzer-compatible instrumentation (`sancov_8bit`), we enable advanced fuzzing capabilities beyond Go built-in fuzzing support. — [@srlabs](https://github.com/srlabs)
 
-### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,290 | 🐛 26 | 🌐 Go | 📅 2026-09-15
+### [⏫](#contents) Detect goroutine leaks with [goleak](https://github.com/uber-go/goleak) ⭐ 5,291 | 🐛 26 | 🌐 Go | 📅 2026-09-15
 
 Instrument your test cases with verification call. Alternatively, you can add single call in `TestMain`. This tool was recommended by Pyroscope in [blog](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Uber
 
@@ -553,7 +553,7 @@ Requirements
 go install github.com/roblaszczak/vgt@latest
 ```
 
-### [⏫](#contents) Summarize `go test` with [tparse](https://github.com/mfridman/tparse) ⭐ 1,260 | 🐛 26 | 🌐 Go | 📅 2025-11-27
+### [⏫](#contents) Summarize `go test` with [tparse](https://github.com/mfridman/tparse) ⭐ 1,259 | 🐛 26 | 🌐 Go | 📅 2025-11-27
 
 This lightweight wrapper around STDOUT of JSON of `go test` will nicely render colorized test status, details of failures, duration, coverage, and package summary. — [@mfridman](https://github.com/mfridman)
 
@@ -617,7 +617,7 @@ Requirements
 go install gotest.tools/gotestsum@latest
 ```
 
-### [⏫](#contents) Format `go test` results as documentation with [gotestdox](https://github.com/bitfield/gotestdox) ⭐ 204 | 🐛 3 | 🌐 Go | 📅 2026-07-22
+### [⏫](#contents) Format `go test` results as documentation with [gotestdox](https://github.com/bitfield/gotestdox) ⭐ 203 | 🐛 3 | 🌐 Go | 📅 2026-07-22
 
 Decorates `go test` results by converting CamelCaseTestNames into readable sentences. — [@bitfield](https://github.com/bitfield)
 
@@ -752,7 +752,7 @@ Requirements
 https://stedolan.github.io/jq/download/
 ```
 
-### [⏫](#contents) Perform Mutation Testing with [ooze](https://github.com/gtramontina/ooze) ⭐ 289 | 🐛 15 | 🌐 Go | 📅 2026-09-17
+### [⏫](#contents) Perform Mutation Testing with [ooze](https://github.com/gtramontina/ooze) ⭐ 289 | 🐛 15 | 🌐 Go | 📅 2026-10-13
 
 Mutation testing is a technique used to assess the quality and coverage of test suites. It involves introducing controlled changes to the code base, simulating common programming mistakes. These changes are, then, put to test against the test suites. A failing test suite is a good sign. It indicates that the tests are identifying mutations in the code—it "killed the mutant". If all tests pass, we have a surviving mutant. This highlights an area with weak coverage. It is an opportunity for improvement. — [@gtramontina](https://github.com/gtramontina)
 
@@ -768,7 +768,7 @@ Requirements
 go get github.com/gtramontina/ooze
 ```
 
-### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting](https://github.com/avito-tech/go-mutesting) ⭐ 277 | 🐛 25 | 🌐 Go | 📅 2026-10-02
+### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting](https://github.com/avito-tech/go-mutesting) ⭐ 278 | 🐛 25 | 🌐 Go | 📅 2026-10-02
 
 This is fork of [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) ⭐ 678 | 🐛 43 | 🌐 Go | 📅 2024-07-04. It has more mutators and latest updates. — [@vasiliyyudin](https://github.com/vasiliyyudin)
 
@@ -1183,7 +1183,7 @@ Requirements
 go install github.com/fe3dback/go-arch-lint@latest
 ```
 
-### [⏫](#contents) Check Clean Architecture with [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) ⭐ 983 | 🐛 5 | 🌐 Go | 📅 2021-11-08
+### [⏫](#contents) Check Clean Architecture with [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) ⭐ 982 | 🐛 5 | 🌐 Go | 📅 2021-11-08
 
 Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects. — [@roblaszczak](https://github.com/roblaszczak)
 
@@ -1405,7 +1405,7 @@ go install github.com/fe3dback/go-arch-lint@latest
 
 ### [⏫](#contents) Run `go:generate` in parallel
 
-Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 139,210 | 🐛 10,297 | 🌐 Go | 📅 2026-10-10 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
+Official Go team [encourages](https://github.com/golang/go/issues/20520) ⭐ 139,233 | 🐛 10,315 | 🌐 Go | 📅 2026-10-13 to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution below spawns multiple processes, each per pkg.
 
 ```
 grep -rnw "go:generate" -E -l "${1:-*.go}" . | xargs -L1 dirname | sort -u | xargs -P 8 -I{} go generate {}
@@ -1499,7 +1499,7 @@ Requirements
 go install github.com/zarldev/goenums@latest
 ```
 
-### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 809 | 🐛 99 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Generate data types from JSON Schema with [go-jsonschema](https://github.com/omissis/go-jsonschema) ⭐ 809 | 🐛 99 | 🌐 Go | 📅 2026-10-13
 
 JSON Schema is a widely used standard for the definition of structured data types. This tool will generate a Go struct, decoder, and validation based on the JSON Schema spec. — [@omissis](https://github.com/omissis)
 
@@ -1605,7 +1605,7 @@ go get github.com/atombender/go-jsonschema/...
 go install github.com/atombender/go-jsonschema@latest
 ```
 
-### [⏫](#contents) Generate constructor for a struct with [gonstructor](https://github.com/moznion/gonstructor) ⭐ 94 | 🐛 6 | 🌐 Go | 📅 2026-10-11
+### [⏫](#contents) Generate constructor for a struct with [gonstructor](https://github.com/moznion/gonstructor) ⭐ 94 | 🐛 7 | 🌐 Go | 📅 2026-10-13
 
 Constructor is a widely used useful pattern. This tool generates basic version of it that passes arguments to struct. It also supports initializer method. — [@moznion](https://github.com/moznion)
 
@@ -1631,7 +1631,7 @@ This tool generates basic test placeholder. It is included into official Go plug
 
 <div align="center"><img src="https://github.com/cweill/GoTests-Sublime/raw/master/gotests.gif" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,419 | 🐛 120 | 🌐 Go | 📅 2026-08-25
+### [⏫](#contents) Generate mocks with [mockgen](https://github.com/uber-go/mock) ⭐ 3,421 | 🐛 120 | 🌐 Go | 📅 2026-08-25
 
 This mocking framework integrates well with Go's built-in `testing` package, but can be used in other contexts too. — Go Core team, Uber
 
@@ -1875,7 +1875,7 @@ Requirements
 go install github.com/fatih/gomodifytags@latest
 ```
 
-### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,613 | 🐛 314 | 🌐 Go | 📅 2026-10-08
+### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,617 | 🐛 315 | 🌐 Go | 📅 2026-10-12
 
 Generate Go client and server boilerplate from OpenAPI 3 specifications. — [@deepmap](https://github.com/deepmap)
 
@@ -1916,7 +1916,7 @@ var (
 
 ### [⏫](#contents) Replace symbol with `gofmt`
 
-I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 139,210 | 🐛 10,297 | 🌐 Go | 📅 2026-10-10 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
+I found this in announcement [notice](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) ⭐ 139,233 | 🐛 10,315 | 🌐 Go | 📅 2026-10-13 of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
 
 ```
 gofmt -w -r 'interface{} -> any' .
@@ -2218,7 +2218,7 @@ Requirements
 go install github.com/gokrazy/tools/cmd/gok@main
 ```
 
-### [⏫](#contents) Visualise dependencies size in compiled binaries with [go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) ⭐ 2,185 | 🐛 5 | 🌐 Go | 📅 2026-10-07
+### [⏫](#contents) Visualise dependencies size in compiled binaries with [go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) ⭐ 2,183 | 🐛 7 | 🌐 Go | 📅 2026-10-12
 
 A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build. WebAssembly demo: <https://gsa.zxilly.dev>. — [@Zxilly](https://github.com/Zxilly)
 
@@ -2467,7 +2467,7 @@ Requirements
 go install github.com/maruel/pat/cmd/...@latest
 ```
 
-### [⏫](#contents) Generate Go assembly in Go with [avo](https://github.com/mmcloughlin/avo) ⭐ 2,990 | 🐛 101 | 🌐 Go | 📅 2026-10-05
+### [⏫](#contents) Generate Go assembly in Go with [avo](https://github.com/mmcloughlin/avo) ⭐ 2,989 | 🐛 101 | 🌐 Go | 📅 2026-10-05
 
 Write better quality Go assembly quicker in Go language itself. This tool conveniently generates stub for Go code to call your generated assembly. Used by Go core. — [@mmcloughlin](https://github.com/mmcloughlin)
 
@@ -2708,7 +2708,7 @@ reverse proxy server to https://play.golang.org
 bloging platform with support for embedding javascript
 ```
 
-### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,489 | 🐛 7 | 🌐 Go | 📅 2026-10-10
+### [⏫](#contents) Run alternative Go Playground with [goplay.tools](https://github.com/x1unix/go-playground) ⭐ 1,491 | 🐛 7 | 🌐 Go | 📅 2026-10-10
 
 Improved Go Playground featuring dark theme, code autocomplete, vim mode, WebAssembly. Available at <https://goplay.tools/>. — [@x1unix](https://github.com/x1unix)
 
@@ -3077,7 +3077,7 @@ Requirements
 go install github.com/hedhyw/otelinji/cmd/otelinji@latest
 ```
 
-### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 622 | 🐛 35 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Auto-Instrument functions for DataDog with [orchestrion](https://github.com/DataDog/orchestrion) ⭐ 623 | 🐛 28 | 🌐 Go | 📅 2026-10-12
 
 This is official Datadog tool for automatic instrumentation of code. It has very convenient compiler directives for instrumentation. — [@DataDog](https://github.com/DataDog)
 
@@ -3097,7 +3097,7 @@ Requirements
 go install github.com/datadog/orchestrion@latest
 ```
 
-### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,697 | 🐛 401 | 🌐 Go | 📅 2026-10-10
+### [⏫](#contents) Continuous Profiling with [Pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,697 | 🐛 406 | 🌐 Go | 📅 2026-10-12
 
 This tool allows to ingest profiling data from your application. You would need to add integration in your main file that will sample in-process data and send it to Pyroscope. Here are useful resources [blog-go-memory-leaks](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Grafana Labs
 
@@ -3430,7 +3430,7 @@ Requirements
 go install github.com/willabides/benchdiff/cmd/benchdiff
 ```
 
-### [⏫](#contents) Continuous benchmarking with [cob](https://github.com/knqyf263/cob) ⭐ 390 | 🐛 12 | 🌐 Go | 📅 2026-09-21
+### [⏫](#contents) Continuous benchmarking with [cob](https://github.com/knqyf263/cob) ⭐ 390 | 🐛 12 | 🌐 Go | 📅 2026-10-12
 
 Automate comparing benchmarks with `benchstat` between `HEAD` and `HEAD^1`. It can be used to block CI pipelines if benchmarks deteriorate. It reports output as text in CLI. This cane be useful in CI or in local development. — [@knqyf263](https://github.com/knqyf263)
 
@@ -3539,7 +3539,7 @@ func main() {
 
 <div align="center"><img src="https://github.com/felixge/fgtrace/raw/main/assets/fgtrace-example.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Get on/off CPU profiles with [fgprof](https://github.com/felixge/fgprof) ⭐ 3,111 | 🐛 7 | 🌐 Go | 📅 2025-05-02
+### [⏫](#contents) Get on/off CPU profiles with [fgprof](https://github.com/felixge/fgprof) ⭐ 3,112 | 🐛 7 | 🌐 Go | 📅 2025-05-02
 
 This tool can be more illustrative of Go profiles than standard Go profiling. — [@felixge](https://github.com/felixge)
 
@@ -3694,7 +3694,7 @@ func main() {
 
 * [Google](https://google.github.io/styleguide/go)
 
-* [Uber](https://github.com/uber-go/guide) ⭐ 17,737 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
+* [Uber](https://github.com/uber-go/guide) ⭐ 17,736 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
 
 * [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 
@@ -3733,7 +3733,7 @@ Vulnerability #1: GO-2023-1571
           - go install golang.org/x/vuln/cmd/govulncheck@latest
 ```
 
-### [⏫](#contents) Detect escalated privileges in dependencies with [capslock](https://github.com/google/capslock) ⭐ 1,181 | 🐛 15 | 🌐 Go | 📅 2026-10-06
+### [⏫](#contents) Detect escalated privileges in dependencies with [capslock](https://github.com/google/capslock) ⭐ 1,181 | 🐛 14 | 🌐 Go | 📅 2026-10-12
 
 Capslock is a capability analysis CLI for Go packages that informs users of which privileged operations a given package can access. This works by classifying the capabilities of Go packages by following transitive calls to privileged standard library operations. The recent increase in supply chain attacks targeting open source software has highlighted that third party dependencies should not be inherently trusted. Capabilities indicate what permissions a package has access to, and can be used in conjunction with other security signals to indicate which code requires additional scrutiny before it can be considered trusted. — Google
 
@@ -3765,7 +3765,7 @@ Requirements
 go install github.com/google/capslock/cmd/capslock@latest
 ```
 
-### [⏫](#contents) Run static analysis with [gosec](https://github.com/securego/gosec) ⭐ 8,964 | 🐛 7 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Run static analysis with [gosec](https://github.com/securego/gosec) ⭐ 8,965 | 🐛 8 | 🌐 Go | 📅 2026-10-12
 
 This tool inspects source code for security problems by scanning the Go AST and SSA code representation. There are numerous rules it checks. — [@ccojocar](https://github.com/ccojocar)
 
@@ -3828,7 +3828,7 @@ Requirements
 go install github.com/picatz/taint/cmd/sqli@latest
 ```
 
-### [⏫](#contents) Use Microsoft Go compiler with [microsoft/go](https://github.com/microsoft/go) ⭐ 431 | 🐛 126 | 🌐 Go | 📅 2026-10-10
+### [⏫](#contents) Use Microsoft Go compiler with [microsoft/go](https://github.com/microsoft/go) ⭐ 431 | 🐛 125 | 🌐 Go | 📅 2026-10-12
 
 This is modified version of Go that can be used to build FIPS 140-2 compliant applications. — [@microsoft](https://github.com/microsoft)
 
@@ -3887,7 +3887,7 @@ func main() {
 }
 ```
 
-### [⏫](#contents) Detect most common issues with [staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,906 | 🐛 574 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Detect most common issues with [staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,904 | 🐛 577 | 🌐 Go | 📅 2026-10-12
 
 Start custom linters with this well-known linter. It contains 150+ high quality low false positive rate linters. It is widely adopted by Open Source and tech companies. [staticcheck.io](https://staticcheck.io/). — [@dominikh](https://github.com/dominikh)
 
@@ -3901,7 +3901,7 @@ Requirements
 go install honnef.co/go/tools/cmd/staticcheck@latest
 ```
 
-### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,550 | 🐛 62 | 🌐 Go | 📅 2026-10-07
+### [⏫](#contents) Detect common style, performance, and naming issues with [revive](https://github.com/mgechev/revive) ⭐ 5,550 | 🐛 61 | 🌐 Go | 📅 2026-10-12
 
 Highly configurable linter with strict presets for code review. It contains 100+ rules. [revive.run](https://revive.run/). — [@mgechev](https://github.com/mgechev)
 
@@ -4580,7 +4580,7 @@ Requirements
 go install github.com/catenacyber/perfsprint@latest
 ```
 
-### [⏫](#contents) Calculate Cognitive Complexity with [gocognit](https://github.com/uudashr/gocognit) ⭐ 494 | 🐛 2 | 🌐 Go | 📅 2026-10-06
+### [⏫](#contents) Calculate Cognitive Complexity with [gocognit](https://github.com/uudashr/gocognit) ⭐ 495 | 🐛 2 | 🌐 Go | 📅 2026-10-06
 
 Cognitive Complexity as defined in this tool can be more illustrative than Cyclometric Complexity. Research paper ["Cognitive Complexity - a new way of measuring understandability"](https://www.sonarsource.com/docs/CognitiveComplexity.pdf), 2021. — [@uudashr](https://github.com/uudashr)
 
@@ -4777,7 +4777,7 @@ Requirements
 go install github.com/dkorunic/betteralign/cmd/betteralign@latest
 ```
 
-### [⏫](#contents) Detect sub-optimal struct layout with [structlayout-optimize](https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize) ⭐ 6,906 | 🐛 574 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Detect sub-optimal struct layout with [structlayout-optimize](https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize) ⭐ 6,904 | 🐛 577 | 🌐 Go | 📅 2026-10-12
 
 This tool reorders struct fields to minimize the amount of padding. — [@dominikh](https://github.com/dominikh)
 
@@ -4787,7 +4787,7 @@ Requirements
 go install https://github.com/dominikh/go-tools/blob/master/cmd/structlayout-optimize@latest
 ```
 
-### [⏫](#contents) Visualize struct layout with [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) ⭐ 6,906 | 🐛 574 | 🌐 Go | 📅 2026-10-09
+### [⏫](#contents) Visualize struct layout with [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout) ⭐ 6,904 | 🐛 577 | 🌐 Go | 📅 2026-10-12
 
 Display the byte offset and size of each field, respecting alignment/padding. — [@dominikh](https://github.com/dominikh)
 
@@ -4864,4 +4864,4 @@ go install github.com/nikolaydubina/go-callsite-stats@latest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
