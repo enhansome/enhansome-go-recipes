@@ -272,7 +272,7 @@
             "id": 57333709,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T20:37:14Z",
+            "last_commit": "2026-11-07T01:03:36Z",
             "open_issues": 129,
             "owner": "kubernetes",
             "repo": "test-infra",
@@ -320,7 +320,7 @@
             "open_issues": 26,
             "owner": "uber-go",
             "repo": "goleak",
-            "stars": 5306,
+            "stars": 5308,
             "topics": []
           },
           "title": "⏫ Detect goroutine leaks with goleak",
@@ -467,7 +467,7 @@
             "open_issues": 123,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2735,
+            "stars": 2737,
             "topics": [
               "ci",
               "go",
@@ -523,7 +523,7 @@
             "open_issues": 123,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2735,
+            "stars": 2737,
             "topics": [
               "ci",
               "go",
@@ -553,7 +553,7 @@
             "open_issues": 123,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2735,
+            "stars": 2737,
             "topics": [
               "ci",
               "go",
@@ -583,7 +583,7 @@
             "open_issues": 123,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2735,
+            "stars": 2737,
             "topics": [
               "ci",
               "go",
@@ -613,7 +613,7 @@
             "open_issues": 123,
             "owner": "gotestyourself",
             "repo": "gotestsum",
-            "stars": 2735,
+            "stars": 2737,
             "topics": [
               "ci",
               "go",
@@ -643,7 +643,7 @@
             "open_issues": 31,
             "owner": "jstemmer",
             "repo": "go-junit-report",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "go",
               "go-junit-report",
@@ -939,7 +939,7 @@
             "open_issues": 20,
             "owner": "loov",
             "repo": "goda",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "dependency-analysis",
               "go"
@@ -1453,7 +1453,7 @@
             "id": 150624828,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:41:51Z",
+            "last_commit": "2026-11-06T05:13:29Z",
             "open_issues": 102,
             "owner": "omissis",
             "repo": "go-jsonschema",
@@ -1668,7 +1668,7 @@
             "open_issues": 20,
             "owner": "hexdigest",
             "repo": "gowrap",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "code-generation",
               "decorators",
@@ -1728,7 +1728,7 @@
             "open_issues": 307,
             "owner": "oapi-codegen",
             "repo": "oapi-codegen",
-            "stars": 8644,
+            "stars": 8650,
             "topics": [
               "go",
               "golang",
@@ -1919,7 +1919,7 @@
             "open_issues": 4,
             "owner": "ztrue",
             "repo": "tracerr",
-            "stars": 1128,
+            "stars": 1127,
             "topics": [
               "debug",
               "error-handling",
@@ -2028,7 +2028,7 @@
             "open_issues": 6,
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2194,
+            "stars": 2195,
             "topics": [
               "analyzer",
               "binary",
@@ -2286,7 +2286,7 @@
             "id": 509987354,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-25T06:47:06Z",
+            "last_commit": "2026-11-06T12:32:46Z",
             "open_issues": 3,
             "owner": "loov",
             "repo": "lensm",
@@ -2553,10 +2553,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T10:34:07Z",
-            "open_issues": 194,
+            "open_issues": 197,
             "owner": "traefik",
             "repo": "yaegi",
-            "stars": 8437,
+            "stars": 8438,
             "topics": [
               "go",
               "golang",
@@ -2873,11 +2873,11 @@
             "id": 325724738,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T02:19:14Z",
+            "last_commit": "2026-11-06T19:13:36Z",
             "open_issues": 413,
             "owner": "grafana",
             "repo": "pyroscope",
-            "stars": 11712,
+            "stars": 11711,
             "topics": [
               "continuous-profiling",
               "developer-tools",
@@ -3273,10 +3273,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T15:19:02Z",
-            "open_issues": 3,
+            "open_issues": 6,
             "owner": "securego",
             "repo": "gosec",
-            "stars": 9001,
+            "stars": 9000,
             "topics": [
               "golang",
               "security",
@@ -3321,11 +3321,11 @@
             "id": 342718439,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T17:27:21Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-07T00:15:58Z",
+            "open_issues": 71,
             "owner": "microsoft",
             "repo": "go",
-            "stars": 433,
+            "stars": 434,
             "topics": []
           },
           "title": "⏫ Use Microsoft Go compiler with microsoft/go",
@@ -3379,7 +3379,7 @@
             "open_issues": 95,
             "owner": "revive-lint",
             "repo": "revive",
-            "stars": 5561,
+            "stars": 5563,
             "topics": [
               "ci",
               "go",
@@ -4008,7 +4008,7 @@
             "open_issues": 12,
             "owner": "fzipp",
             "repo": "gocyclo",
-            "stars": 1611,
+            "stars": 1612,
             "topics": [
               "code-metrics",
               "cyclomatic-complexity",
@@ -4211,7 +4211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:45:51.917Z",
+    "last_updated": "2026-11-07T02:17:16.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦩 Tools for Go projects",
